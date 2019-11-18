@@ -1,0 +1,2523 @@
+.nav-title-bhyt{
+  font-weight: normal;
+  font-style: italic;
+  font-size: 13px;
+}
+#section-booking-3, #section-booking-45,
+#section-booking-6, #section-booking-9,
+#section-booking-10, #section-booking-78 {
+  margin-bottom: 80px; }
+#section-booking-10 {
+  margin-bottom: 0px;
+}
+  #section-booking-3 .booking-left-menu .booking-left-menu-top, #section-booking-45 .booking-left-menu .booking-left-menu-top,
+  #section-booking-6 .booking-left-menu .booking-left-menu-top, #section-booking-9 .booking-left-menu .booking-left-menu-top,
+  #section-booking-10 .booking-left-menu .booking-left-menu-top, #section-booking-78 .booking-left-menu .booking-left-menu-top {
+    border: 1px solid #cdd8ea;
+    border-radius: 3px;
+    padding: 15px;
+    background: #fff;
+    margin-bottom: 20px; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-top .blmt-name, #section-booking-45 .booking-left-menu .booking-left-menu-top .blmt-name,
+    #section-booking-6 .booking-left-menu .booking-left-menu-top .blmt-name, #section-booking-9 .booking-left-menu .booking-left-menu-top .blmt-name,
+    #section-booking-10 .booking-left-menu .booking-left-menu-top .blmt-name, #section-booking-78 .booking-left-menu .booking-left-menu-top .blmt-name {
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: bold;
+      color: #4d4d4d;
+      margin-bottom: 10px; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-top .blmt-info, #section-booking-45 .booking-left-menu .booking-left-menu-top .blmt-info,
+    #section-booking-6 .booking-left-menu .booking-left-menu-top .blmt-info, #section-booking-9 .booking-left-menu .booking-left-menu-top .blmt-info,
+    #section-booking-10 .booking-left-menu .booking-left-menu-top .blmt-info, #section-booking-78 .booking-left-menu .booking-left-menu-top .blmt-info {
+      font-size: 14px;
+      margin-bottom: 5px;
+      color: #4d4d4d;
+        text-transform: capitalize;
+    }
+    #section-booking-3 .booking-left-menu .booking-left-menu-top .mg-bottom-0, #section-booking-45 .booking-left-menu .booking-left-menu-top .mg-bottom-0,
+    #section-booking-6 .booking-left-menu .booking-left-menu-top .mg-bottom-0, #section-booking-9 .booking-left-menu .booking-left-menu-top .mg-bottom-0,
+    #section-booking-10 .booking-left-menu .booking-left-menu-top .mg-bottom-0, #section-booking-78 .booking-left-menu .booking-left-menu-top .mg-bottom-0 {
+      margin-bottom: 0; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-top form, #section-booking-45 .booking-left-menu .booking-left-menu-top form,
+    #section-booking-6 .booking-left-menu .booking-left-menu-top form, #section-booking-9 .booking-left-menu .booking-left-menu-top form,
+    #section-booking-10 .booking-left-menu .booking-left-menu-top form, #section-booking-78 .booking-left-menu .booking-left-menu-top form {
+      padding: 0 15px;
+      padding-top: 20px;
+      margin: 0 -15px;
+      border-top: 1px solid #cdd8ea; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-top form .form-group, #section-booking-45 .booking-left-menu .booking-left-menu-top form .form-group,
+      #section-booking-6 .booking-left-menu .booking-left-menu-top form .form-group, #section-booking-9 .booking-left-menu .booking-left-menu-top form .form-group,
+      #section-booking-10 .booking-left-menu .booking-left-menu-top form .form-group, #section-booking-78 .booking-left-menu .booking-left-menu-top form .form-group {
+        margin-bottom: 0; }
+        #section-booking-3 .booking-left-menu .booking-left-menu-top form .form-group select, #section-booking-45 .booking-left-menu .booking-left-menu-top form .form-group select,
+        #section-booking-6 .booking-left-menu .booking-left-menu-top form .form-group select, #section-booking-9 .booking-left-menu .booking-left-menu-top form .form-group select,
+        #section-booking-10 .booking-left-menu .booking-left-menu-top form .form-group select, #section-booking-78 .booking-left-menu .booking-left-menu-top form .form-group select {
+          height: 42px;
+          font-size: 12px;
+          color: #696969;
+          outline: none; }
+  #section-booking-3 .booking-left-menu .booking-left-menu-ordered, #section-booking-45 .booking-left-menu .booking-left-menu-ordered,
+  #section-booking-6 .booking-left-menu .booking-left-menu-ordered, #section-booking-9 .booking-left-menu .booking-left-menu-ordered,
+  #section-booking-10 .booking-left-menu .booking-left-menu-ordered, #section-booking-78 .booking-left-menu .booking-left-menu-ordered {
+    border: 1px solid #cdd8ea;
+    border-radius: 3px;
+    padding: 20px 15px;
+    background: #fff;
+    margin-bottom: 20px;
+    display: none; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-ordered.show, #section-booking-45 .booking-left-menu .booking-left-menu-ordered.show,
+    #section-booking-6 .booking-left-menu .booking-left-menu-ordered.show, #section-booking-9 .booking-left-menu .booking-left-menu-ordered.show,
+    #section-booking-10 .booking-left-menu .booking-left-menu-ordered.show, #section-booking-78 .booking-left-menu .booking-left-menu-ordered.show {
+      display: block; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-ordered .blmp-name, #section-booking-45 .booking-left-menu .booking-left-menu-ordered .blmp-name,
+    #section-booking-6 .booking-left-menu .booking-left-menu-ordered .blmp-name, #section-booking-9 .booking-left-menu .booking-left-menu-ordered .blmp-name,
+    #section-booking-10 .booking-left-menu .booking-left-menu-ordered .blmp-name, #section-booking-78 .booking-left-menu .booking-left-menu-ordered .blmp-name {
+      font-size: 14px;
+      font-weight: bold;
+      color: #4d4d4d;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      position: relative; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-ordered .blmp-name:after, #section-booking-45 .booking-left-menu .booking-left-menu-ordered .blmp-name:after,
+      #section-booking-6 .booking-left-menu .booking-left-menu-ordered .blmp-name:after, #section-booking-9 .booking-left-menu .booking-left-menu-ordered .blmp-name:after,
+      #section-booking-10 .booking-left-menu .booking-left-menu-ordered .blmp-name:after, #section-booking-78 .booking-left-menu .booking-left-menu-ordered .blmp-name:after {
+        content: '';
+        background: #cdd8ea;
+        width: 80%;
+        height: 1px;
+        position: absolute;
+        left: 10%;
+        bottom: 0;
+        right: 10%; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-ordered p, #section-booking-45 .booking-left-menu .booking-left-menu-ordered p,
+    #section-booking-6 .booking-left-menu .booking-left-menu-ordered p, #section-booking-9 .booking-left-menu .booking-left-menu-ordered p,
+    #section-booking-10 .booking-left-menu .booking-left-menu-ordered p, #section-booking-78 .booking-left-menu .booking-left-menu-ordered p {
+      font-size: 14px;
+      color: #696969;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-ordered p span, #section-booking-45 .booking-left-menu .booking-left-menu-ordered p span,
+      #section-booking-6 .booking-left-menu .booking-left-menu-ordered p span, #section-booking-9 .booking-left-menu .booking-left-menu-ordered p span,
+      #section-booking-10 .booking-left-menu .booking-left-menu-ordered p span, #section-booking-78 .booking-left-menu .booking-left-menu-ordered p span {
+        margin-left: 10px; }
+  #section-booking-3 .booking-left-menu .booking-left-menu-process, #section-booking-45 .booking-left-menu .booking-left-menu-process,
+  #section-booking-6 .booking-left-menu .booking-left-menu-process, #section-booking-9 .booking-left-menu .booking-left-menu-process,
+  #section-booking-10 .booking-left-menu .booking-left-menu-process, #section-booking-78 .booking-left-menu .booking-left-menu-process {
+    border: 1px solid #cdd8ea;
+    border-radius: 3px;
+    padding: 20px 15px;
+    background: #fff;
+    margin-bottom: 20px; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-process .blmp-name, #section-booking-45 .booking-left-menu .booking-left-menu-process .blmp-name,
+    #section-booking-6 .booking-left-menu .booking-left-menu-process .blmp-name, #section-booking-9 .booking-left-menu .booking-left-menu-process .blmp-name,
+    #section-booking-10 .booking-left-menu .booking-left-menu-process .blmp-name, #section-booking-78 .booking-left-menu .booking-left-menu-process .blmp-name {
+      font-size: 14px;
+      font-weight: bold;
+      color: #4d4d4d;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      position: relative; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-process .blmp-name:after, #section-booking-45 .booking-left-menu .booking-left-menu-process .blmp-name:after,
+      #section-booking-6 .booking-left-menu .booking-left-menu-process .blmp-name:after, #section-booking-9 .booking-left-menu .booking-left-menu-process .blmp-name:after,
+      #section-booking-10 .booking-left-menu .booking-left-menu-process .blmp-name:after, #section-booking-78 .booking-left-menu .booking-left-menu-process .blmp-name:after {
+        content: '';
+        background: #cdd8ea;
+        width: 80%;
+        height: 1px;
+        position: absolute;
+        left: 10%;
+        bottom: 0;
+        right: 10%; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-process i.fa-map-marker-alt, #section-booking-45 .booking-left-menu .booking-left-menu-process i.fa-map-marker-alt,
+    #section-booking-6 .booking-left-menu .booking-left-menu-process i.fa-map-marker-alt, #section-booking-9 .booking-left-menu .booking-left-menu-process i.fa-map-marker-alt,
+    #section-booking-10 .booking-left-menu .booking-left-menu-process i.fa-map-marker-alt, #section-booking-78 .booking-left-menu .booking-left-menu-process i.fa-map-marker-alt {
+      margin-right: 10px; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-process .blmp-bv, #section-booking-45 .booking-left-menu .booking-left-menu-process .blmp-bv,
+    #section-booking-6 .booking-left-menu .booking-left-menu-process .blmp-bv, #section-booking-9 .booking-left-menu .booking-left-menu-process .blmp-bv,
+    #section-booking-10 .booking-left-menu .booking-left-menu-process .blmp-bv, #section-booking-78 .booking-left-menu .booking-left-menu-process .blmp-bv {
+      color: #307be7;
+      font-size: 14px;
+      font-weight: bold;
+      position: relative;
+      margin-bottom: 25px; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-process .blmp-link, #section-booking-45 .booking-left-menu .booking-left-menu-process .blmp-link,
+    #section-booking-6 .booking-left-menu .booking-left-menu-process .blmp-link, #section-booking-9 .booking-left-menu .booking-left-menu-process .blmp-link,
+    #section-booking-10 .booking-left-menu .booking-left-menu-process .blmp-link, #section-booking-78 .booking-left-menu .booking-left-menu-process .blmp-link {
+      font-size: 14px;
+      color: #696969;
+      margin-bottom: 15px;
+      position: relative;
+      padding-right: 20px;
+      transition: all .2s ease; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-process .blmp-link i, #section-booking-45 .booking-left-menu .booking-left-menu-process .blmp-link i,
+      #section-booking-6 .booking-left-menu .booking-left-menu-process .blmp-link i, #section-booking-9 .booking-left-menu .booking-left-menu-process .blmp-link i,
+      #section-booking-10 .booking-left-menu .booking-left-menu-process .blmp-link i, #section-booking-78 .booking-left-menu .booking-left-menu-process .blmp-link i {
+        position: absolute;
+        top: 1px;
+        right: 0;
+        transition: all .2s ease; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-process .blmp-link.active, #section-booking-45 .booking-left-menu .booking-left-menu-process .blmp-link.active,
+      #section-booking-6 .booking-left-menu .booking-left-menu-process .blmp-link.active, #section-booking-9 .booking-left-menu .booking-left-menu-process .blmp-link.active,
+      #section-booking-10 .booking-left-menu .booking-left-menu-process .blmp-link.active, #section-booking-78 .booking-left-menu .booking-left-menu-process .blmp-link.active {
+        color: #307be7; }
+  #section-booking-3 .booking-left-menu .booking-left-menu-hotline, #section-booking-45 .booking-left-menu .booking-left-menu-hotline,
+  #section-booking-6 .booking-left-menu .booking-left-menu-hotline, #section-booking-9 .booking-left-menu .booking-left-menu-hotline,
+  #section-booking-10 .booking-left-menu .booking-left-menu-hotline, #section-booking-78 .booking-left-menu .booking-left-menu-hotline,
+  #quy-trinh-page .booking-left-menu-hotline {
+      margin-top:20px;
+      text-align: center;
+      border: 1px solid #cdd8ea;
+      background: #fff;
+      border-radius: 3px;
+      padding: 20px; }
+    #section-booking-3 .booking-left-menu .booking-left-menu-hotline .blmh-name, #section-booking-45 .booking-left-menu .booking-left-menu-hotline .blmh-name,
+    #section-booking-6 .booking-left-menu .booking-left-menu-hotline .blmh-name, #section-booking-9 .booking-left-menu .booking-left-menu-hotline .blmh-name,
+    #section-booking-10 .booking-left-menu .booking-left-menu-hotline .blmh-name, #section-booking-78 .booking-left-menu .booking-left-menu-hotline .blmh-name,
+    #quy-trinh-page .booking-left-menu-hotline .blmh-name{
+      color: #4d4d4d;
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      text-transform: uppercase;
+    }
+    #section-booking-3 .booking-left-menu .booking-left-menu-hotline a, #section-booking-45 .booking-left-menu .booking-left-menu-hotline a,
+    #section-booking-6 .booking-left-menu .booking-left-menu-hotline a, #section-booking-9 .booking-left-menu .booking-left-menu-hotline a,
+    #section-booking-10 .booking-left-menu .booking-left-menu-hotline a, #section-booking-78 .booking-left-menu .booking-left-menu-hotline a,
+    #quy-trinh-page .booking-left-menu-hotline a {
+      font-size: 30px;
+        color: #307be7;
+        font-weight: bold;
+        letter-spacing: 5px; 
+        transition: all .2s ease; }
+      #section-booking-3 .booking-left-menu .booking-left-menu-hotline a:hover, #section-booking-3 .booking-left-menu .booking-left-menu-hotline a:focus, #section-booking-45 .booking-left-menu .booking-left-menu-hotline a:hover, #section-booking-45 .booking-left-menu .booking-left-menu-hotline a:focus,
+      #section-booking-6 .booking-left-menu .booking-left-menu-hotline a:hover,
+      #section-booking-6 .booking-left-menu .booking-left-menu-hotline a:focus, #section-booking-9 .booking-left-menu .booking-left-menu-hotline a:hover, #section-booking-9 .booking-left-menu .booking-left-menu-hotline a:focus,
+      #section-booking-10 .booking-left-menu .booking-left-menu-hotline a:hover,
+      #section-booking-10 .booking-left-menu .booking-left-menu-hotline a:focus, #section-booking-78 .booking-left-menu .booking-left-menu-hotline a:hover, #section-booking-78 .booking-left-menu .booking-left-menu-hotline a:focus,
+      #quy-trinh-page .booking-left-menu-hotline a:hover, #quy-trinh-page .booking-left-menu-hotline a:focus {
+        color: #19B934; 
+          transition: all .2s ease;
+        }
+  #section-booking-3 .booking-right-calendar, #section-booking-45 .booking-right-calendar,
+  #section-booking-6 .booking-right-calendar, #section-booking-9 .booking-right-calendar,
+  #section-booking-10 .booking-right-calendar, #section-booking-78 .booking-right-calendar {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    /* padding: 30px 42px; */
+    height: auto;
+    transition: all .2s ease; }
+#section-booking-3 .booking-right-calendar .search-carlendar, #section-booking-45 .booking-right-calendar .search-carlendar,
+#section-booking-6 .booking-right-calendar .search-carlendar, #section-booking-9 .booking-right-calendar .search-carlendar,
+#section-booking-10 .booking-right-calendar .search-carlendar, #section-booking-78 .booking-right-calendar .search-carlendar {
+    vertical-align: middle;
+    padding: 0 0 20px;
+}
+#section-booking-3 .booking-right-calendar .search-carlendar span, #section-booking-45 .booking-right-calendar .search-carlendar span,
+#section-booking-6 .booking-right-calendar .search-carlendar span, #section-booking-9 .booking-right-calendar .search-carlendar span,
+#section-booking-10 .booking-right-calendar .search-carlendar span, #section-booking-78 .booking-right-calendar .search-carlendar span{
+    line-height: 39px;
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+#section-booking-3 .booking-right-calendar .search-carlendar input, #section-booking-45 .booking-right-calendar .search-carlendar input,
+#section-booking-6 .booking-right-calendar .search-carlendar input, #section-booking-9 .booking-right-calendar .search-carlendar input,
+#section-booking-10 .booking-right-calendar .search-carlendar input, #section-booking-78 .booking-right-calendar .search-carlendar input {
+    padding: 6px 10px 5px;
+    border-radius: 2px;
+    border: 1px solid #dadee5;
+}
+
+#section-booking-3 .booking-right-calendar .search-carlendar button, #section-booking-45 .booking-right-calendar .search-carlendar button,
+#section-booking-6 .booking-right-calendar .search-carlendar button, #section-booking-9 .booking-right-calendar .search-carlendar button,
+#section-booking-10 .booking-right-calendar .search-carlendar button, #section-booking-78 .booking-right-calendar .search-carlendar button {
+    width: 100%;
+    padding: 10px 13px 10px;
+    cursor: pointer;
+}
+
+    @media screen and (max-width: 767px) {
+      #section-booking-3 .booking-right-calendar, #section-booking-45 .booking-right-calendar,
+      #section-booking-6 .booking-right-calendar, #section-booking-9 .booking-right-calendar,
+      #section-booking-10 .booking-right-calendar, #section-booking-78 .booking-right-calendar,
+      #section-find-doctor-2 .booking-right-calendar, #section-booking-78 .booking-right-calendar{
+        padding: 10px 0px;
+        margin-bottom: 20px } }
+    #section-booking-3 .booking-right-calendar .brc-top, #section-booking-45 .booking-right-calendar .brc-top,
+    #section-booking-6 .booking-right-calendar .brc-top, #section-booking-9 .booking-right-calendar .brc-top,
+    #section-booking-10 .booking-right-calendar .brc-top, #section-booking-78 .booking-right-calendar .brc-top,
+    #section-find-doctor-2 .booking-right-calendar .brc-top  {
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      padding: 25px 10px;
+      border-bottom: 1px solid #cdd8ea;
+      position: relative; }
+
+#section-booking-3 .booking-right-calendar .brc-top .arrow-left, #section-booking-45 .booking-right-calendar .brc-top .arrow-left,
+#section-booking-6 .booking-right-calendar .brc-top .arrow-left, #section-booking-9 .booking-right-calendar .brc-top .arrow-left,
+#section-booking-10 .booking-right-calendar .brc-top .arrow-left, #section-booking-78 .booking-right-calendar .brc-top .arrow-left,
+#section-booking-3 .booking-right-calendar .brc-top .arrow-right, #section-booking-45 .booking-right-calendar .brc-top .arrow-right,
+#section-booking-6 .booking-right-calendar .brc-top .arrow-right, #section-booking-9 .booking-right-calendar .brc-top .arrow-right,
+#section-booking-10 .booking-right-calendar .brc-top .arrow-right, #section-booking-78 .booking-right-calendar .brc-top .arrow-right,
+#section-find-doctor-2 .booking-right-calendar .brc-top .arrow-left, #section-find-doctor-2 .booking-right-calendar .brc-top .arrow-right {
+  border: none;
+  display: flex;
+  font-size: 22px;
+  cursor: pointer;
+  color: #307be7;
+  background: transparent;
+}
+
+#section-booking-3 .booking-right-calendar .brc-top .arrow-right, #section-booking-45 .booking-right-calendar .brc-top .arrow-right,
+#section-booking-6 .booking-right-calendar .brc-top .arrow-right, #section-booking-9 .booking-right-calendar .brc-top .arrow-right,
+#section-booking-10 .booking-right-calendar .brc-top .arrow-right, #section-booking-78 .booking-right-calendar .brc-top .arrow-right,
+#section-find-doctor-2 .booking-right-calendar .brc-top .arrow-right {
+  margin-left: 15px;
+}
+
+#section-booking-3 .booking-right-calendar .brc-top .arrow-left, #section-booking-45 .booking-right-calendar .brc-top .arrow-left,
+#section-booking-6 .booking-right-calendar .brc-top .arrow-left, #section-booking-9 .booking-right-calendar .brc-top .arrow-left,
+#section-booking-10 .booking-right-calendar .brc-top .arrow-left, #section-booking-78 .booking-right-calendar .brc-top .arrow-left,
+#section-find-doctor-2 .booking-right-calendar .brc-top .arrow-left {
+  margin-right: 15px;
+}
+
+#section-booking-3 .booking-right-calendar .brc-top .arrow-left:hover, #section-booking-45 .booking-right-calendar .brc-top .arrow-left:hover,
+#section-booking-6 .booking-right-calendar .brc-top .arrow-left:hover, #section-booking-9 .booking-right-calendar .brc-top .arrow-left:hover,
+#section-booking-10 .booking-right-calendar .brc-top .arrow-left:hover, #section-booking-78 .booking-right-calendar .brc-top .arrow-left:hover,
+#section-booking-3 .booking-right-calendar .brc-top .arrow-right:hover, #section-booking-45 .booking-right-calendar .brc-top .arrow-right:hover,
+#section-booking-6 .booking-right-calendar .brc-top .arrow-right:hover, #section-booking-9 .booking-right-calendar .brc-top .arrow-right:hover,
+#section-booking-10 .booking-right-calendar .brc-top .arrow-right:hover, #section-booking-78 .booking-right-calendar .brc-top .arrow-right:hover {
+  color: #19B934;
+}
+
+
+#section-booking-3 .booking-right-calendar .mounth-title,
+#section-find-doctor-2 .booking-right-calendar .mounth-title{
+  color: #307be7;
+  font-weight: 300;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-bottom: 0;
+  transition: all .2ms ease-out;
+}
+
+      #section-booking-3 .booking-right-calendar .brc-top .btn-group button, #section-booking-45 .booking-right-calendar .brc-top .btn-group button,
+      #section-booking-6 .booking-right-calendar .brc-top .btn-group button, #section-booking-9 .booking-right-calendar .brc-top .btn-group button,
+      #section-booking-10 .booking-right-calendar .brc-top .btn-group button, #section-booking-78 .booking-right-calendar .brc-top .btn-group button {
+        outline: none !important;
+        box-shadow: none !important;
+        border: none !important;
+        background: transparent; }
+        #section-booking-3 .booking-right-calendar .brc-top .btn-group button.btn-default-text, #section-booking-45 .booking-right-calendar .brc-top .btn-group button.btn-default-text,
+        #section-booking-6 .booking-right-calendar .brc-top .btn-group button.btn-default-text, #section-booking-9 .booking-right-calendar .brc-top .btn-group button.btn-default-text,
+        #section-booking-10 .booking-right-calendar .brc-top .btn-group button.btn-default-text, #section-booking-78 .booking-right-calendar .brc-top .btn-group button.btn-default-text {
+          font-size: 16px;
+          font-weight: bold;
+          color: #307be7;
+          padding: 0;
+        }
+        #section-booking-3 .booking-right-calendar .brc-top .btn-group button.btn-default-left, #section-booking-45 .booking-right-calendar .brc-top .btn-group button.btn-default-left,
+        #section-booking-6 .booking-right-calendar .brc-top .btn-group button.btn-default-left, #section-booking-9 .booking-right-calendar .brc-top .btn-group button.btn-default-left,
+        #section-booking-10 .booking-right-calendar .brc-top .btn-group button.btn-default-left, #section-booking-78 .booking-right-calendar .brc-top .btn-group button.btn-default-left {
+          padding: 0px;
+          margin-right: 20px; }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-calendar .brc-top .btn-group button.btn-default-left, #section-booking-45 .booking-right-calendar .brc-top .btn-group button.btn-default-left,
+            #section-booking-6 .booking-right-calendar .brc-top .btn-group button.btn-default-left, #section-booking-9 .booking-right-calendar .brc-top .btn-group button.btn-default-left,
+            #section-booking-10 .booking-right-calendar .brc-top .btn-group button.btn-default-left, #section-booking-78 .booking-right-calendar .brc-top .btn-group button.btn-default-left {
+              margin-right: 10px; } }
+        #section-booking-3 .booking-right-calendar .brc-top .btn-group button.btn-default-right, #section-booking-45 .booking-right-calendar .brc-top .btn-group button.btn-default-right,
+        #section-booking-6 .booking-right-calendar .brc-top .btn-group button.btn-default-right, #section-booking-9 .booking-right-calendar .brc-top .btn-group button.btn-default-right,
+        #section-booking-10 .booking-right-calendar .brc-top .btn-group button.btn-default-right, #section-booking-78 .booking-right-calendar .brc-top .btn-group button.btn-default-right {
+          padding:0;
+          padding-left: 20px;
+          margin-left: 0px; }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-calendar .brc-top .btn-group button.btn-default-right, #section-booking-45 .booking-right-calendar .brc-top .btn-group button.btn-default-right,
+            #section-booking-6 .booking-right-calendar .brc-top .btn-group button.btn-default-right, #section-booking-9 .booking-right-calendar .brc-top .btn-group button.btn-default-right,
+            #section-booking-10 .booking-right-calendar .brc-top .btn-group button.btn-default-right, #section-booking-78 .booking-right-calendar .brc-top .btn-group button.btn-default-right {
+              margin-left: 10px; } }
+        #section-booking-3 .booking-right-calendar .brc-top .btn-group button i, #section-booking-45 .booking-right-calendar .brc-top .btn-group button i,
+        #section-booking-6 .booking-right-calendar .brc-top .btn-group button i, #section-booking-9 .booking-right-calendar .brc-top .btn-group button i,
+        #section-booking-10 .booking-right-calendar .brc-top .btn-group button i, #section-booking-78 .booking-right-calendar .brc-top .btn-group button i {
+          color: #cdd8ea;
+          font-size: 30px;
+          transition: all .2s ease; }
+@media screen and (max-width: 767px) {
+    #section-booking-3 .booking-right-calendar .brc-top .btn-group button i {
+        padding: 4px 0 0;
+        font-size: 20px;
+    }
+    #section-booking-3 .booking-right-calendar .brc-top .btn-group button.btn-default-text {
+        font-size: 15px;
+         }
+}
+      #section-booking-3 .booking-right-calendar .brc-top .brct-note, #section-booking-45 .booking-right-calendar .brc-top .brct-note,
+      #section-booking-6 .booking-right-calendar .brc-top .brct-note, #section-booking-9 .booking-right-calendar .brc-top .brct-note,
+      #section-booking-10 .booking-right-calendar .brc-top .brct-note, #section-booking-78 .booking-right-calendar .brc-top .brct-note {
+        font-size: 12px;
+        color: #faa01f;
+        font-weight: bold;
+        margin-left: 60px;
+        position: absolute;
+        right: 30px; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-calendar .brc-top .brct-note, #section-booking-45 .booking-right-calendar .brc-top .brct-note,
+          #section-booking-6 .booking-right-calendar .brc-top .brct-note, #section-booking-9 .booking-right-calendar .brc-top .brct-note,
+          #section-booking-10 .booking-right-calendar .brc-top .brct-note, #section-booking-78 .booking-right-calendar .brc-top .brct-note {
+            position: relative;
+            margin-left: auto; } }
+        @media screen and (max-width: 767px) {
+          #section-booking-3 .booking-right-calendar .brc-top .brct-note, #section-booking-45 .booking-right-calendar .brc-top .brct-note,
+          #section-booking-6 .booking-right-calendar .brc-top .brct-note, #section-booking-9 .booking-right-calendar .brc-top .brct-note,
+          #section-booking-10 .booking-right-calendar .brc-top .brct-note, #section-booking-78 .booking-right-calendar .brc-top .brct-note {
+            margin-top: 15px; } }
+#section-booking-3 .booking-right-calendar .table.calTable, #section-booking-45 .booking-right-calendar .table.calTable,
+#section-booking-6 .booking-right-calendar .table.calTable, #section-booking-9 .booking-right-calendar .table.calTable,
+#section-booking-10 .booking-right-calendar .table.calTable, #section-booking-78 .booking-right-calendar .table.calTable {
+  margin-bottom: 0; }
+#section-booking-3 .booking-right-calendar .table.calTable tbody tr.btn-booking-tr.hidden, #section-booking-45 .booking-right-calendar .table.calTable tbody tr.btn-booking-tr.hidden,
+#section-booking-6 .booking-right-calendar .table.calTable tbody tr.btn-booking-tr.hidden, #section-booking-9 .booking-right-calendar .table.calTable tbody tr.btn-booking-tr.hidden,
+#section-booking-10 .booking-right-calendar .table.calTable tbody tr.btn-booking-tr.hidden, #section-booking-78 .booking-right-calendar .table.calTable tbody tr.btn-booking-tr.hidden {
+  display: none; }
+#section-booking-3 .booking-right-calendar .table.calTable tbody td, #section-booking-3 .booking-right-calendar .table.calTable tbody th, #section-booking-45 .booking-right-calendar .table.calTable tbody td, #section-booking-45 .booking-right-calendar .table.calTable tbody th,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td,
+#section-booking-6 .booking-right-calendar .table.calTable tbody th, #section-booking-9 .booking-right-calendar .table.calTable tbody td, #section-booking-9 .booking-right-calendar .table.calTable tbody th,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td,
+#section-booking-10 .booking-right-calendar .table.calTable tbody th, #section-booking-78 .booking-right-calendar .table.calTable tbody td, #section-booking-78 .booking-right-calendar .table.calTable tbody th {
+  width: 14.2857142857%;
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 14px;
+  font-weight: 700;
+  border-right: 1px solid #dee2e6;
+    padding: 1rem;
+}
+#section-booking-3 .booking-right-calendar .table.calTable tbody td:last-child,
+#section-booking-3 .booking-right-calendar .table.calTable tbody th:last-child,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody td:last-child,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody th:last-child
+{
+  border-right: none;
+}
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td, #section-booking-3 .booking-right-calendar .table.calTable tbody th, #section-booking-45 .booking-right-calendar .table.calTable tbody td, #section-booking-45 .booking-right-calendar .table.calTable tbody th,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody td,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody th, #section-booking-9 .booking-right-calendar .table.calTable tbody td, #section-booking-9 .booking-right-calendar .table.calTable tbody th,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody td,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody th, #section-booking-78 .booking-right-calendar .table.calTable tbody td, #section-booking-78 .booking-right-calendar .table.calTable tbody th {
+    font-size: 12px; } }
+#section-booking-3 .booking-right-calendar .table.calTable tbody th, #section-booking-45 .booking-right-calendar .table.calTable tbody th,
+#section-booking-6 .booking-right-calendar .table.calTable tbody th, #section-booking-9 .booking-right-calendar .table.calTable tbody th,
+#section-booking-10 .booking-right-calendar .table.calTable tbody th, #section-booking-78 .booking-right-calendar .table.calTable tbody th {
+  padding: 10px 10px;
+  border-top: 0; }
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .table.calTable tbody th, #section-booking-45 .booking-right-calendar .table.calTable tbody th,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody th, #section-booking-9 .booking-right-calendar .table.calTable tbody th,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody th, #section-booking-78 .booking-right-calendar .table.calTable tbody th {
+    padding: 10px 5px 8px; } }
+#section-booking-3 .booking-right-calendar .table.calTable tbody th.cn, #section-booking-45 .booking-right-calendar .table.calTable tbody th.cn,
+#section-booking-6 .booking-right-calendar .table.calTable tbody th.cn, #section-booking-9 .booking-right-calendar .table.calTable tbody th.cn,
+#section-booking-10 .booking-right-calendar .table.calTable tbody th.cn, #section-booking-78 .booking-right-calendar .table.calTable tbody th.cn {
+  color: #fa531f; }
+#section-booking-3 .booking-right-calendar .table.calTable tbody th.t7, #section-booking-45 .booking-right-calendar .table.calTable tbody th.t7,
+#section-booking-6 .booking-right-calendar .table.calTable tbody th.t7, #section-booking-9 .booking-right-calendar .table.calTable tbody th.t7,
+#section-booking-10 .booking-right-calendar .table.calTable tbody th.t7, #section-booking-78 .booking-right-calendar .table.calTable tbody th.t7 {
+  color: #faa01f; }
+#section-booking-3 .booking-right-calendar .table.calTable tbody td, #section-booking-45 .booking-right-calendar .table.calTable tbody td,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td, #section-booking-9 .booking-right-calendar .table.calTable tbody td,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td, #section-booking-78 .booking-right-calendar .table.calTable tbody td {
+  transition: all .2s ease; }
+#section-booking-3 .booking-right-calendar .table.calTable tbody tr:last-child,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody tr:last-child {
+  border-bottom: 1px solid #dee2e6;
+}
+#section-booking-3 .booking-right-calendar .table.calTable tbody td.active, #section-booking-45 .booking-right-calendar .table.calTable tbody td.active,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td.active, #section-booking-9 .booking-right-calendar .table.calTable tbody td.active,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td.active, #section-booking-78 .booking-right-calendar .table.calTable tbody td.active {
+  /*background: #eaeff3;*/
+  background: #f7f7f7;
+}
+#section-booking-3 .booking-right-calendar .table.calTable tbody td button, #section-booking-45 .booking-right-calendar .table.calTable tbody td button,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td button, #section-booking-9 .booking-right-calendar .table.calTable tbody td button,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td button, #section-booking-78 .booking-right-calendar .table.calTable tbody td button {
+  background: none;
+  box-shadow: none;
+  outline: none;
+  border: none;
+  color: #000;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 13px;
+  border-radius: 100%;
+  width: 49px;
+  transition: all .2s ease;
+  cursor: pointer; }
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button, #section-booking-45 .booking-right-calendar .table.calTable tbody td button,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody td button, #section-booking-9 .booking-right-calendar .table.calTable tbody td button,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody td button, #section-booking-78 .booking-right-calendar .table.calTable tbody td button {
+    font-size: 14px;
+    padding: 0;
+    width: 100%; } }
+#section-booking-3 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable, #section-booking-45 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable, #section-booking-9 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable, #section-booking-78 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable {
+  opacity: .2;
+  cursor: not-allowed;
+}
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable:focus,
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable:hover,
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btn-booking-calendar-disable.active{
+    background: #fff;
+    color: #333333
+  }
+
+
+#section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrentTet,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrentTet {
+  color: red !important;
+  background: #ffffff;
+  font-weight: 700;
+}
+#section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrentTet:hover,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrentTet:hover {
+  color: red !important;
+  background: #ffffff !important;
+  font-weight: 700;
+}
+
+
+
+
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrent,
+  #section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrent {
+    color: red !important;
+    cursor: not-allowed;
+    background: #f2f2f2;
+    font-weight: 700;
+  }
+#section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrent:hover,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrent:hover {
+  color: red !important;
+  cursor: not-allowed;
+  background: #f2f2f2 !important;
+  font-weight: 700;
+}
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrent:focus,
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrent:hover,
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrent.active,
+  #section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrent:focus,
+  #section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrent:hover,
+  #section-find-doctor-2 .booking-right-calendar .table.calTable tbody td button.btnCurrent.active {
+    background: #f2f2f2;
+    color: red;
+    font-weight: 700;
+  }
+
+#section-booking-3 .booking-right-calendar .table.calTable tbody th,
+#section-find-doctor-2 .booking-right-calendar .table.calTable tbody th{
+  background: #f7f7f7;
+}
+#section-booking-3 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-3 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-3 .booking-right-calendar .table.calTable tbody td button.active, #section-booking-45 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-45 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-45 .booking-right-calendar .table.calTable tbody td button.active,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td button:hover,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td button:focus,
+#section-booking-6 .booking-right-calendar .table.calTable tbody td button.active, #section-booking-9 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-9 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-9 .booking-right-calendar .table.calTable tbody td button.active,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td button:hover,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td button:focus,
+#section-booking-10 .booking-right-calendar .table.calTable tbody td button.active, #section-booking-78 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-78 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-78 .booking-right-calendar .table.calTable tbody td button.active {
+  color: #fff;
+  background: #3ad46b;
+  font-weight: 700;
+  transition: all .1s ease-out;
+}
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-3 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-3 .booking-right-calendar .table.calTable tbody td button.active, #section-booking-45 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-45 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-45 .booking-right-calendar .table.calTable tbody td button.active,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody td button:hover,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody td button:focus,
+  #section-booking-6 .booking-right-calendar .table.calTable tbody td button.active, #section-booking-9 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-9 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-9 .booking-right-calendar .table.calTable tbody td button.active,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody td button:hover,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody td button:focus,
+  #section-booking-10 .booking-right-calendar .table.calTable tbody td button.active, #section-booking-78 .booking-right-calendar .table.calTable tbody td button:hover, #section-booking-78 .booking-right-calendar .table.calTable tbody td button:focus, #section-booking-78 .booking-right-calendar .table.calTable tbody td button.active {
+    background: transparent;
+    color: #3ad46b; } }
+    #section-booking-3 .booking-right-calendar .brc-scroll-group, #section-booking-45 .booking-right-calendar .brc-scroll-group,
+    #section-booking-6 .booking-right-calendar .brc-scroll-group, #section-booking-9 .booking-right-calendar .brc-scroll-group,
+    #section-booking-10 .booking-right-calendar .brc-scroll-group, #section-booking-78 .booking-right-calendar .brc-scroll-group {
+      /*border: 10px solid #f7f7f7;*/
+      transition: all .3s ease;
+      height: 0;
+      opacity: 0;
+      padding: 0;
+      margin: 0; }
+      #section-booking-3 .booking-right-calendar .brc-scroll-group.show, #section-booking-45 .booking-right-calendar .brc-scroll-group.show,
+      #section-booking-6 .booking-right-calendar .brc-scroll-group.show, #section-booking-9 .booking-right-calendar .brc-scroll-group.show,
+      #section-booking-10 .booking-right-calendar .brc-scroll-group.show, #section-booking-78 .booking-right-calendar .brc-scroll-group.show {
+        height: auto;
+        opacity: 1;
+        /* margin: 0 -42px; */
+        padding: 20px 20px 0; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-calendar .brc-scroll-group.show, #section-booking-45 .booking-right-calendar .brc-scroll-group.show,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group.show, #section-booking-9 .booking-right-calendar .brc-scroll-group.show,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group.show, #section-booking-78 .booking-right-calendar .brc-scroll-group.show {
+            padding: 20px; } }
+        @media screen and (max-width: 767px) {
+          #section-booking-3 .booking-right-calendar .brc-scroll-group.show, #section-booking-45 .booking-right-calendar .brc-scroll-group.show,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group.show, #section-booking-9 .booking-right-calendar .brc-scroll-group.show,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group.show, #section-booking-78 .booking-right-calendar .brc-scroll-group.show {
+            margin: 0 -6px; } }
+      #section-booking-3 .booking-right-calendar .brc-scroll-group ul, #section-booking-45 .booking-right-calendar .brc-scroll-group ul,
+      #section-booking-6 .booking-right-calendar .brc-scroll-group ul, #section-booking-9 .booking-right-calendar .brc-scroll-group ul,
+      #section-booking-10 .booking-right-calendar .brc-scroll-group ul, #section-booking-78 .booking-right-calendar .brc-scroll-group ul {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        list-style-type: none;
+        padding-left: 0;
+        margin: 0;
+        -webkit-align-items: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-calendar .brc-scroll-group ul, #section-booking-45 .booking-right-calendar .brc-scroll-group ul,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group ul, #section-booking-9 .booking-right-calendar .brc-scroll-group ul,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group ul, #section-booking-78 .booking-right-calendar .brc-scroll-group ul {
+            -webkit-align-items: flex-start;
+                -ms-flex-align: start;
+                    align-items: flex-start; } }
+        /*#section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-top, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-top,*/
+        /*#section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-top, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-top,*/
+        /*#section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-top, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-top {*/
+          /*margin-bottom: 20px; }*/
+          /**/
+          /*@media screen and (max-width: 991px) {*/
+            /*#section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-top, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-top,*/
+            /*#section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-top, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-top,*/
+            /*#section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-top, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-top {*/
+              /*margin-bottom: 0; } }*/
+          /*@media screen and (max-width: 991px) {*/
+            /*#section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-top li, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-top li,*/
+            /*#section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-top li, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-top li,*/
+            /*#section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-top li, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-top li {*/
+              /*margin-top: 0; } }*/
+        #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont,
+        #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont,
+        #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont {
+          border-top: 1px solid #eaeff3;
+          padding: 15px 0;
+          cursor: pointer;
+        }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont {
+              margin-bottom: 15px; } }
+          #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active {
+            outline: none; }
+            #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li {
+              color: #307be7;
+              font-weight: bold;
+              transition: all .2s ease-out;
+            }
+              #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li a, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li a, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li a,
+              #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li a,
+              #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li a,
+              #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li a,
+              #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li a,
+              #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li a,
+              #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover li a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus li a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active li a {
+                color: #fff !important;
+                background-color: #307be7 !important;
+                border: 1px solid #307be7 !important;
+              }
+            #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover a, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus a, #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active a,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover a,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus a,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active a,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover a,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus a,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:hover a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont:focus a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul.table-ul-cont.active a {
+              color: #307be7;
+              border-color: #307be7;
+              opacity: 1;
+           }
+        #section-booking-3 .booking-right-calendar .brc-scroll-group ul li, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li,
+        #section-booking-6 .booking-right-calendar .brc-scroll-group ul li, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li,
+        #section-booking-10 .booking-right-calendar .brc-scroll-group ul li, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li {
+          padding: 0;
+          padding-right: 15px;
+          font-size: 14px;
+          color: #4d4d4d;
+          transition: all .2s ease;
+            width: 50%;
+        }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-calendar .brc-scroll-group ul li, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul li, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul li, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li {
+               } }
+          @media screen and (max-width: 767px) {
+            #section-booking-3 .booking-right-calendar .brc-scroll-group ul li:nth-child(2), #section-booking-45 .booking-right-calendar .brc-scroll-group ul li:nth-child(2),
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul li:nth-child(2), #section-booking-9 .booking-right-calendar .brc-scroll-group ul li:nth-child(2),
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul li:nth-child(2), #section-booking-78 .booking-right-calendar .brc-scroll-group ul li:nth-child(2) {
+              text-align: right; } }
+          #section-booking-3 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li:last-child,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li:last-child,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li:last-child {
+            width: 20%; }
+            @media screen and (max-width: 991px) {
+              #section-booking-3 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li:last-child,
+              #section-booking-6 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li:last-child,
+              #section-booking-10 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li:last-child {
+                padding-right: 0; } }
+            @media screen and (max-width: 991px) {
+              #section-booking-3 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li:last-child,
+              #section-booking-6 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li:last-child,
+              #section-booking-10 .booking-right-calendar .brc-scroll-group ul li:last-child, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li:last-child {
+                width: 100%;
+                margin-top: 25px; } }
+          #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li a,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group ul li a, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li a,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group ul li a, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li a {
+            background: none;
+            box-shadow: none;
+            outline: none;
+            border: 1px solid #aeb8c8;
+            width: 100%;
+            border-radius: 50px !important;
+            padding: 8px 15px;
+            font-size: 13px;
+            font-weight: bold;
+            color: #333333;
+            margin: -10px 0;
+            cursor: pointer;
+            transition: all .2s ease;
+            cursor: pointer;
+            display: block;
+            width: 100%;
+            text-align: center; }
+
+            #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a:hover, #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a:focus, #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a.active, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li a:hover, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li a:focus, #section-booking-45 .booking-right-calendar .brc-scroll-group ul li a.active,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul li a:hover,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul li a:focus,
+            #section-booking-6 .booking-right-calendar .brc-scroll-group ul li a.active, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li a:hover, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li a:focus, #section-booking-9 .booking-right-calendar .brc-scroll-group ul li a.active,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul li a:hover,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul li a:focus,
+            #section-booking-10 .booking-right-calendar .brc-scroll-group ul li a.active, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li a:hover, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li a:focus, #section-booking-78 .booking-right-calendar .brc-scroll-group ul li a.active {
+              color: #307be7;
+              border-color: #307be7;
+              transition: all .2s ease; }
+              #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a:hover, #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a:focus, #section-booking-3 .booking-right-calendar .brc-scroll-group ul li a.active {
+                border: 1px solid #307be7;
+                transition: all .2s ease;
+              }
+      #section-booking-3 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn, #section-booking-45 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn,
+      #section-booking-6 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn, #section-booking-9 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn,
+      #section-booking-10 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn, #section-booking-78 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn {
+        background: #eaeff3;
+        padding-bottom: 30px;
+        margin: 0 -20px;
+        margin-bottom: -30px;
+        margin-top: 30px; }
+        #section-booking-3 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info, #section-booking-45 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info,
+        #section-booking-6 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info, #section-booking-9 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info,
+        #section-booking-10 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info, #section-booking-78 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info {
+          font-size: 12px;
+          color: #fff;
+          font-weight: bold;
+          border-radius: 0 0 0 0;
+        }
+          #section-booking-3 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info i, #section-booking-45 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info i,
+          #section-booking-6 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info i, #section-booking-9 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info i,
+          #section-booking-10 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info i, #section-booking-78 .booking-right-calendar .brc-scroll-group .brc-scroll-group-btn .btn.btn-info i {
+            margin-left: 10px;
+            -webkit-transform: rotate(270deg);
+                    transform: rotate(270deg); }
+    #section-booking-3 .booking-right-calendar .brc-take-off, #section-booking-45 .booking-right-calendar .brc-take-off,
+    #section-booking-6 .booking-right-calendar .brc-take-off, #section-booking-9 .booking-right-calendar .brc-take-off,
+    #section-booking-10 .booking-right-calendar .brc-take-off, #section-booking-78 .booking-right-calendar .brc-take-off {
+      transition: all .2s ease;
+      height: 0;
+      opacity: 0;
+      margin: 0; }
+      #section-booking-3 .booking-right-calendar .brc-take-off.show, #section-booking-45 .booking-right-calendar .brc-take-off.show,
+      #section-booking-6 .booking-right-calendar .brc-take-off.show, #section-booking-9 .booking-right-calendar .brc-take-off.show,
+      #section-booking-10 .booking-right-calendar .brc-take-off.show, #section-booking-78 .booking-right-calendar .brc-take-off.show {
+        height: auto;
+        opacity: 1;
+        margin-top: 30px; }
+      #section-booking-3 .booking-right-calendar .brc-take-off div, #section-booking-45 .booking-right-calendar .brc-take-off div,
+      #section-booking-6 .booking-right-calendar .brc-take-off div, #section-booking-9 .booking-right-calendar .brc-take-off div,
+      #section-booking-10 .booking-right-calendar .brc-take-off div, #section-booking-78 .booking-right-calendar .brc-take-off div {
+        font-size: 13px;
+        color: #4d4d4d;
+        padding-left: 20px;
+        position: relative; }
+        #section-booking-3 .booking-right-calendar .brc-take-off div.take-off-red, #section-booking-45 .booking-right-calendar .brc-take-off div.take-off-red,
+        #section-booking-6 .booking-right-calendar .brc-take-off div.take-off-red, #section-booking-9 .booking-right-calendar .brc-take-off div.take-off-red,
+        #section-booking-10 .booking-right-calendar .brc-take-off div.take-off-red, #section-booking-78 .booking-right-calendar .brc-take-off div.take-off-red {
+          margin-bottom: 10px; }
+          #section-booking-3 .booking-right-calendar .brc-take-off div.take-off-red:before, #section-booking-45 .booking-right-calendar .brc-take-off div.take-off-red:before,
+          #section-booking-6 .booking-right-calendar .brc-take-off div.take-off-red:before, #section-booking-9 .booking-right-calendar .brc-take-off div.take-off-red:before,
+          #section-booking-10 .booking-right-calendar .brc-take-off div.take-off-red:before, #section-booking-78 .booking-right-calendar .brc-take-off div.take-off-red:before {
+            content: '';
+            background: #fa531f;
+            width: 10px;
+            height: 10px;
+            border-radius: 100%;
+            position: absolute;
+            top: 3px;
+            left: 0;
+            display: inline-block; }
+        #section-booking-3 .booking-right-calendar .brc-take-off div.take-off-orange:before, #section-booking-45 .booking-right-calendar .brc-take-off div.take-off-orange:before,
+        #section-booking-6 .booking-right-calendar .brc-take-off div.take-off-orange:before, #section-booking-9 .booking-right-calendar .brc-take-off div.take-off-orange:before,
+        #section-booking-10 .booking-right-calendar .brc-take-off div.take-off-orange:before, #section-booking-78 .booking-right-calendar .brc-take-off div.take-off-orange:before {
+          content: '';
+          background: #faa01f;
+          width: 10px;
+          height: 10px;
+          border-radius: 100%;
+          position: absolute;
+          top: 3px;
+          left: 0;
+          display: inline-block; }
+    #section-booking-3 .booking-right-calendar .brc-btn, #section-booking-45 .booking-right-calendar .brc-btn,
+    #section-booking-6 .booking-right-calendar .brc-btn, #section-booking-9 .booking-right-calendar .brc-btn,
+    #section-booking-10 .booking-right-calendar .brc-btn, #section-booking-78 .booking-right-calendar .brc-btn {
+      transition: all .2s ease;
+      height: 0;
+      opacity: 0;
+      margin: 0; }
+      #section-booking-3 .booking-right-calendar .brc-btn p, #section-booking-45 .brc-btn p,
+      #section-booking-6 .booking-right-calendar .brc-btn p, #section-booking-9 .booking-right-calendar .brc-btn p,
+      #section-booking-10 .booking-right-calendar .brc-btn p, #section-booking-78 .booking-right-calendar .brc-btn p{
+        color: #4d4d4d;
+        font-size: 15px;
+        font-weight: 700;
+        margin-bottom: 0; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-calendar .brc-btn p, #section-booking-45 .booking-right-calendar .brc-btn p,
+          #section-booking-6 .booking-right-calendar .brc-btn p, #section-booking-9 .booking-right-calendar .brc-btn p,
+          #section-booking-10 .booking-right-calendar .brc-btn p, #section-booking-78 .booking-right-calendar .brc-btn p {
+            margin-bottom: 15px; } }
+      #section-booking-3 .booking-right-calendar .brc-btn.show, #section-booking-45 .booking-right-calendar .brc-btn.show,
+      #section-booking-6 .booking-right-calendar .brc-btn.show, #section-booking-9 .booking-right-calendar .brc-btn.show,
+      #section-booking-10 .booking-right-calendar .brc-btn.show, #section-booking-78 .booking-right-calendar .brc-btn.show {
+        height: auto;
+        opacity: 1;
+        margin: 30px 0 30px; }
+      @media screen and (max-width: 991px) {
+        #section-booking-3 .booking-right-calendar .brc-btn .btn, #section-booking-45 .booking-right-calendar .brc-btn .btn,
+        #section-booking-6 .booking-right-calendar .brc-btn .btn, #section-booking-9 .booking-right-calendar .brc-btn .btn,
+        #section-booking-10 .booking-right-calendar .brc-btn .btn, #section-booking-78 .booking-right-calendar .brc-btn .btn {
+          padding: 10px;
+          display: block; }
+          #section-booking-3 .booking-right-calendar .brc-btn .btn i, #section-booking-45 .booking-right-calendar .brc-btn .btn i,
+          #section-booking-6 .booking-right-calendar .brc-btn .btn i, #section-booking-9 .booking-right-calendar .brc-btn .btn i,
+          #section-booking-10 .booking-right-calendar .brc-btn .btn i, #section-booking-78 .booking-right-calendar .brc-btn .btn i {
+            top: 10px; }
+          #section-booking-3 .booking-right-calendar .brc-btn .btn.btn-info, #section-booking-45 .booking-right-calendar .brc-btn .btn.btn-info,
+          #section-booking-6 .booking-right-calendar .brc-btn .btn.btn-info, #section-booking-9 .booking-right-calendar .brc-btn .btn.btn-info,
+          #section-booking-10 .booking-right-calendar .brc-btn .btn.btn-info, #section-booking-78 .booking-right-calendar .brc-btn .btn.btn-info {
+            margin-top: 15px;
+            margin-left: 0; } }
+      #section-booking-3 .booking-right-calendar .brc-btn .btn-default, #section-booking-45 .booking-right-calendar .brc-btn .btn-default,
+      #section-booking-6 .booking-right-calendar .brc-btn .btn-default, #section-booking-9 .booking-right-calendar .brc-btn .btn-default,
+      #section-booking-10 .booking-right-calendar .brc-btn .btn-default, #section-booking-78 .booking-right-calendar .brc-btn .btn-default {
+        border-radius: 50px !important;
+        padding: 12px 20px;
+        font-size: 14px;
+        color: #307be7;
+        font-weight: bold;
+        border: 1px solid #307be7;
+        background: transparent;
+        display: block;
+        width: 100%;
+      }
+        #section-booking-3 .booking-right-calendar .brc-btn .btn-default i, #section-booking-45 .booking-right-calendar .brc-btn .btn-default i,
+        #section-booking-6 .booking-right-calendar .brc-btn .btn-default i, #section-booking-9 .booking-right-calendar .brc-btn .btn-default i,
+        #section-booking-10 .booking-right-calendar .brc-btn .btn-default i, #section-booking-78 .booking-right-calendar .brc-btn .btn-default i {
+          margin-left: 5px;
+          position: relative;
+          top: 1px; }
+      #section-booking-3 .booking-right-calendar .brc-btn .btn-info, #section-booking-45 .booking-right-calendar .brc-btn .btn-info,
+      #section-booking-6 .booking-right-calendar .brc-btn .btn-info, #section-booking-9 .booking-right-calendar .brc-btn .btn-info,
+      #section-booking-10 .booking-right-calendar .brc-btn .btn-info, #section-booking-78 .booking-right-calendar .brc-btn .btn-info {
+        background: #307be7;
+        font-size: 13px;
+        color: #fff;
+        font-weight: bold;
+        padding: 12px 30px;
+        border: none;
+        display: block;
+        width: 100%; }
+  #section-booking-3 .booking-right-time, #section-booking-45 .booking-right-time,
+  #section-booking-6 .booking-right-time, #section-booking-9 .booking-right-time,
+  #section-booking-10 .booking-right-time, #section-booking-78 .booking-right-time {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    border-radius: 3px;
+    padding: 20px;
+    margin-bottom: 20px;
+    height: auto;
+    transition: all .2s ease; }
+    #section-booking-45 .booking-right-time .col-6:last-child {
+      padding-right: 0;
+    }
+    @media screen and (max-width: 767px) {
+      #section-booking-3 .booking-right-time, #section-booking-45 .booking-right-time,
+      #section-booking-6 .booking-right-time, #section-booking-9 .booking-right-time,
+      #section-booking-10 .booking-right-time, #section-booking-78 .booking-right-time {
+        margin-bottom: 20px;
+        padding: 20px 20px; } }
+    #section-booking-3 .booking-right-time .brt-top, #section-booking-45 .booking-right-time .brt-top,
+    #section-booking-6 .booking-right-time .brt-top, #section-booking-9 .booking-right-time .brt-top,
+    #section-booking-10 .booking-right-time .brt-top, #section-booking-78 .booking-right-time .brt-top {
+      margin-bottom: 20px; }
+      #section-booking-3 .booking-right-time .brt-top h4, #section-booking-45 .booking-right-time .brt-top h4,
+      #section-booking-6 .booking-right-time .brt-top h4, #section-booking-9 .booking-right-time .brt-top h4,
+      #section-booking-10 .booking-right-time .brt-top h4, #section-booking-78 .booking-right-time .brt-top h4 {
+        color: #4d4d4d;
+        font-weight: bold;
+        font-size: 15px;
+        margin-bottom: 0; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-time .brt-top h4, #section-booking-45 .booking-right-time .brt-top h4,
+          #section-booking-6 .booking-right-time .brt-top h4, #section-booking-9 .booking-right-time .brt-top h4,
+          #section-booking-10 .booking-right-time .brt-top h4, #section-booking-78 .booking-right-time .brt-top h4 {
+            margin-bottom: 20px; } }
+      #section-booking-3 .booking-right-time .brt-top .brt-btn, #section-booking-45 .booking-right-time .brt-top .brt-btn,
+      #section-booking-6 .booking-right-time .brt-top .brt-btn, #section-booking-9 .booking-right-time .brt-top .brt-btn,
+      #section-booking-10 .booking-right-time .brt-top .brt-btn, #section-booking-78 .booking-right-time .brt-top .brt-btn {
+        font-size: 10px;
+        padding: 3px 10px 2px;
+        transition: all .2s ease;
+        border-radius: 3px; }
+        @media screen and (max-width: 500px) {
+          #section-booking-3 .booking-right-time .brt-top .brt-btn, #section-booking-45 .booking-right-time .brt-top .brt-btn,
+          #section-booking-6 .booking-right-time .brt-top .brt-btn, #section-booking-9 .booking-right-time .brt-top .brt-btn,
+          #section-booking-10 .booking-right-time .brt-top .brt-btn, #section-booking-78 .booking-right-time .brt-top .brt-btn {
+            margin-bottom: 10px;
+            text-align: center; } }
+        #section-booking-3 .booking-right-time .brt-top .brt-btn.brt-btn-1, #section-booking-45 .booking-right-time .brt-top .brt-btn.brt-btn-1,
+        #section-booking-6 .booking-right-time .brt-top .brt-btn.brt-btn-1, #section-booking-9 .booking-right-time .brt-top .brt-btn.brt-btn-1,
+        #section-booking-10 .booking-right-time .brt-top .brt-btn.brt-btn-1, #section-booking-78 .booking-right-time .brt-top .brt-btn.brt-btn-1 {
+          color: #fff;
+          background: #307be7;
+          border: 1px solid #307be7; }
+        #section-booking-3 .booking-right-time .brt-top .brt-btn.brt-btn-2, #section-booking-45 .booking-right-time .brt-top .brt-btn.brt-btn-2,
+        #section-booking-6 .booking-right-time .brt-top .brt-btn.brt-btn-2, #section-booking-9 .booking-right-time .brt-top .brt-btn.brt-btn-2,
+        #section-booking-10 .booking-right-time .brt-top .brt-btn.brt-btn-2, #section-booking-78 .booking-right-time .brt-top .brt-btn.brt-btn-2 {
+          color: #4d4d4d;
+          border: 1px solid #cdd8ea;
+          background: #fff;
+          margin: 0 10px; }
+          @media screen and (max-width: 500px) {
+            #section-booking-3 .booking-right-time .brt-top .brt-btn.brt-btn-2, #section-booking-45 .booking-right-time .brt-top .brt-btn.brt-btn-2,
+            #section-booking-6 .booking-right-time .brt-top .brt-btn.brt-btn-2, #section-booking-9 .booking-right-time .brt-top .brt-btn.brt-btn-2,
+            #section-booking-10 .booking-right-time .brt-top .brt-btn.brt-btn-2, #section-booking-78 .booking-right-time .brt-top .brt-btn.brt-btn-2 {
+              margin: 0;
+              position: absolute;
+              left: 0;
+              padding: 10px;
+              margin-bottom: 10px; } }
+        #section-booking-3 .booking-right-time .brt-top .brt-btn.brt-btn-3, #section-booking-45 .booking-right-time .brt-top .brt-btn.brt-btn-3,
+        #section-booking-6 .booking-right-time .brt-top .brt-btn.brt-btn-3, #section-booking-9 .booking-right-time .brt-top .brt-btn.brt-btn-3,
+        #section-booking-10 .booking-right-time .brt-top .brt-btn.brt-btn-3, #section-booking-78 .booking-right-time .brt-top .brt-btn.brt-btn-3 {
+          color: #fff;
+          margin-right: 10px;
+          background: #f26522; }
+    #section-booking-3 .booking-right-time .btn.btn-info, #section-booking-45 .booking-right-time .btn.btn-info,
+    #section-booking-6 .booking-right-time .btn.btn-info, #section-booking-9 .booking-right-time .btn.btn-info,
+    #section-booking-10 .booking-right-time .btn.btn-info, #section-booking-78 .booking-right-time .btn.btn-info {
+      background: #307be7;
+      padding: 10px 42px;
+      color: #fff;
+      border: none;
+      margin: 0 7.5px;
+      text-transform: uppercase;
+      border: 1px solid #307be7; }
+    #section-booking-3 .booking-right-time .brt-cont-group, #section-booking-45 .booking-right-time .brt-cont-group,
+    #section-booking-6 .booking-right-time .brt-cont-group, #section-booking-9 .booking-right-time .brt-cont-group,
+    #section-booking-10 .booking-right-time .brt-cont-group, #section-booking-78 .booking-right-time .brt-cont-group {
+      height: auto;
+      transition: all .2s ease;
+      border: 1px solid #cdd8ea;
+      border-radius: 2px;
+      margin-bottom: 30px; }
+      #section-booking-3 .booking-right-time .brt-cont-group:hover, #section-booking-3 .booking-right-time .brt-cont-group:focus, #section-booking-3 .booking-right-time .brt-cont-group.active, #section-booking-45 .booking-right-time .brt-cont-group:hover, #section-booking-45 .booking-right-time .brt-cont-group:focus, #section-booking-45 .booking-right-time .brt-cont-group.active,
+      #section-booking-6 .booking-right-time .brt-cont-group:hover,
+      #section-booking-6 .booking-right-time .brt-cont-group:focus,
+      #section-booking-6 .booking-right-time .brt-cont-group.active, #section-booking-9 .booking-right-time .brt-cont-group:hover, #section-booking-9 .booking-right-time .brt-cont-group:focus, #section-booking-9 .booking-right-time .brt-cont-group.active,
+      #section-booking-10 .booking-right-time .brt-cont-group:hover,
+      #section-booking-10 .booking-right-time .brt-cont-group:focus,
+      #section-booking-10 .booking-right-time .brt-cont-group.active, #section-booking-78 .booking-right-time .brt-cont-group:hover, #section-booking-78 .booking-right-time .brt-cont-group:focus, #section-booking-78 .booking-right-time .brt-cont-group.active {
+        border-color: #307be7; }
+      #section-booking-3 .booking-right-time .brt-cont-group .brt-cont, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont,
+      #section-booking-6 .booking-right-time .brt-cont-group .brt-cont, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont,
+      #section-booking-10 .booking-right-time .brt-cont-group .brt-cont, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont {
+        padding: 20px;
+        padding-right: 35px;
+        position: relative;
+        cursor: pointer;
+        padding-bottom: 20px;
+        transition: all .2s ease;
+      }
+        #section-booking-45 .booking-right-time .brt-cont-group .brt-cont span {
+          font-size: 35px;
+          color: #696969;
+          transition: all .2s ease;
+        }
+        #section-booking-45 .booking-right-time .brt-cont-group:focus .brt-cont span,
+        #section-booking-45 .booking-right-time .brt-cont-group:hover .brt-cont span,
+        #section-booking-45 .booking-right-time .brt-cont-group.active .brt-cont span,
+        #section-booking-45 .booking-right-time .brt-cont-group.active .brt-cont i {
+        color: #307be7;
+        transition: all .2s ease;
+        }
+        #section-booking-3 .booking-right-time .brt-cont-group .brt-cont i, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont i,
+        #section-booking-6 .booking-right-time .brt-cont-group .brt-cont i, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont i,
+        #section-booking-10 .booking-right-time .brt-cont-group .brt-cont i, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont i {
+          position: absolute;
+          top: 20px;
+          right: 23px;
+          transition: all .2s ease;
+          -webkit-transform: rotate(270deg);
+                  transform: rotate(270deg);
+          color: #696969;
+        }
+        #section-booking-3 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right,
+        #section-booking-6 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right,
+        #section-booking-10 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right {
+          margin-left: 15px; }
+          #section-booking-3 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-name, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-name,
+          #section-booking-6 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-name, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-name,
+          #section-booking-10 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-name, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-name {
+            font-size: 13px;
+            color: #4d4d4d;
+            font-weight: bold;
+            margin-bottom: 5px; }
+          #section-booking-3 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-code, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-code,
+          #section-booking-6 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-code, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-code,
+          #section-booking-10 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-code, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont .brt-cont-right .brt-cont-code {
+            font-size: 12px;
+            color: #696969; }
+
+
+      #section-booking-3 .booking-right-time .brt-cont-group.active .brt-cont i, #section-booking-45 .booking-right-time .brt-cont-group.active .brt-cont i,
+      #section-booking-6 .booking-right-time .brt-cont-group.active .brt-cont i, #section-booking-9 .booking-right-time .brt-cont-group.active .brt-cont i,
+      #section-booking-10 .booking-right-time .brt-cont-group.active .brt-cont i, #section-booking-78 .booking-right-time .brt-cont-group.active .brt-cont i {
+        -webkit-transform: rotate(90deg);
+                transform: rotate(90deg); }
+      #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide,
+      #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide,
+      #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide {
+        padding: 0;
+        transition: all .2s ease;
+        height: 0;
+        opacity: 0;
+        overflow: hidden;}
+        #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide.show, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide.show,
+        #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide.show, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide.show,
+        #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide.show, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide.show {
+          border-top: 1px solid #cdd8ea;
+          height: auto;
+          opacity: 1;
+          padding: 20px 10px;
+          margin-bottom: -20px; }
+          @media screen and (max-width: 767px) {
+            #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide.show, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide.show,
+            #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide.show, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide.show,
+            #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide.show, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide.show {
+              padding: 20px 0; } }
+        #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul,
+        #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul,
+        #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul {
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          padding-left: 0;
+          margin-bottom: 0;
+          list-style-type: none;
+          -webkit-flex-wrap: wrap;
+              -ms-flex-wrap: wrap;
+                  flex-wrap: wrap;
+          width: 100%; }
+          #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li,
+          #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li,
+          #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li {
+            width:16.6666%;
+            padding: 0 10px;
+            margin-bottom: 20px; }
+            @media screen and (max-width: 991px) {
+              #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li,
+              #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li,
+              #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li {
+                width: 33.3333%; } }
+            @media screen and (max-width: 500px) {
+              #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li,
+              #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li,
+              #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li {
+                width: 50%; } }
+            #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li a, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li a,
+            #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li a, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li a,
+            #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li a, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li a {
+                color: #307be7;
+                font-size: 13px;
+                padding: 8px 5px;
+                border: 1px solid #307be7;
+                transition: all .2s ease;
+                border-radius: 3px;
+                display: block;
+                text-align: center; }
+              #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:hover, #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:focus, #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:hover, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:focus, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active,
+              #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:hover,
+              #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:focus,
+              #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:hover, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:focus, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active,
+              #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:hover,
+              #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:focus,
+              #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:hover, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li a:focus, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active {
+                background: #307be7;
+                color: #fff;
+                border-color: #298AD9; }
+              #section-booking-3 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active-full, #section-booking-45 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active-full,
+              #section-booking-6 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active-full, #section-booking-9 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active-full,
+              #section-booking-10 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active-full, #section-booking-78 .booking-right-time .brt-cont-group .brt-cont-hide ul li a.active-full {
+                  cursor: default;
+                  background: #d0d3d8;
+                  color: #fff;
+                  border-color: #d0d3d8; }
+  #section-booking-3 .booking-right-bill, #section-booking-45 .booking-right-bill,
+  #section-booking-6 .booking-right-bill, #section-booking-9 .booking-right-bill,
+  #section-booking-10 .booking-right-bill, #section-booking-78 .booking-right-bill {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    border-radius: 3px;
+    padding: 30px;
+    height: auto;
+    transition: all .2s ease;
+    margin: 20px 0; }
+#section-booking-78 .booking-right-bill {
+  margin: 0 0;
+}
+    #section-booking-3 .booking-right-bill h4, #section-booking-45 .booking-right-bill h4,
+    #section-booking-6 .booking-right-bill h4, #section-booking-9 .booking-right-bill h4,
+    #section-booking-10 .booking-right-bill h4, #section-booking-78 .booking-right-bill h4 {
+      color: #307be7;
+      font-weight: bold;
+      font-size: 15px;
+      padding: 0 0 20px;
+        margin-bottom: 20px;
+      border-bottom: 1px solid #cdd8ea; }
+      @media screen and (max-width: 575px) {
+        #section-booking-3 .booking-right-bill h4, #section-booking-45 .booking-right-bill h4,
+        #section-booking-6 .booking-right-bill h4, #section-booking-9 .booking-right-bill h4,
+        #section-booking-10 .booking-right-bill h4, #section-booking-78 .booking-right-bill h4 {
+          padding: 0 20px;
+          padding-bottom: 30px; } }
+    #section-booking-3 .booking-right-bill .brb-btn, #section-booking-45 .booking-right-bill .brb-btn,
+    #section-booking-6 .booking-right-bill .brb-btn, #section-booking-9 .booking-right-bill .brb-btn,
+    #section-booking-10 .booking-right-bill .brb-btn, #section-booking-78 .booking-right-bill .brb-btn {
+      border-top: 1px solid #cdd8ea;
+      padding: 30px 35px; }
+      @media screen and (max-width: 575px) {
+        #section-booking-3 .booking-right-bill .brb-btn, #section-booking-45 .booking-right-bill .brb-btn,
+        #section-booking-6 .booking-right-bill .brb-btn, #section-booking-9 .booking-right-bill .brb-btn,
+        #section-booking-10 .booking-right-bill .brb-btn, #section-booking-78 .booking-right-bill .brb-btn {
+          padding: 30px 20px; } }
+      #section-booking-3 .booking-right-bill .brb-btn p, #section-booking-45 .booking-right-bill .brb-btn p,
+      #section-booking-6 .booking-right-bill .brb-btn p, #section-booking-9 .booking-right-bill .brb-btn p,
+      #section-booking-10 .booking-right-bill .brb-btn p, #section-booking-78 .booking-right-bill .brb-btn p {
+        font-size: 14px;
+        color: #4d4d4d;
+        margin-bottom: 10px; }
+        #section-booking-3 .booking-right-bill .brb-btn p span, #section-booking-45 .booking-right-bill .brb-btn p span,
+        #section-booking-6 .booking-right-bill .brb-btn p span, #section-booking-9 .booking-right-bill .brb-btn p span,
+        #section-booking-10 .booking-right-bill .brb-btn p span, #section-booking-78 .booking-right-bill .brb-btn p span {
+          font-weight: bold; }
+      #section-booking-3 .booking-right-bill .brb-btn .mg-bottom-2, #section-booking-45 .booking-right-bill .brb-btn .mg-bottom-2,
+      #section-booking-6 .booking-right-bill .brb-btn .mg-bottom-2, #section-booking-9 .booking-right-bill .brb-btn .mg-bottom-2,
+      #section-booking-10 .booking-right-bill .brb-btn .mg-bottom-2, #section-booking-78 .booking-right-bill .brb-btn .mg-bottom-2 {
+        margin-bottom: 30px; }
+      #section-booking-3 .booking-right-bill .brb-btn .btn.btn-success, #section-booking-45 .booking-right-bill .brb-btn .btn.btn-success,
+      #section-booking-6 .booking-right-bill .brb-btn .btn.btn-success, #section-booking-9 .booking-right-bill .brb-btn .btn.btn-success,
+      #section-booking-10 .booking-right-bill .brb-btn .btn.btn-success, #section-booking-78 .booking-right-bill .brb-btn .btn.btn-success {
+        background: #38d46a;
+        padding: 10px 42px;
+        color: #fff;
+        border: none;
+        text-transform: uppercase;
+        margin-top: 30px; }
+    #section-booking-3 .booking-right-bill .brb-bill-hide, #section-booking-45 .booking-right-bill .brb-bill-hide,
+    #section-booking-6 .booking-right-bill .brb-bill-hide, #section-booking-9 .booking-right-bill .brb-bill-hide,
+    #section-booking-10 .booking-right-bill .brb-bill-hide, #section-booking-78 .booking-right-bill .brb-bill-hide {
+      display: none; }
+      #section-booking-3 .booking-right-bill .brb-bill-hide.show, #section-booking-45 .booking-right-bill .brb-bill-hide.show,
+      #section-booking-6 .booking-right-bill .brb-bill-hide.show, #section-booking-9 .booking-right-bill .brb-bill-hide.show,
+      #section-booking-10 .booking-right-bill .brb-bill-hide.show, #section-booking-78 .booking-right-bill .brb-bill-hide.show {
+        display: block; }
+    #section-booking-3 .booking-right-bill .brb-bill, #section-booking-45 .booking-right-bill .brb-bill,
+    #section-booking-6 .booking-right-bill .brb-bill, #section-booking-9 .booking-right-bill .brb-bill,
+    #section-booking-10 .booking-right-bill .brb-bill, #section-booking-78 .booking-right-bill .brb-bill {
+      border: 5px solid #cdd8ea;
+      padding: 15px; }
+      #section-booking-3 .booking-right-bill .brb-bill .img-bar-code, #section-booking-45 .booking-right-bill .brb-bill .img-bar-code,
+      #section-booking-6 .booking-right-bill .brb-bill .img-bar-code, #section-booking-9 .booking-right-bill .brb-bill .img-bar-code,
+      #section-booking-78 .booking-right-bill .brb-bill .img-bar-code {
+        width: 50%;
+        margin: 0 auto; }
+      #section-booking-3 .booking-right-bill .brb-bill .brb-bill-sub-title, #section-booking-45 .booking-right-bill .brb-bill .brb-bill-sub-title,
+      #section-booking-6 .booking-right-bill .brb-bill .brb-bill-sub-title, #section-booking-9 .booking-right-bill .brb-bill .brb-bill-sub-title,
+      #section-booking-10 .booking-right-bill .brb-bill .brb-bill-sub-title, #section-booking-78 .booking-right-bill .brb-bill .brb-bill-sub-title {
+        font-size: 15px;
+        color: #4d4d4d;
+        margin-bottom: 20px;
+      font-weight: bold; }
+      #section-booking-3 .booking-right-bill .brb-bill .brb-bill-sub-title-1, #section-booking-45 .booking-right-bill .brb-bill .brb-bill-sub-title-1,
+      #section-booking-6 .booking-right-bill .brb-bill .brb-bill-sub-title-1, #section-booking-9 .booking-right-bill .brb-bill .brb-bill-sub-title-1,
+      #section-booking-10 .booking-right-bill .brb-bill .brb-bill-sub-title-1, #section-booking-78 .booking-right-bill .brb-bill .brb-bill-sub-title-1 {
+        font-size: 18px;
+        color: #4d4d4d;
+        margin-bottom: 15px; }
+      #section-booking-3 .booking-right-bill .brb-bill h6, #section-booking-45 .booking-right-bill .brb-bill h6,
+      #section-booking-6 .booking-right-bill .brb-bill h6, #section-booking-9 .booking-right-bill .brb-bill h6,
+      #section-booking-10 .booking-right-bill .brb-bill h6, #section-booking-78 .booking-right-bill .brb-bill h6 {
+        color: #4d4d4d;
+        font-size: 14px;
+        margin-bottom: 5px; }
+      #section-booking-3 .booking-right-bill .brb-bill .brb-bill-number, #section-booking-45 .booking-right-bill .brb-bill .brb-bill-number,
+      #section-booking-6 .booking-right-bill .brb-bill .brb-bill-number, #section-booking-9 .booking-right-bill .brb-bill .brb-bill-number,
+      #section-booking-10 .booking-right-bill .brb-bill .brb-bill-number, #section-booking-78 .booking-right-bill .brb-bill .brb-bill-number {
+        font-size: 100px;
+        color: #307be7;
+        font-weight: bold;
+        margin: 20px 0 0px;
+        line-height: 1.2em;
+      }
+#section-booking-3 .booking-right-bill .brb-bill .brb-bill-number.delete, #section-booking-45 .booking-right-bill .brb-bill .brb-bill-number.delete,
+#section-booking-6 .booking-right-bill .brb-bill .brb-bill-number.delete, #section-booking-9 .booking-right-bill .brb-bill .brb-bill-number.delete,
+#section-booking-10 .booking-right-bill .brb-bill .brb-bill-number.delete, #section-booking-78 .booking-right-bill .brb-bill .brb-bill-number.delete {
+  color: #c6cace;
+}
+      #section-booking-3 .booking-right-bill .brb-bill p, #section-booking-45 .booking-right-bill .brb-bill p,
+      #section-booking-6 .booking-right-bill .brb-bill p, #section-booking-9 .booking-right-bill .brb-bill p,
+      #section-booking-10 .booking-right-bill .brb-bill p, #section-booking-78 .booking-right-bill .brb-bill p {
+        font-size: 14px;
+        color: #4d4d4d;
+        margin-bottom: 10px; }
+        #section-booking-3 .booking-right-bill .brb-bill p span, #section-booking-45 .booking-right-bill .brb-bill p span,
+        #section-booking-6 .booking-right-bill .brb-bill p span, #section-booking-9 .booking-right-bill .brb-bill p span,
+        #section-booking-10 .booking-right-bill .brb-bill p span, #section-booking-78 .booking-right-bill .brb-bill p span {
+          font-weight: bold;
+          color: #4d4d4d; }
+        #section-booking-3 .booking-right-bill .brb-bill p i, #section-booking-45 .booking-right-bill .brb-bill p i,
+        #section-booking-6 .booking-right-bill .brb-bill p i, #section-booking-9 .booking-right-bill .brb-bill p i,
+        #section-booking-78 .booking-right-bill .brb-bill p i {
+          font-style: normal;
+          margin-left: 10px; }
+
+      #section-booking-3 .booking-right-bill .brb-bill .mg-bottom-2, #section-booking-45 .booking-right-bill .brb-bill .mg-bottom-2,
+      #section-booking-6 .booking-right-bill .brb-bill .mg-bottom-2, #section-booking-9 .booking-right-bill .brb-bill .mg-bottom-2,
+      #section-booking-10 .booking-right-bill .brb-bill .mg-bottom-2, #section-booking-78 .booking-right-bill .brb-bill .mg-bottom-2 {
+        margin-bottom: 30px; }
+    #section-booking-3 .booking-right-bill .btn.btn-default, #section-booking-45 .booking-right-bill .btn.btn-default,
+    #section-booking-6 .booking-right-bill .btn.btn-default, #section-booking-9 .booking-right-bill .btn.btn-default,
+    #section-booking-10 .booking-right-bill .btn.btn-default, #section-booking-78 .booking-right-bill .btn.btn-default {
+      background: #fff;
+      padding: 10px 30px;
+      color: #307be7;
+      font-size: 13px;
+      text-transform: uppercase;
+      border: 1px solid #cdd8ea;
+      width: 100%;
+      margin-bottom: 30px; }
+      @media screen and (max-width: 991px) {
+        #section-booking-3 .booking-right-bill .btn.btn-default, #section-booking-45 .booking-right-bill .btn.btn-default,
+        #section-booking-6 .booking-right-bill .btn.btn-default, #section-booking-9 .booking-right-bill .btn.btn-default,
+        #section-booking-10 .booking-right-bill .btn.btn-default, #section-booking-78 .booking-right-bill .btn.btn-default {
+          margin-top: 10px; } }
+      #section-booking-3 .booking-right-bill .btn.btn-default i, #section-booking-45 .booking-right-bill .btn.btn-default i,
+      #section-booking-6 .booking-right-bill .btn.btn-default i, #section-booking-9 .booking-right-bill .btn.btn-default i,
+      #section-booking-10 .booking-right-bill .btn.btn-default i, #section-booking-78 .booking-right-bill .btn.btn-default i {
+        margin-right: 10px; }
+  #section-booking-3 .booking-right-success, #section-booking-45 .booking-right-success,
+  #section-booking-6 .booking-right-success, #section-booking-9 .booking-right-success,
+  #section-booking-10 .booking-right-success, #section-booking-78 .booking-right-success {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    border-radius: 3px;
+    padding: 30px 20px;
+    padding-top: 60px;
+    height: auto;
+    transition: all .2s ease; }
+    #section-booking-3 .booking-right-success i, #section-booking-45 .booking-right-success i,
+    #section-booking-6 .booking-right-success i, #section-booking-9 .booking-right-success i,
+    #section-booking-10 .booking-right-success i, #section-booking-78 .booking-right-success i {
+      font-size: 150px;
+      margin-bottom: 42px;
+      color: #307be7; }
+    #section-booking-3 .booking-right-success h4, #section-booking-45 .booking-right-success h4,
+    #section-booking-6 .booking-right-success h4, #section-booking-9 .booking-right-success h4,
+    #section-booking-10 .booking-right-success h4, #section-booking-78 .booking-right-success h4 {
+      font-weight: 400;
+      margin-bottom: 10px;
+      font-size: 15px; }
+      #section-booking-3 .booking-right-success h4 span, #section-booking-45 .booking-right-success h4 span,
+      #section-booking-6 .booking-right-success h4 span, #section-booking-9 .booking-right-success h4 span,
+      #section-booking-10 .booking-right-success h4 span, #section-booking-78 .booking-right-success h4 span {
+        color: #307be7;
+        font-weight: bold; }
+    #section-booking-3 .booking-right-success .brs-payment-btn, #section-booking-45 .booking-right-success .brs-payment-btn,
+    #section-booking-6 .booking-right-success .brs-payment-btn, #section-booking-9 .booking-right-success .brs-payment-btn,
+    #section-booking-10 .booking-right-success .brs-payment-btn, #section-booking-78 .booking-right-success .brs-payment-btn {
+      border-top: 1px solid #cdd8ea;
+      padding: 30px;
+      padding-bottom: 0;
+      margin: 0 -20px;
+      margin-top: 60px; }
+      #section-booking-3 .booking-right-success .brs-payment-btn .btn.btn-info, #section-booking-45 .booking-right-success .brs-payment-btn .btn.btn-info,
+      #section-booking-6 .booking-right-success .brs-payment-btn .btn.btn-info, #section-booking-9 .booking-right-success .brs-payment-btn .btn.btn-info,
+      #section-booking-10 .booking-right-success .brs-payment-btn .btn.btn-info, #section-booking-78 .booking-right-success .brs-payment-btn .btn.btn-info {
+        background: #307be7;
+        padding: 10px 42px;
+        color: #fff;
+        border: none;
+        margin: 0 7.5px;
+        text-transform: uppercase;
+        border: 1px solid #307be7; }
+  #section-booking-3 .booking-right-info, #section-booking-45 .booking-right-info,
+  #section-booking-9 .booking-right-info,
+  #section-booking-10 .booking-right-info, #section-booking-78 .booking-right-info {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    border-radius: 3px;
+    padding: 30px 0;
+    margin-bottom: 20px;
+    height: auto;
+    transition: all .2s ease; }
+#section-booking-6 .booking-right-info {
+  border: 1px solid #cdd8ea;
+  background: #fff;
+  border-radius: 3px;
+  padding: 20px 0 20px;
+  margin-bottom: 30px;
+  height: auto;
+  transition: all .2s ease;
+}
+@media screen and (max-width: 991px) {
+      #section-booking-3 .booking-right-info, #section-booking-45 .booking-right-info,
+  #section-booking-6 .booking-right-info, #section-booking-9 .booking-right-info,
+  #section-booking-10 .booking-right-info, #section-booking-78 .booking-right-info {
+    margin-bottom: 20px;
+  }
+    }
+    #section-booking-3 .booking-right-info h4, #section-booking-45 .booking-right-info h4,
+    #section-booking-6 .booking-right-info h4, #section-booking-9 .booking-right-info h4,
+    #section-booking-10 .booking-right-info h4, #section-booking-78 .booking-right-info h4 {
+      color: #4d4d4d;
+      font-weight: bold;
+      font-size: 16px;
+      margin-bottom: 10px;
+      padding: 0 22px; }
+    #section-booking-3 .booking-right-info .table-responsive, #section-booking-45 .booking-right-info .table-responsive,
+    #section-booking-6 .booking-right-info .table-responsive, #section-booking-9 .booking-right-info .table-responsive,
+    #section-booking-10 .booking-right-info .table-responsive, #section-booking-78 .booking-right-info .table-responsive {
+      position: relative;
+      overflow: auto;
+      margin-bottom: 0px; }
+      #section-booking-3 .booking-right-info .table-responsive table, #section-booking-45 .booking-right-info .table-responsive table,
+      #section-booking-6 .booking-right-info .table-responsive table, #section-booking-9 .booking-right-info .table-responsive table,
+      #section-booking-10 .booking-right-info .table-responsive table, #section-booking-78 .booking-right-info .table-responsive table {
+        border: 10px solid #eceef3; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-info .table-responsive table, #section-booking-45 .booking-right-info .table-responsive table,
+          #section-booking-6 .booking-right-info .table-responsive table, #section-booking-9 .booking-right-info .table-responsive table,
+          #section-booking-10 .booking-right-info .table-responsive table, #section-booking-78 .booking-right-info .table-responsive table {
+            min-width: 992px; } }
+        @media screen and (max-width: 767px) {
+          #section-booking-3 .booking-right-info .table-responsive table, #section-booking-45 .booking-right-info .table-responsive table,
+          #section-booking-6 .booking-right-info .table-responsive table, #section-booking-9 .booking-right-info .table-responsive table,
+          #section-booking-10 .booking-right-info .table-responsive table, #section-booking-78 .booking-right-info .table-responsive table {
+            margin-bottom: 0px; } }
+        #section-booking-6 .booking-right-info .table-responsive table th{
+          border-top: none;
+          border-bottom: 1px solid #cdd8ea;
+          padding: 10px 0 10px 10px;
+          font-size: 14px;
+          color: #4d4d4d;}
+        #section-booking-3 .booking-right-info .table-responsive table th, #section-booking-45 .booking-right-info .table-responsive table th,
+        #section-booking-9 .booking-right-info .table-responsive table th,
+        #section-booking-10 .booking-right-info .table-responsive table th, #section-booking-78 .booking-right-info .table-responsive table th {
+          border-top: none;
+          border-bottom: 1px solid #cdd8ea;
+          padding: 20px 12px;
+          font-size: 14px;
+          color: #4d4d4d;
+          text-align: center; }
+        #section-booking-3 .booking-right-info .table-responsive table tr, #section-booking-45 .booking-right-info .table-responsive table tr,
+        #section-booking-6 .booking-right-info .table-responsive table tr, #section-booking-9 .booking-right-info .table-responsive table tr,
+        #section-booking-10 .booking-right-info .table-responsive table tr, #section-booking-78 .booking-right-info .table-responsive table tr {
+          background: none; }
+        #section-booking-6 .booking-right-info .bri-price-cont{
+          padding: 10px 0 0 0;
+        }
+        @media screen and (max-width: 991px) {
+          #section-booking-6 .booking-right-info .bri-price-cont{
+            padding: 10px 0 0 0;
+            text-align: right;
+          }
+        }
+        #section-booking-6 .booking-right-info .table-responsive table td{
+          border-bottom: 1px solid #cdd8ea;
+          color: #696969;
+          font-size: 14px;
+          transition: all .2s ease;
+        }
+        #section-booking-6 .booking-right-info .table-responsive table td input {
+          position: relative;
+          margin: 0;
+          margin-right: 5px;
+          font-size: 12px;
+          }
+        #section-booking-3 .booking-right-info .table-responsive table td, #section-booking-45 .booking-right-info .table-responsive table td,
+        #section-booking-9 .booking-right-info .table-responsive table td,
+        #section-booking-10 .booking-right-info .table-responsive table td, #section-booking-78 .booking-right-info .table-responsive table td {
+          border-bottom: 1px solid #cdd8ea;
+          padding: 20px 12px;
+          color: #696969;
+          font-size: 14px;
+          text-align: center;
+          transition: all .2s ease; }
+          #section-booking-3 .booking-right-info .table-responsive table td button, #section-booking-45 .booking-right-info .table-responsive table td button,
+          #section-booking-9 .booking-right-info .table-responsive table td button,
+          #section-booking-10 .booking-right-info .table-responsive table td button, #section-booking-78 .booking-right-info .table-responsive table td button {
+            outline: none;
+            background: none;
+            box-shadow: none;
+            position: relative;
+            color: #696969;
+            font-size: 13px;
+            font-weight: bold;
+            transition: all .2s ease;
+            padding-left: 20px;
+            border: none;
+            cursor: pointer; }
+            #section-booking-3 .booking-right-info .table-responsive table td button:hover, #section-booking-3 .booking-right-info .table-responsive table td button:focus, #section-booking-45 .booking-right-info .table-responsive table td button:hover, #section-booking-45 .booking-right-info .table-responsive table td button:focus,
+            #section-booking-9 .booking-right-info .table-responsive table td button:hover, #section-booking-9 .booking-right-info .table-responsive table td button:focus,
+            #section-booking-10 .booking-right-info .table-responsive table td button:hover,
+            #section-booking-10 .booking-right-info .table-responsive table td button:focus, #section-booking-78 .booking-right-info .table-responsive table td button:hover, #section-booking-78 .booking-right-info .table-responsive table td button:focus {
+              color: #307be7; }
+            #section-booking-3 .booking-right-info .table-responsive table td button:before, #section-booking-45 .booking-right-info .table-responsive table td button:before,
+            #section-booking-9 .booking-right-info .table-responsive table td button:before,
+            #section-booking-10 .booking-right-info .table-responsive table td button:before, #section-booking-78 .booking-right-info .table-responsive table td button:before {
+              content: '';
+              background: url("../images/logged-step/delete.png") no-repeat center;
+              width: 13px;
+              height: 14px;
+              position: absolute;
+              top: 3px;
+              left: 0; }
+          #section-booking-3 .booking-right-info .table-responsive table td.active, #section-booking-45 .booking-right-info .table-responsive table td.active,
+          #section-booking-6 .booking-right-info .table-responsive table td.active, #section-booking-9 .booking-right-info .table-responsive table td.active,
+          #section-booking-10 .booking-right-info .table-responsive table td.active, #section-booking-78 .booking-right-info .table-responsive table td.active {
+            color: #307be7;
+            font-weight: bold; }
+    #section-booking-3 .booking-right-info .bri-price, #section-booking-45 .booking-right-info .bri-price,
+    #section-booking-6 .booking-right-info .bri-price, #section-booking-9 .booking-right-info .bri-price,
+    #section-booking-10 .booking-right-info .bri-price, #section-booking-78 .booking-right-info .bri-price {
+      padding: 0 20px; }
+      @media screen and (max-width: 991px){
+        #section-booking-3 .booking-right-info .bri-price, #section-booking-45 .booking-right-info .bri-price,
+        #section-booking-6 .booking-right-info .bri-price, #section-booking-9 .booking-right-info .bri-price,
+        #section-booking-10 .booking-right-info .bri-price, #section-booking-78 .booking-right-info .bri-price {
+          padding: 0 20px; }
+      }
+      #section-booking-3 .booking-right-info .bri-price .btn.btn-default, #section-booking-45 .booking-right-info .bri-price .btn.btn-default,
+      #section-booking-6 .booking-right-info .bri-price .btn.btn-default, #section-booking-9 .booking-right-info .bri-price .btn.btn-default,
+      #section-booking-10 .booking-right-info .bri-price .btn.btn-default, #section-booking-78 .booking-right-info .bri-price .btn.btn-default {
+        background: #fff;
+        color: #307be7;
+        font-size: 13px;
+        border: none;
+        border: 1px dashed #307be7;
+        transition: all .2s ease;  
+        font-weight: 700;
+      }
+#section-booking-6 .booking-right-info .bri-price .btn.btn-default {
+  padding: 10px 17px 6px;
+    margin: 20px 3px;
+    border-radius: 2px;
+}
+#section-booking-6 .booking-right-info .bri-price .btn.btn-default:hover {
+  transform: none;
+}
+#section-booking-6 .booking-right-info .bri-price .btn.btn-default i {
+  font-size: 14px;
+}
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-info .bri-price .btn.btn-default, #section-booking-45 .booking-right-info .bri-price .btn.btn-default,
+          #section-booking-9 .booking-right-info .bri-price .btn.btn-default,
+          #section-booking-10 .booking-right-info .bri-price .btn.btn-default, #section-booking-78 .booking-right-info .bri-price .btn.btn-default {
+            margin-top: 10px; } }
+    #section-booking-6 .booking-right-info .bri-price .btn.btn-default:hover {
+        background: #307be7;
+        color: #fff;
+        transition: all .2s ease;
+    }        
+        #section-booking-3 .booking-right-info .bri-price .btn.btn-default i, #section-booking-45 .booking-right-info .bri-price .btn.btn-default i,
+        #section-booking-6 .booking-right-info .bri-price .btn.btn-default i, #section-booking-9 .booking-right-info .bri-price .btn.btn-default i,
+        #section-booking-10 .booking-right-info .bri-price .btn.btn-default i, #section-booking-78 .booking-right-info .bri-price .btn.btn-default i {
+          margin-right: 10px; }
+      #section-booking-3 .booking-right-info .bri-price .bri-price-cont p, #section-booking-45 .booking-right-info .bri-price .bri-price-cont p,
+      #section-booking-6 .booking-right-info .bri-price .bri-price-cont p, #section-booking-9 .booking-right-info .bri-price .bri-price-cont p,
+      #section-booking-10 .booking-right-info .bri-price .bri-price-cont p, #section-booking-78 .booking-right-info .bri-price .bri-price-cont p {
+        font-size: 13px;
+        color: #4d4d4d; }
+        #section-booking-3 .booking-right-info .bri-price .bri-price-cont p span, #section-booking-45 .booking-right-info .bri-price .bri-price-cont p span,
+        #section-booking-6 .booking-right-info .bri-price .bri-price-cont p span, #section-booking-9 .booking-right-info .bri-price .bri-price-cont p span,
+        #section-booking-10 .booking-right-info .bri-price .bri-price-cont p span, #section-booking-78 .booking-right-info .bri-price .bri-price-cont p span {
+          font-weight: bold;
+          margin-left: 10px;
+          display: inline-block;
+          min-width: 75px;
+          color: #307be7; }
+        #section-booking-3 .booking-right-info .bri-price .bri-price-cont p:first-child, #section-booking-45 .booking-right-info .bri-price .bri-price-cont p:first-child,
+        #section-booking-6 .booking-right-info .bri-price .bri-price-cont p:first-child, #section-booking-9 .booking-right-info .bri-price .bri-price-cont p:first-child,
+        #section-booking-10 .booking-right-info .bri-price .bri-price-cont p:first-child, #section-booking-78 .booking-right-info .bri-price .bri-price-cont p:first-child {
+          margin-bottom: 10px; }
+    #section-booking-3 .booking-right-info .bri-profile, #section-booking-45 .booking-right-info .bri-profile,
+    #section-booking-9 .booking-right-info .bri-profile, #section-booking-6 .booking-right-info .bri-profile,
+    #section-booking-10 .booking-right-info .bri-profile, #section-booking-78 .booking-right-info .bri-profile {
+      padding-top: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 30px;
+      border-top: 1px solid #cdd8ea; }
+      @media screen and (max-width: 767px) {
+        #section-booking-3 .booking-right-info .bri-profile, #section-booking-45 .booking-right-info .bri-profile,
+        #section-booking-9 .booking-right-info .bri-profile,
+        #section-booking-10 .booking-right-info .bri-profile, #section-booking-78 .booking-right-info .bri-profile {
+          padding: 30px 20px;
+          padding-bottom: 0; } }
+      #section-booking-3 .booking-right-info .bri-profile h4, #section-booking-45 .booking-right-info .bri-profile h4,
+      #section-booking-6 .booking-right-info .bri-profile h4, #section-booking-9 .booking-right-info .bri-profile h4,
+      #section-booking-10 .booking-right-info .bri-profile h4, #section-booking-78 .booking-right-info .bri-profile h4 {
+        color: #4d4d4d;
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 0;
+        margin-right: 10px;
+        padding: 0;
+        width: 100%; }
+        @media screen and (max-width: 767px) {
+          #section-booking-3 .booking-right-info .bri-profile h4, #section-booking-45 .booking-right-info .bri-profile h4,
+          #section-booking-6 .booking-right-info .bri-profile h4, #section-booking-9 .booking-right-info .bri-profile h4,
+          #section-booking-10 .booking-right-info .bri-profile h4, #section-booking-78 .booking-right-info .bri-profile h4 {
+            margin-bottom: 20px;
+            margin-right: 0; } }
+      #section-booking-3 .booking-right-info .bri-profile .form-group, #section-booking-45 .booking-right-info .bri-profile .form-group,
+      #section-booking-6 .booking-right-info .bri-profile .form-group, #section-booking-9 .booking-right-info .bri-profile .form-group,
+      #section-booking-10 .booking-right-info .bri-profile .form-group, #section-booking-78 .booking-right-info .bri-profile .form-group {
+        margin-bottom: 0;
+        width: 100%; }
+        #section-booking-3 .booking-right-info .bri-profile .form-group select, #section-booking-45 .booking-right-info .bri-profile .form-group select,
+        #section-booking-6 .booking-right-info .bri-profile .form-group select, #section-booking-9 .booking-right-info .bri-profile .form-group select,
+        #section-booking-10 .booking-right-info .bri-profile .form-group select, #section-booking-78 .booking-right-info .bri-profile .form-group select {
+          height: 42px;
+          font-size: 14px;
+          color: #696969;
+          outline: none; }
+      #section-booking-3 .booking-right-info .bri-profile ul, #section-booking-45 .booking-right-info .bri-profile ul,
+      #section-booking-6 .booking-right-info .bri-profile ul, #section-booking-9 .booking-right-info .bri-profile ul,
+      #section-booking-10 .booking-right-info .bri-profile ul, #section-booking-78 .booking-right-info .bri-profile ul {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+        margin: 0 0px;
+        margin-top: 20px;
+        list-style-type: none;
+        padding-left: 0; }
+        @media screen and (max-width: 767px) {
+          #section-booking-3 .booking-right-info .bri-profile ul, #section-booking-45 .booking-right-info .bri-profile ul,
+      #section-booking-6 .booking-right-info .bri-profile ul, #section-booking-9 .booking-right-info .bri-profile ul,
+      #section-booking-10 .booking-right-info .bri-profile ul, #section-booking-78 .booking-right-info .bri-profile ul{
+        margin-top: 0px;
+      }
+
+        }
+        #section-booking-3 .booking-right-info .bri-profile ul li, #section-booking-45 .booking-right-info .bri-profile ul li,
+        #section-booking-6 .booking-right-info .bri-profile ul li, #section-booking-9 .booking-right-info .bri-profile ul li,
+        #section-booking-10 .booking-right-info .bri-profile ul li, #section-booking-78 .booking-right-info .bri-profile ul li {
+          text-align: left;
+          padding: 0;
+          word-wrap: break-word;
+          vertical-align: middle;
+          margin-bottom: 15px;
+        }
+        .li-left{
+          width: 35%;
+          max-width: 130px;
+        }
+        .li-right{
+
+          width: 65%;
+        }
+          @media screen and (max-width: 767px) {
+            #section-booking-3 .booking-right-info .bri-profile ul li, #section-booking-45 .booking-right-info .bri-profile ul li,
+            #section-booking-6 .booking-right-info .bri-profile ul li, #section-booking-9 .booking-right-info .bri-profile ul li,
+            #section-booking-10 .booking-right-info .bri-profile ul li, #section-booking-78 .booking-right-info .bri-profile ul li {
+              width: 50%;
+              padding: 0;
+              text-align: left; } }
+          #section-booking-3 .booking-right-info .bri-profile ul li .conf-f, #section-booking-45 .booking-right-info .bri-profile ul li .conf-f,
+          #section-booking-6 .booking-right-info .bri-profile ul li .conf-f, #section-booking-9 .booking-right-info .bri-profile ul li .conf-f,
+          #section-booking-10 .booking-right-info .bri-profile ul li .conf-f, #section-booking-78 .booking-right-info .bri-profile ul li .conf-f {
+            font-size: 14px;
+            font-weight: 300;
+            margin-bottom: 5px;
+            color: #696969; }
+          #section-booking-3 .booking-right-info .bri-profile ul li .conf-t, #section-booking-45 .booking-right-info .bri-profile ul li .conf-t,
+          #section-booking-6 .booking-right-info .bri-profile ul li .conf-t, #section-booking-9 .booking-right-info .bri-profile ul li .conf-t,
+          #section-booking-10 .booking-right-info .bri-profile ul li .conf-t, #section-booking-78 .booking-right-info .bri-profile ul li .conf-t {
+            font-size: 14px;
+            margin-bottom: 5px; }
+            @media screen and (max-width: 767px) {
+              #section-booking-3 .booking-right-info .bri-profile ul li .conf-t, #section-booking-45 .booking-right-info .bri-profile ul li .conf-t,
+              #section-booking-6 .booking-right-info .bri-profile ul li .conf-t, #section-booking-9 .booking-right-info .bri-profile ul li .conf-t,
+              #section-booking-10 .booking-right-info .bri-profile ul li .conf-t, #section-booking-78 .booking-right-info .bri-profile ul li .conf-t {
+                margin-bottom: 0; } }
+                section-booking-3 .booking-right-info .bri-profile ul li i, #section-booking-45 .booking-right-info .bri-profile ul li i,
+                #section-booking-6 .booking-right-info .bri-profile ul li i, #section-booking-9 .booking-right-info .bri-profile ul li i,
+                #section-booking-10 .booking-right-info .bri-profile ul li i, #section-booking-78 .booking-right-info .bri-profile ul li i {
+                  margin: 0 10px 0 0;
+                  color: rgb(124, 131, 138);
+                  font-size: 14px;
+                }
+                #section-booking-6 .booking-right-info .bri-profile ul li:hover {
+                  color: #307be7;
+                }
+    #section-booking-3 .booking-right-info .bri-payment-btn, #section-booking-45 .booking-right-info .bri-payment-btn,
+    #section-booking-6 .booking-right-info .bri-payment-btn, #section-booking-9 .booking-right-info .bri-payment-btn,
+    #section-booking-10 .booking-right-info .bri-payment-btn, #section-booking-78 .booking-right-info .bri-payment-btn {
+      border-top: 1px solid #cdd8ea;
+      padding: 30px;
+      padding-bottom: 0; }
+      #section-booking-3 .booking-right-info .bri-payment-btn .btn.btn-info, #section-booking-45 .booking-right-info .bri-payment-btn .btn.btn-info,
+      #section-booking-6 .booking-right-info .bri-payment-btn .btn.btn-info, #section-booking-9 .booking-right-info .bri-payment-btn .btn.btn-info,
+      #section-booking-10 .booking-right-info .bri-payment-btn .btn.btn-info, #section-booking-78 .booking-right-info .bri-payment-btn .btn.btn-info {
+        background: #307be7;
+        padding: 10px 42px;
+        color: #fff;
+        border: none;
+        margin: 0 7.5px;
+        text-transform: uppercase;
+        border: 1px solid #cdd8ea;
+      }
+  #section-booking-3 .booking-right-payment, #section-booking-45 .booking-right-payment,
+  #section-booking-6 .booking-right-payment, #section-booking-9 .booking-right-payment,
+  #section-booking-10 .booking-right-payment, #section-booking-78 .booking-right-payment {
+    padding: 20px;
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    border-radius: 3px;
+    height: auto;
+    transition: all .2s ease; 
+    margin-bottom: 20px}
+#section-booking-3 .booking-right-payment .card, #section-booking-45 .booking-right-payment .card,
+#section-booking-6 .booking-right-payment .card, #section-booking-9 .booking-right-payment .card,
+#section-booking-10 .booking-right-payment .card, #section-booking-78 .booking-right-payment .card
+{
+    /*background: #f3f5f7;*/
+    font-size: 14px;
+    color: #4d4d4d;
+    font-weight: 300;
+    line-height: 35px;
+    border-radius: 2px;
+    margin-bottom: 30px;
+  border: 0;
+  padding: 0 5px;
+}
+
+#section-booking-78 .booking-right-payment .card .no-border {
+  border-top: 0;
+}
+
+#section-booking-78 .booking-right-payment .card .detail-bill:hover {
+  color: #307be8;
+  transition: all .3s ease-in;
+}
+
+#section-booking-3 .booking-right-payment .card i, #section-booking-45 .booking-right-payment .card i,
+#section-booking-6 .booking-right-payment .card i, #section-booking-9 .booking-right-payment .card i,
+#section-booking-10 .booking-right-payment .card i, #section-booking-78 .booking-right-payment .card i {
+    margin-right: 10px;
+    font-size: 16px;
+    color: #8c8f94;
+}
+#section-booking-78 .booking-right-payment .card hr {
+    width: 93%;
+    margin: 5px auto;
+    border-top: 1px dashed #307be8;
+}
+
+    #section-booking-3 .booking-right-payment .brp-right, #section-booking-45 .booking-right-payment .brp-right,
+    #section-booking-6 .booking-right-payment .brp-right, #section-booking-9 .booking-right-payment .brp-right,
+    #section-booking-10 .booking-right-payment .brp-right, #section-booking-78 .booking-right-payment .brp-right {
+      border: 1px solid #cdd8ea;
+      padding: 20px 0;
+      margin-left: -15px; }
+      @media screen and (max-width: 991px) {
+        #section-booking-3 .booking-right-payment .brp-right, #section-booking-45 .booking-right-payment .brp-right,
+        #section-booking-6 .booking-right-payment .brp-right, #section-booking-9 .booking-right-payment .brp-right,
+        #section-booking-10 .booking-right-payment .brp-right, #section-booking-78 .booking-right-payment .brp-right {
+          margin-left: 0;
+          margin-bottom: 30px; } }
+      #section-booking-3 .booking-right-payment .brp-right p, #section-booking-45 .booking-right-payment .brp-right p,
+      #section-booking-6 .booking-right-payment .brp-right p, #section-booking-9 .booking-right-payment .brp-right p,
+      #section-booking-10 .booking-right-payment .brp-right p, #section-booking-78 .booking-right-payment .brp-right p {
+        padding: 0 15px;
+        color: #4d4d4d;
+        font-size: 14px;
+        margin-bottom: 15px; }
+        #section-booking-3 .booking-right-payment .brp-right p.df-r, #section-booking-45 .booking-right-payment .brp-right p.df-r,
+        #section-booking-6 .booking-right-payment .brp-right p.df-r, #section-booking-9 .booking-right-payment .brp-right p.df-r,
+        #section-booking-10 .booking-right-payment .brp-right p.df-r, #section-booking-78 .booking-right-payment .brp-right p.df-r {
+          width: 50%;
+          padding-left: 0; }
+        #section-booking-3 .booking-right-payment .brp-right p.df-l, #section-booking-45 .booking-right-payment .brp-right p.df-l,
+        #section-booking-6 .booking-right-payment .brp-right p.df-l, #section-booking-9 .booking-right-payment .brp-right p.df-l,
+        #section-booking-10 .booking-right-payment .brp-right p.df-l, #section-booking-78 .booking-right-payment .brp-right p.df-l {
+          width: 50%;
+          margin-right: 10px;
+          padding-right: 0; }
+      #section-booking-3 .booking-right-payment .brp-right hr, #section-booking-45 .booking-right-payment .brp-right hr,
+      #section-booking-6 .booking-right-payment .brp-right hr, #section-booking-9 .booking-right-payment .brp-right hr,
+      #section-booking-10 .booking-right-payment .brp-right hr, #section-booking-78 .booking-right-payment .brp-right hr {
+        /*border: .5px solid #cdd8ea !important;*/
+        margin: 15px 0; }
+      #section-booking-3 .booking-right-payment .brp-right h4, #section-booking-45 .booking-right-payment .brp-right h4,
+      #section-booking-6 .booking-right-payment .brp-right h4, #section-booking-9 .booking-right-payment .brp-right h4,
+      #section-booking-10 .booking-right-payment .brp-right h4, #section-booking-78 .booking-right-payment .brp-right h4 {
+        padding: 0 15px;
+        font-size: 15px;
+        font-weight: bold;
+        color: #4d4d4d;
+        margin-bottom: 15px; }
+      #section-booking-3 .booking-right-payment .brp-right h5, #section-booking-45 .booking-right-payment .brp-right h5,
+      #section-booking-6 .booking-right-payment .brp-right h5, #section-booking-9 .booking-right-payment .brp-right h5,
+      #section-booking-10 .booking-right-payment .brp-right h5, #section-booking-78 .booking-right-payment .brp-right h5 {
+        font-weight: 700;
+        padding: 0 15px;
+        font-size: 15px;
+        margin-bottom: 0;
+        margin-top: 10px; }
+    #section-booking-3 .booking-right-payment input, #section-booking-45 .booking-right-payment input,
+    #section-booking-6 .booking-right-payment input, #section-booking-9 .booking-right-payment input,
+    #section-booking-10 .booking-right-payment input, #section-booking-78 .booking-right-payment input {
+      outline: none !important; }
+    #section-booking-3 .booking-right-payment .brp-left .brp-left-progress, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress,
+    #section-booking-6 .booking-right-payment .brp-left .brp-left-progress, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress,
+    #section-booking-10 .booking-right-payment .brp-left .brp-left-progress, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress {
+      margin-bottom: 42px;
+      position: relative; }
+      #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul,
+      #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul,
+      #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        list-style-type: none;
+        margin-bottom: 0;
+        padding-left: 0;
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+        height: 100%;
+        padding: 0 30px; }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul,
+          #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul,
+          #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul {
+            padding: 0 20px; } }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul,
+          #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul,
+          #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul {
+            padding: 0; } }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul li, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul li,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul li, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul li,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul li, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul li {
+          width: 33.3333%; }
+      #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1,
+      #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1,
+      #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 {
+        position: relative;
+        z-index: 2; }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li i, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li i,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li i, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li i,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li i, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li i {
+          border: 1px solid #e3e4e4;
+          background: #fff;
+          border-radius: 100%;
+          padding: 10px;
+          padding-left: 11px;
+          color: #e3e4e4;
+          transition: all .2s ease; }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li.active i, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li.active i,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li.active i, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li.active i,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li.active i, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li.active i {
+          background: #307be7;
+          border-color: #307be7;
+          color: #fff; }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p {
+          font-size: 13px;
+          color: #4d4d4d;
+          margin-bottom: 0;
+          margin-top: 10px;
+          text-align: center;
+          position: relative; }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p,
+            #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p,
+            #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li p {
+              position: absolute; } }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p {
+          left: -53px; }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p,
+            #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p,
+            #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:first-child p {
+              left: 0; } }
+        @media screen and (max-width: 991px) {
+          #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:nth-child(2) p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:nth-child(2) p,
+          #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:nth-child(2) p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:nth-child(2) p,
+          #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:nth-child(2) p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:nth-child(2) p {
+            left: 50%;
+            margin-left: -25px; } }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p {
+          right: -60px; }
+          @media screen and (max-width: 1199px) {
+            #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p,
+            #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p,
+            #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p {
+              right: -50px; } }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p,
+            #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p,
+            #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-1 li:last-child p {
+              right: 0; } }
+      #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2,
+      #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2,
+      #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 {
+        text-align: center;
+        position: absolute;
+        width: 100%;
+        top: 17.5px;
+        z-index: 0; }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 li, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 li,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 li, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 li,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 li, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-2 li {
+          width: 50%;
+          height: 1px;
+          background: #e3e4e4; }
+      #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3,
+      #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3,
+      #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 {
+        text-align: center;
+        position: absolute;
+        width: 100%;
+        top: 17.5px;
+        z-index: 1; }
+        #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li,
+        #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li,
+        #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li {
+          width: 50%;
+          border: 1px solid #307be7;
+          width: 0;
+          transition: all .6s ease; }
+          #section-booking-3 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li.active, #section-booking-45 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li.active,
+          #section-booking-6 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li.active, #section-booking-9 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li.active,
+          #section-booking-10 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li.active, #section-booking-78 .booking-right-payment .brp-left .brp-left-progress ul.brp-left-progress-3 li.active {
+            width: 50%; }
+    #section-booking-3 .booking-right-payment .brp-left h4, #section-booking-45 .booking-right-payment .brp-left h4,
+    #section-booking-6 .booking-right-payment .brp-left h4, #section-booking-9 .booking-right-payment .brp-left h4,
+    #section-booking-10 .booking-right-payment .brp-left h4, #section-booking-78 .booking-right-payment .brp-left h4 {
+      color: #4d4d4d;
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 20px; }
+      @media screen and (max-width: 991px) {
+        #section-booking-3 .booking-right-payment .brp-left h4, #section-booking-45 .booking-right-payment .brp-left h4,
+        #section-booking-6 .booking-right-payment .brp-left h4, #section-booking-9 .booking-right-payment .brp-left h4,
+        #section-booking-10 .booking-right-payment .brp-left h4, #section-booking-78 .booking-right-payment .brp-left h4 {
+          padding-top: 30px; } }
+          @media screen and (max-width: 767px) {
+            #section-booking-3 .booking-right-payment .brp-left h4, #section-booking-45 .booking-right-payment .brp-left h4,
+            #section-booking-6 .booking-right-payment .brp-left h4, #section-booking-9 .booking-right-payment .brp-left h4,
+            #section-booking-10 .booking-right-payment .brp-left h4, #section-booking-78 .booking-right-payment .brp-left h4 {
+              padding-top: 0px; } }
+    #section-booking-3 .booking-right-payment .brp-left .form-group, #section-booking-45 .booking-right-payment .brp-left .form-group,
+    #section-booking-6 .booking-right-payment .brp-left .form-group, #section-booking-9 .booking-right-payment .brp-left .form-group,
+    #section-booking-10 .booking-right-payment .brp-left .form-group, #section-booking-78 .booking-right-payment .brp-left .form-group {
+      margin-bottom: 0; }
+      #section-booking-3 .booking-right-payment .brp-left .form-group .form-check.form-check-inline, #section-booking-45 .booking-right-payment .brp-left .form-group .form-check.form-check-inline,
+      #section-booking-6 .booking-right-payment .brp-left .form-group .form-check.form-check-inline, #section-booking-9 .booking-right-payment .brp-left .form-group .form-check.form-check-inline,
+      #section-booking-10 .booking-right-payment .brp-left .form-group .form-check.form-check-inline, #section-booking-78 .booking-right-payment .brp-left .form-group .form-check.form-check-inline {
+        margin-left: 0;
+        color: #4d4d4d;
+        font-size: 14px; }
+        #section-booking-3 .booking-right-payment .brp-left .form-group .form-check.form-check-inline img, #section-booking-45 .booking-right-payment .brp-left .form-group .form-check.form-check-inline img,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .form-check.form-check-inline img, #section-booking-9 .booking-right-payment .brp-left .form-group .form-check.form-check-inline img,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .form-check.form-check-inline img, #section-booking-78 .booking-right-payment .brp-left .form-group .form-check.form-check-inline img {
+          margin-left: 10px; }
+        #section-booking-3 .booking-right-payment .brp-left .form-group .form-check.form-check-inline input.form-check-input, #section-booking-45 .booking-right-payment .brp-left .form-group .form-check.form-check-inline input.form-check-input,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .form-check.form-check-inline input.form-check-input, #section-booking-9 .booking-right-payment .brp-left .form-group .form-check.form-check-inline input.form-check-input,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .form-check.form-check-inline input.form-check-input, #section-booking-78 .booking-right-payment .brp-left .form-group .form-check.form-check-inline input.form-check-input {
+          margin-right: 10px;
+          position: relative;
+          top: 2px; }
+      #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group,
+      #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group,
+      #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group {
+        border: 1px solid #cdd8ea;
+        transition: all .3s ease;
+        height: 0;
+        opacity: 0;
+        -webkit-transform: scale(0);
+                transform: scale(0); }
+        #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group.show, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group.show,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group.show, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group.show,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group.show, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group.show {
+          height: auto;
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          opacity: 1;
+          margin-top: 15px;
+          padding: 30px 10px;
+          margin-bottom: 20px; }
+        #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left {
+          width: 100%;
+          margin-right: 30px; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2 {
+            margin-bottom: 15px; }
+            @media screen and (max-width: 767px) {
+              #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .brp-visa-left img.mg-bottom-2 {
+                margin: 20px 0; } }
+        #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group {
+          margin-bottom: 10px; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check {
+            margin-top: 20px;
+            margin-bottom: 0; }
+            #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label,
+            #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label,
+            #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label {
+              font-size: 14px;
+              color: #4d4d4d; }
+              #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label input, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label input,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label input, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label input,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label input, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group .form-check .form-check-label input {
+                height: auto; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group label, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group label,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group label, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group label,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group label, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group label {
+            font-size: 14px;
+            color: #4d4d4d;
+            margin-bottom: 10px; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group input, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group input,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group input, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group input,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group input, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group input {
+            height: 42px;
+            color: #333333; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-webkit-input-placeholder, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-webkit-input-placeholder,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-webkit-input-placeholder, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-webkit-input-placeholder,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-webkit-input-placeholder, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-webkit-input-placeholder {
+            /* Chrome/Opera/Safari */
+            color: #333333; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-moz-placeholder, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-moz-placeholder,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-moz-placeholder, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-moz-placeholder,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-moz-placeholder, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group ::-moz-placeholder {
+            /* Firefox 19+ */
+            color: #333333; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-ms-input-placeholder, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-ms-input-placeholder,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-ms-input-placeholder, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-ms-input-placeholder,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-ms-input-placeholder, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-ms-input-placeholder {
+            /* IE 10+ */
+            color: #333333; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-moz-placeholder, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-moz-placeholder,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-moz-placeholder, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-moz-placeholder,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-moz-placeholder, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group :-moz-placeholder {
+            /* Firefox 18- */
+            color: #333333; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code {
+            position: relative; }
+            #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code img, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code img,
+            #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code img, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code img,
+            #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code img, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group .form-group.form-group-atm-code img {
+              position: absolute;
+              right: -80px;
+              bottom: 0;
+              min-height: 42px; }
+        #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group p, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group p,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group p, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group p,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group p, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group p {
+          font-size: 12px;
+          color: #4d4d4d;
+          margin-bottom: 0;
+          margin-top: 10px;
+          padding-right: 50px; }
+          @media screen and (max-width: 991px) {
+            #section-booking-3 .booking-right-payment .brp-left .form-group .brp-visa-group p, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-visa-group p,
+            #section-booking-6 .booking-right-payment .brp-left .form-group .brp-visa-group p, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-visa-group p,
+            #section-booking-10 .booking-right-payment .brp-left .form-group .brp-visa-group p, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-visa-group p {
+              padding-right: 0; } }
+      #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group,
+      #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group,
+      #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group {
+        border: 1px solid #cdd8ea;
+        height: 0;
+        transition: all .3s ease;
+        opacity: 0;
+        -webkit-transform: scale(0);
+                transform: scale(0); }
+#section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group{
+        border: none;
+}
+        #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group.show, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group.show,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group.show, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group.show,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group.show, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group.show {
+          -webkit-transform: scale(1);
+                  transform: scale(1);
+          height: auto;
+          opacity: 1;
+          margin-top: 15px;
+          padding: 10px; }
+#section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group.show {
+          padding: 0px;
+}
+        #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul,
+        #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul,
+        #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul {
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          list-style-type: none;
+          padding-left: 0;
+          margin-bottom: 0;
+          -webkit-flex-wrap: wrap;
+              -ms-flex-wrap: wrap;
+                  flex-wrap: wrap; }
+          #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li,
+          #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li,
+          #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li {
+            width: 33.3333%;
+            padding: 0 5px;
+            margin-bottom: 10px; }
+            @media screen and (max-width: 991px) {
+              #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li {
+                width: 33.3333%; } }
+            @media screen and (max-width: 767px) {
+              #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li {
+                width: 50%; } }
+            #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a,
+            #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a,
+            #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a {
+              border: 1px dashed #cdd8ea;
+              padding: 5px;
+              border-radius: 3px;
+              height: 100%;
+              -webkit-align-items: center;
+                  -ms-flex-align: center;
+                      align-items: center;
+              display: -webkit-flex;
+              display: -ms-flexbox;
+              display: flex;
+              transition: all .2s ease; }
+              #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover, #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus, #section-booking-3 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus, #section-booking-45 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus,
+              #section-booking-6 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus, #section-booking-9 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus,
+              #section-booking-10 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus, #section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active {
+                border: 1px dashed #307be7;
+                background: #f9f9f9;
+              }
+
+#section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:hover,
+#section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a.active,
+#section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:focus,
+#section-booking-78 .booking-right-payment .brp-left .form-group .brp-atm-group ul li a:active
+{
+  background: #eafaff;
+}
+    #section-booking-3 .booking-right-payment .brp-payment-btn, #section-booking-45 .booking-right-payment .brp-payment-btn,
+    #section-booking-6 .booking-right-payment .brp-payment-btn, #section-booking-9 .booking-right-payment .brp-payment-btn,
+    #section-booking-10 .booking-right-payment .brp-payment-btn, #section-booking-78 .booking-right-payment .brp-payment-btn {
+      border-top: 1px solid #cdd8ea;
+      padding: 30px;
+      margin: 0 -20px;
+      padding-bottom: 0;
+      margin-top: 30px; }
+      @media screen and (max-width: 991px) {
+        #section-booking-3 .booking-right-payment .brp-payment-btn, #section-booking-45 .booking-right-payment .brp-payment-btn,
+        #section-booking-6 .booking-right-payment .brp-payment-btn, #section-booking-9 .booking-right-payment .brp-payment-btn,
+        #section-booking-10 .booking-right-payment .brp-payment-btn, #section-booking-78 .booking-right-payment .brp-payment-btn {
+          padding: 30px 20px; } }
+      #section-booking-3 .booking-right-payment .brp-payment-btn .btn.btn-info, #section-booking-45 .booking-right-payment .brp-payment-btn .btn.btn-info,
+      #section-booking-6 .booking-right-payment .brp-payment-btn .btn.btn-info, #section-booking-9 .booking-right-payment .brp-payment-btn .btn.btn-info,
+      #section-booking-10 .booking-right-payment .brp-payment-btn .btn.btn-info, #section-booking-78 .booking-right-payment .brp-payment-btn .btn.btn-info {
+        background: #307be7;
+        padding: 10px 42px;
+        color: #fff;
+        margin: 0 7px;
+        text-transform: uppercase;
+        border: 1px solid #307be7; }
+
+#section-booking-78 .booking-right-payment .brp-left {
+  padding-top: 1.4rem;
+}
+
+#section-booking-3 .booking-right-calendar .brc-scroll-group .brc-scroll-auto {
+  overflow: auto;
+  height: 320px;
+    padding: 0 10px;
+}
+
+
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont {
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center; } }
+
+
+#section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont li:last-child {
+  text-align: left;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 50%;
+    padding-right: 0;
+}
+@media screen and (max-width: 767px) {
+    #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont li:last-child {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont li:last-child {
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-top: 0; } }
+#section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont li:last-child a {
+  margin-left: auto;
+  width: auto;
+  padding: 4px 25px;
+  display: inline-block;
+  color: #4d4d4d;
+  border: 1px solid #dadee5;
+  font-weight: 300;
+}
+@media screen and (max-width: 991px) {
+  #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont li:last-child a {
+    display: block;
+    margin-top: 10px;
+    width: 100%; } }
+
+#section-booking-3 .brc-btn .btn-default {
+  position: relative;
+  padding: 12px 30px !important;
+  padding-right: 40px !important;
+  display: inline-block !important;
+  white-space: normal;
+  width: auto !important;
+  transition: all .3s ease; }
+  #section-booking-3 .brc-btn .btn-default i {
+    position: absolute !important;
+    right: 15px;
+    top: 11px !important; }
+
+#section-booking-45 .brc-btn {
+  transition: all .2s ease;
+  height: 0;
+  opacity: 0;
+  margin: 0; }
+    @media screen and (max-width: 991px) {
+      #section-booking-45 .brc-btn p {
+        margin-bottom: 15px; } }
+  #section-booking-45 .brc-btn.show {
+    height: auto;
+    opacity: 1;
+    margin-top: 30px; }
+  @media screen and (max-width: 991px) {
+    #section-booking-45 .brc-btn .btn {
+      display: block; }
+      #section-booking-45 .brc-btn .btn i {
+        top: 10px; }
+      #section-booking-45 .brc-btn .btn.btn-info {
+        margin-top: 15px;
+        margin-left: 0; } }
+  #section-booking-45 .brc-btn .btn-default {
+    border-radius: 50px !important;
+    font-size: 13px;
+    color: #307be7;
+    font-weight: bold;
+    border: 1px solid #307be7;
+    background: transparent;
+    position: relative;
+    display: inline-block !important;
+    width: auto !important;
+    transition: all .3s ease;
+    white-space: normal;}
+    @media screen and (max-width: 991px){
+      #section-booking-45 .brc-btn .btn-default {
+        margin-bottom: 20px
+      }
+    }
+    #section-booking-45 .brc-btn .btn-default i {
+      position: absolute !important;
+      right: 8px;
+      top: 15px !important; }
+  #section-booking-45 .brc-btn .btn-info {
+    width: 100%; }
+
+/*#section-booking-6 table.bri-show-records thead tr th:nth-child(1) {*/
+  /*width: 25%; }*/
+
+/*#section-booking-6 table.bri-show-records thead tr th:nth-child(2) {*/
+  /*width: 15%; }*/
+
+#section-booking-6 table.bri-show-records thead tr th:nth-child(3) {
+  width: 15%; }
+
+#section-booking-6 table.bri-show-records thead tr th:nth-child(4) {
+  width: 18%; }
+
+#section-booking-6 table.bri-show-records thead tr th:nth-child(5) {
+  width: 12%; }
+
+#section-booking-6 table.bri-show-records thead tr th:nth-child(6) {
+  width: 12%; }
+
+#section-booking-6 table.bri-show-records thead tr th:nth-child(7) {
+  width: 5%; }
+
+#section-booking-6 table.bri-show-records .form-control {
+  font-size: 14px;
+}
+#section-booking-3 .booking-right-calendar .brc-btn .btn-default {
+    border-radius: 0;
+    font-size: 13px;
+  }
+  @media screen and (max-width: 991px){
+    #section-booking-3 .booking-right-calendar .brc-btn .btn-default {
+      margin-bottom: 20px;
+    }
+  }
+
+
+#section-booking-3 .booking-right-calendar .brc-btn p {
+  font-size: 13px;
+}
+.table_custom {
+  position: relative;
+  overflow: auto;
+  margin-bottom: 20px;
+}
+.table_custom table {
+  border: 10px solid #eceef3;
+  margin: 0;
+  min-width: 800px;
+}
+.table_custom table tr {
+  background: none;
+}
+.table_custom table thead th {
+    vertical-align: bottom;
+    border-bottom: 1px solid #dee2e6;
+}
+.table_custom table td {
+  border-bottom: 1px solid #cdd8ea;
+  padding: 20px 12px;
+  color: #696969;
+  font-size: 14px;
+  transition: all .2s ease;
+}
+.table_custom table.bri-show-records thead tr th:nth-child(1) {
+  width: 25%; }
+
+.table_custom table.bri-show-records thead tr th:nth-child(2) {
+  width: 15%; }
+
+.table_custom table.bri-show-records thead tr th:nth-child(3) {
+  width: 20%; }
+
+.table_custom table.bri-show-records thead tr th:nth-child(4) {
+  width: 15%; }
+
+.table_custom table.bri-show-records thead tr th:nth-child(5) {
+  width: 10%; }
+
+.table_custom table.bri-show-records thead tr th:nth-child(6) {
+  width: 15%; }
+
+
+.Pay_total {
+    text-align: right;
+}
+.Pay_total p {
+  font-size: 14px;
+  margin: 0 0 10px;
+}
+.Pay_total span.t_left {
+  color: #307be7;
+  font-weight: 700;
+  text-align: right;
+  min-width: 13%;
+  display: inline-block;
+}
+
+.Pay_total .sub_t_total {
+  font-weight: 700;
+  border-top: 1px dashed #307be8;
+  padding: 20px 0;
+}
+.booking-right-navigation ul li:not(:last-child) a i.fas {
+  position: absolute;
+  top: 4px;
+  right: 3px;
+}
+.booking-right-navigation ul li a {
+  color: #969db1 !important;
+}
+.booking-right-navigation ul li a.active {
+  color: #307be7 !important;
+}
+/*# sourceMappingURL=booking.css.map */
+@media screen and (max-width: 767px) {
+    #section-booking-6 {
+        margin-top: 40px;
+    }
+    #section-booking-6 .booking-right-info {
+        padding: 10px;
+    }
+    #section-booking-6 .booking-right-info h4 {
+        margin-left: 0;
+        padding: 0px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    #section-booking-6 .booking-right-info .bri-profile ul li {
+        margin: 10px 0;
+    }
+    #section-booking-6 .booking-right-info .bri-payment-btn {
+        padding:30px 20px 20px;
+    }
+  #section-booking-3 .booking-right-calendar .brc-top, #section-booking-45 .booking-right-calendar .brc-top,
+  #section-booking-6 .booking-right-calendar .brc-top, #section-booking-9 .booking-right-calendar .brc-top,
+  #section-booking-10 .booking-right-calendar .brc-top, #section-booking-78 .booking-right-calendar .brc-top,
+  #section-find-doctor-2 .booking-right-calendar .brc-top, #section-booking-78 .booking-right-calendar .brc-top{
+    padding: 0 0 10px;
+  }
+  #section-booking-3 .booking-right-calendar .mounth-title,
+  #section-find-doctor-2 .booking-right-calendar .mounth-title{
+    font-size: 16px;
+  }
+  #section-booking-3 .booking-right-calendar .table.calTable tbody td button.btnCurrent {
+    background: none !important;
+  }
+  #section-booking-3 .booking-left-menu .booking-left-menu-top .blmt-name {
+    margin-bottom: 0;
+  }
+  #section-booking-3 .booking-left-menu .booking-left-menu-hotline a {
+    font-size: 22px;
+  }
+    #section-booking-3 .booking-right-calendar .search-carlendar .button-close{
+        width: 30%;
+    }
+    #section-booking-3 .booking-right-calendar .search-carlendar .button-close button {
+        background: transparent;}
+    #section-booking-3 .booking-right-calendar .search-carlendar .search-line {
+        width: 70%;
+        display: inline-block;
+    }
+    #section-booking-3 .booking-right-calendar .brc-scroll-group .brc-scroll-auto {
+        overflow: auto;
+        height:416px;
+    }
+    #section-booking-3 .booking-right-calendar .brc-scroll-group ul.table-ul-cont {
+        margin-bottom: 10px;
+        padding: 10px 0;
+    }
+}
+
+#lichtk-layout {
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+#lichtk-layout .user-info-left-top {
+  border: 1px solid #cdd8ea;
+  border-radius: 2px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+#lichtk-layout .user-info-left-top li {
+  margin-bottom: 5px;
+}
+#lichtk-layout .user-info-left-top li:last-child {
+  margin: 0;
+}
+
+#lichtk-layout .lich-title {
+  border-left: 5px solid #307be7;
+  padding-left: 10px;
+  color: #4d4d4d;
+  text-transform: uppercase;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+#lichtk-layout .lich-table {
+}
+
+#lichtk-layout .lich-table thead th {
+  border: 0;
+  background: #f9fafc;
+}
+
+@media screen and (max-width: 767px) {
+  #lichtk-layout {
+    padding-top: 0px;
+    padding-bottom: 5px;
+    width: 100%;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0 .25rem .125rem 0 rgba(0,0,0,.05);
+    box-shadow: 0 .25rem .125rem 0 rgba(0,0,0,.05);
+  }
+  #lichtk-layout .user-info-left-top {
+    margin-bottom: 20px;
+    border: 0;
+    border-bottom: 1px solid #cdd8ea;
+    padding-left: 0;
+    padding-top: 0;
+  }
+  #lichtk-layout .lich-title {
+    font-size: 12px;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    padding: 0;
+  }
+}
+
+#section-booking-6 .booking-right-info select.sl_alert {
+  border-color: #ebcccc !important;
+  color: #a94442 !important;
+}
+
+#section-booking-6 .booking-right-info select.sl_primary {
+  color: #307be7;
+}
+
+#section-booking-6 .booking-right-info .table-responsive table td button {
+  background: #ffffff;
+  color: #696969 !important;
+  border: 1px solid #696969 !important;
+  border-radius: 60px;
+  padding: 3px 0 0px;
+  font-size: 13px;
+}
+
+#section-booking-6 .booking-right-info .table-responsive table td button:focus {
+  box-shadow: 0;
+  outline: 0;
+}
+
+.h4_bhyt {
+  padding: 0 !important;
+  margin: 0;
+  font-size: 13px !important;
+  color: #ec3535 !important;
+}
+
+.h4_bhyt_none {
+  padding: 0 !important;
+  margin: 0;
+  font-size: 13px !important;
+  color: #696969 !important;
+}
+
+.no_border_bot {
+  border-bottom: none !important;
+}
+
+.no_border_top {
+  border-top: none !important;
+}
+
+@media screen and (max-width:767px) {
+  .h4_bhyt {
+    padding: 0 !important;
+    margin: 0 0 10px !important;
+    font-size: 13px !important;
+    color: #ec3535 !important;
+  }
+}
+
+.change_dotor_name
+      {
+        color: #f62c2c;
+        font-size: 13px;
+      }

@@ -1,0 +1,276 @@
+.parallax-faq-content {
+  background-image: url("../images/contact/blur-04.jpg");
+  height: 100%;
+  min-height: 200px;
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  transform: translate3d(0px, 0px, 0px);
+  width: 100%;
+}
+
+#section-faq {
+  padding: 30px 0;
+}
+  #section-faq .sec-faq-left {
+    background: transparent;
+    margin-bottom: 20px;
+      border-radius: 2px;
+  }
+#section-faq .search-left {
+  margin-bottom: 60px;
+  border-bottom: 1px solid #cdd8ea ;
+}
+  #section-faq textarea{
+    min-height: 0px;
+  }
+    @media screen and (max-width: 767px) {
+      #section-faq .sec-faq-left {
+        margin-bottom: 0px;
+        margin-top: 0;
+        height: auto; } }
+    #section-faq .sec-faq-left h4 {
+      color: #398BE8;
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 10px; }
+    #section-faq .sec-faq-left .form-group {
+      position: relative;
+      margin-bottom: 18px;
+      color: #4d4d4d;
+    }
+      #section-faq .sec-faq-left .form-group input {
+        height: 40px;
+        color: #696969;
+        font-size: 13px;
+        padding-right: 30px;
+        border-radius: 1px;
+      }
+#section-faq .sec-faq-left .form-group textarea {
+  border-radius: 1px;
+}
+#section-faq .sec-faq-left .form-group i {
+        position: absolute;
+        top: 14px;
+        right: 12px;
+        color: #696969; }
+    #section-faq .sec-faq-left ul {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      padding-left: 0;
+      margin-bottom: 0;
+      list-style-type: none;
+    }
+      #section-faq .sec-faq-left ul li {
+        width: 100%;
+        font-size: 14px;
+        color: #4d4d4d;
+        cursor: pointer;
+        transition: all .3s ease;
+        margin-bottom: 15px; }
+#section-faq .sec-faq-left ul li:before {
+  content: '\f0da';
+  font-family: "Font Awesome\ 5 Pro";
+  font-weight: 700;
+  margin-right: 8px;
+}
+        #section-faq .sec-faq-left ul li:last-child {
+          margin-bottom: 0; }
+        #section-faq .sec-faq-left ul li:hover,
+        #section-faq .sec-faq-left ul li:focus,
+        #section-faq .sec-faq-left ul li.active
+         {
+          color: #398BE8;
+          transition: all .3s ease-out;
+        }
+#section-faq .sec-faq-left ul li.active {
+  font-weight: bold;
+}
+
+#section-faq .sec-faq-left .btn-primary {
+  width: 100%;
+}
+  #section-faq .sec-faq-right {
+    background: #fff;
+    border-radius: 3px;
+    height: 100%;
+    transition: all .2s ease; }
+      #section-faq .sec-faq-right h3 {
+        text-transform: uppercase;
+      }
+#accordion h5{
+  margin: 0;
+}
+#accordion .card {
+      margin-bottom: 15px;
+      border: none;
+}
+#accordion .card .card-body ul li,
+#accordion .card .card-body p {
+    font-size: 14px;
+}
+
+#accordion .card .card-header {
+  /*background-color: transparent;*/
+  font-weight: 700;
+  color: #4d4d4d;
+  font-size: 14px;
+  cursor: pointer;
+  position: relative;
+  padding: 1rem 2.3rem 0.9rem;
+  transition: all .2s ease-out;
+  border-radius: 3px;
+    border-bottom: 0;
+    background: #f8f8f9;
+}
+
+#accordion .card .card-header h4:before {
+    content: '\f0da';
+    font-family: "Font Awesome\ 5 Pro";
+    font-weight: 700;
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    transition: all .3s ease-out;
+}
+#accordion .card .card-header:hover h4:before {
+    color: #fff;
+    transition: all .3s ease-out;
+}
+
+#accordion .card .card-header:hover,
+#accordion .card .card-header.active {
+  transition: all .2s ease-out;
+  background: #398BE8;
+    color: #fff;
+    border-radius: 3px 3px 0px 0px;
+}
+
+
+#accordion .card .collapse.show {
+  transition: all 3s ease-out;
+}
+
+.card .collapse.show > #accordion .card .card-header {
+    background: #398BE8;
+}
+
+#accordion .card .card-body {
+  border-left: 1px solid #398BE8;
+  border-right: 1px solid #398BE8;
+  border-bottom: 1px solid #398BE8;
+  font-size: 15px;
+  color: #4d4d4d !important;
+  padding: 26px;
+    border-radius: 0px 0px 3px 3px;
+    background: transparent;
+}
+
+#accordion .card .card-body p {
+  padding: 0;
+  margin: 0 0 10px 0;
+  color: #4d4d4d;
+}
+
+#accordion .card .card-body ul li {
+  padding:5px 0;
+  list-style: circle;
+}
+#accordion .card .card-body ul li ul li {
+  list-style-type:  disc;
+}
+#accordion .card .card-body .bold {
+  font-weight: 700;
+}
+#section-faq .sec-faq-right h3 {
+  font-size: 18px;
+  color: #4d4d4d;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding: 0px;
+  color: #307be7;}
+
+@media screen and (max-width: 767px) {
+      #section-faq .sec-faq-right {
+        padding: 30px 0; }
+    #section-faq .sec-faq-right h3 {
+      font-size: 16px;
+      color: #307be7;
+      font-weight: bold;
+        margin-top: 15px;
+      margin-bottom: 15px;
+      padding: 0px;
+    }
+    #section-faq .sec-faq-right hr {
+      margin-top: 0;
+      margin-bottom: 20px; }
+    #section-faq .sec-faq-right h6 {
+      font-size: 14px;
+      font-weight: bold;
+      color: #4d4d4d;
+      margin-bottom: 10px;
+      padding: 0 42px;
+    }
+    #section-faq .sec-faq-right {
+      padding: 0  0 30px;
+    }
+    #accordion {
+      padding: 0;
+    }
+    #accordion .card {
+      padding: 0;
+    }
+    #accordion .card .card-header {
+      padding: 13px 12px;
+      border-radius: 2px;
+    }
+    #section-faq .sec-faq-right h6 {
+      padding: 0 20px;
+    }
+
+    #section-faq .sec-faq-right p {
+      font-size: 13px;
+      color: #696969;
+      margin-bottom: 5px;
+      padding: 0 42px;
+    }
+    #accordion .card {
+        margin-bottom: 0px;
+        border: none;
+    }
+    #accordion .card .card-header:hover {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    #accordion .card .card-header h4:before {
+        content: '';
+    }
+}
+
+.form_email_faq {
+    padding: 30px 0 0;
+}
+
+.form_email_faq h4 {
+    font-weight: 700;
+}
+.form_email_faq input,
+.form_email_faq textarea {
+    border-radius: 2px;
+}
+.form_email_faq .btn {
+    width: 100%;
+    padding: 10px 0 8px;
+    border-radius: 2px;
+}
+/*# sourceMappingURL=faq.css.map */

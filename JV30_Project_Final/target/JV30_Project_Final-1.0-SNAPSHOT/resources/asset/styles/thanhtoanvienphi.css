@@ -1,0 +1,156 @@
+.payment-success {
+    background: #fff;
+    border-top: 1px solid #f1f4f6;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+}
+img.wd-25 {
+    max-width: 3.5rem;
+}
+
+img.med-ill {
+    max-width: 500px;
+}
+
+.payment-success button {
+    margin: 0 5px;
+}
+
+.payment-success h2 {
+    font-weight: 700;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #3AC9AF;
+}
+
+.payment-success p {
+    font-size: 13px;
+}
+
+.thanhtoan-vienphi .mb-6, .my-6 {
+    margin-bottom: 4.5rem!important;
+}
+
+.text-muted {
+    color: #95aac9!important;
+}
+
+.thanhtoan-vienphi .text-muted {
+    font-size: .9rem;
+}
+
+.thanhtoan-vienphi .card {
+    margin-bottom: 1.5rem;
+    border-color: #edf2f9;
+}
+
+.thanhtoan-vienphi h1 {
+    letter-spacing: -.02em;
+    font-size: 1.225rem;
+    text-transform: uppercase;
+    color: rgb(18, 38, 63);
+    font-weight: 400;
+}
+
+.header {
+    margin-bottom: 2rem;
+}
+
+.header-body {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #d6e1ef;
+}
+
+.header-title {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.header-pretitle {
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: #95aac9;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+
+.thanhtoan-vienphi .bri-profile {
+    border-top: none !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.aftertitle {
+    color: rgb(18, 38, 63);
+    margin-bottom: .375rem!important;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: .8rem !important;
+}
+
+.text-header {
+    font-size: .9rem !important;
+    text-transform: uppercase;
+    margin-bottom: 30px !important;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ECEEF6;
+}
+
+.thanhtoan-vienphi blockquote {
+    background: #f4f5f9;
+    padding: 12px 20px 10px;
+    margin-top: 15px;
+}
+.thanhtoan-vienphi .bri-payment-btn {
+    border-top: 0 !important;
+}
+
+
+.border-top-2 {
+    border-top-width: 2px!important;
+}
+.no-border-bot {
+    border-bottom: 0 !important;
+}
+
+img.med-ill-1 {
+    max-width: 400px;
+}
+
+@media screen and (max-width: 767px) {
+    .payment-success {
+        padding-top: 60px;
+    }
+    .img-center {
+        margin-top: 30px;
+    }
+    img.med-ill {
+        max-width: 300px;
+        margin-top: 30px;
+    }
+    img.med-ill-1 {
+        max-width: 250px;
+    }
+    .search-mtk {
+        margin-top: 20px !important;
+    }
+    .thanhtoan-vienphi .bri-profile .ttbn-01 {
+        margin:20px 0;
+    }
+    .thanhtoan-vienphi .bri-profile .ttbn-02 {
+        margin-top: 10px;
+    }
+    .thanhtoan-vienphi .booking-right-payment .brp-left {
+        padding-top: 0 !important;
+    }
+    .thanhtoan-vienphi .booking-right-payment .brp-left h4 {
+        padding-top: 0 !important;
+    }
+    .thanhtoan-responsive {
+        padding-top: 20px;
+    }
+}
+

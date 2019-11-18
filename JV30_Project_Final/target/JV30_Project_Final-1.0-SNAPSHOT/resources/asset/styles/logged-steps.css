@@ -1,0 +1,2932 @@
+#section-info-123, #section-info-4, #section-info-5,
+#section-info-6, #section-info-7,
+#section-info-9, #section-info-10,
+#section-info-11, #section-info-12,
+#section-info-13 {
+  margin-bottom: 100px;
+  height: auto;
+  transition: all .5s ease; }
+  #section-info-123 .group, #section-info-4 .group, #section-info-5 .group,
+  #section-info-6 .group, #section-info-7 .group,
+  #section-info-9 .group, #section-info-10 .group,
+  #section-info-11 .group, #section-info-12 .group,
+  #section-info-13 .group {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    padding: 20px 20px 40px;
+    border-radius: 3px;
+    height: auto;
+    transition: all .2s ease;
+    position: relative;
+    margin-bottom: 20px;
+      width: 100%;
+  }
+#section-info-9 .group {
+  border: 0;
+}
+    #section-info-123 .group.group-files .group-files-item, #section-info-4 .group.group-files .group-files-item, #section-info-5 .group.group-files .group-files-item,
+    #section-info-6 .group.group-files .group-files-item, #section-info-7 .group.group-files .group-files-item,
+    #section-info-9 .group.group-files .group-files-item, #section-info-10 .group.group-files .group-files-item,
+    #section-info-11 .group.group-files .group-files-item, #section-info-12 .group.group-files .group-files-item,
+    #section-info-13 .group.group-files .group-files-item {
+      border-bottom: 1px dashed #cdd8ea;
+      margin-bottom: 20px; }
+    #section-info-123 .group.group-files .group-files-item:last-child, #section-info-4 .group.group-files .group-files-item:last-child, #section-info-5 .group.group-files .group-files-item:last-child,
+    #section-info-6 .group.group-files .group-files-item:last-child, #section-info-7 .group.group-files .group-files-item:last-child,
+    #section-info-9 .group.group-files .group-files-item:last-child, #section-info-10 .group.group-files .group-files-item:last-child,
+    #section-info-11 .group.group-files .group-files-item:last-child, #section-info-12 .group.group-files .group-files-item:last-child,
+    #section-info-13 .group.group-files .group-files-item:last-child{
+      border: none;
+      margin-bottom: 0;
+    }
+      @media screen and (max-width: 991px) {
+        #section-info-123 .group.group-files .group-files-item, #section-info-4 .group.group-files .group-files-item, #section-info-5 .group.group-files .group-files-item,
+        #section-info-6 .group.group-files .group-files-item, #section-info-7 .group.group-files .group-files-item,
+        #section-info-9 .group.group-files .group-files-item, #section-info-10 .group.group-files .group-files-item,
+        #section-info-11 .group.group-files .group-files-item, #section-info-12 .group.group-files .group-files-item,
+        #section-info-13 .group.group-files .group-files-item {
+          -webkit-flex-direction: column;
+              -ms-flex-direction: column;
+                  flex-direction: column;
+          padding-bottom: 20px; } }
+      #section-info-123 .group.group-files .group-files-item .group-files-item-left .gfi-name, #section-info-4 .group.group-files .group-files-item .group-files-item-left .gfi-name, #section-info-5 .group.group-files .group-files-item .group-files-item-left .gfi-name,
+      #section-info-6 .group.group-files .group-files-item .group-files-item-left .gfi-name, #section-info-7 .group.group-files .group-files-item .group-files-item-left .gfi-name,
+      #section-info-9 .group.group-files .group-files-item .group-files-item-left .gfi-name, #section-info-10 .group.group-files .group-files-item .group-files-item-left .gfi-name,
+      #section-info-11 .group.group-files .group-files-item .group-files-item-left .gfi-name, #section-info-12 .group.group-files .group-files-item .group-files-item-left .gfi-name,
+      #section-info-13 .group.group-files .group-files-item .group-files-item-left .gfi-name {
+        font-weight: bold;
+        font-size: 14px;
+        margin-bottom: 20px; }
+        #section-info-123 .group.group-files .group-files-item .group-files-item-left .gfi-name span, #section-info-4 .group.group-files .group-files-item .group-files-item-left .gfi-name span, #section-info-5 .group.group-files .group-files-item .group-files-item-left .gfi-name span,
+        #section-info-6 .group.group-files .group-files-item .group-files-item-left .gfi-name span, #section-info-7 .group.group-files .group-files-item .group-files-item-left .gfi-name span,
+        #section-info-9 .group.group-files .group-files-item .group-files-item-left .gfi-name span, #section-info-10 .group.group-files .group-files-item .group-files-item-left .gfi-name span,
+        #section-info-11 .group.group-files .group-files-item .group-files-item-left .gfi-name span, #section-info-12 .group.group-files .group-files-item .group-files-item-left .gfi-name span,
+        #section-info-13 .group.group-files .group-files-item .group-files-item-left .gfi-name span {
+          color: #40b24f;
+          position: relative;
+          margin-left: 5px; }
+          #section-info-123 .group.group-files .group-files-item .group-files-item-left .gfi-name span i, #section-info-4 .group.group-files .group-files-item .group-files-item-left .gfi-name span i, #section-info-5 .group.group-files .group-files-item .group-files-item-left .gfi-name span i,
+          #section-info-6 .group.group-files .group-files-item .group-files-item-left .gfi-name span i, #section-info-7 .group.group-files .group-files-item .group-files-item-left .gfi-name span i,
+          #section-info-9 .group.group-files .group-files-item .group-files-item-left .gfi-name span i, #section-info-10 .group.group-files .group-files-item .group-files-item-left .gfi-name span i,
+          #section-info-11 .group.group-files .group-files-item .group-files-item-left .gfi-name span i, #section-info-12 .group.group-files .group-files-item .group-files-item-left .gfi-name span i,
+          #section-info-13 .group.group-files .group-files-item .group-files-item-left .gfi-name span i {
+            margin-right: 5px; }
+      #section-info-123 .group.group-files .group-files-item .group-files-item-left .gfi-info, #section-info-4 .group.group-files .group-files-item .group-files-item-left .gfi-info, #section-info-5 .group.group-files .group-files-item .group-files-item-left .gfi-info,
+      #section-info-6 .group.group-files .group-files-item .group-files-item-left .gfi-info, #section-info-7 .group.group-files .group-files-item .group-files-item-left .gfi-info,
+      #section-info-9 .group.group-files .group-files-item .group-files-item-left .gfi-info, #section-info-10 .group.group-files .group-files-item .group-files-item-left .gfi-info,
+      #section-info-11 .group.group-files .group-files-item .group-files-item-left .gfi-info, #section-info-12 .group.group-files .group-files-item .group-files-item-left .gfi-info,
+      #section-info-13 .group.group-files .group-files-item .group-files-item-left .gfi-info {
+        color: #696969;
+        font-size: 14px;
+        margin-bottom: 20px; }
+      #section-info-123 .group.group-files .group-files-item .group-files-item-right a, #section-info-4 .group.group-files .group-files-item .group-files-item-right a, #section-info-5 .group.group-files .group-files-item .group-files-item-right a,
+      #section-info-6 .group.group-files .group-files-item .group-files-item-right a, #section-info-7 .group.group-files .group-files-item .group-files-item-right a,
+      #section-info-9 .group.group-files .group-files-item .group-files-item-right a, #section-info-10 .group.group-files .group-files-item .group-files-item-right a,
+      #section-info-11 .group.group-files .group-files-item .group-files-item-right a, #section-info-12 .group.group-files .group-files-item .group-files-item-right a,
+      #section-info-13 .group.group-files .group-files-item .group-files-item-right a {
+        color: #696969;
+        font-size: 13px;
+        transition: all .2s ease;
+        position: relative;
+        padding-left: 20px; }
+        #section-info-123 .group.group-files .group-files-item .group-files-item-right a:hover, #section-info-123 .group.group-files .group-files-item .group-files-item-right a:focus, #section-info-4 .group.group-files .group-files-item .group-files-item-right a:hover, #section-info-4 .group.group-files .group-files-item .group-files-item-right a:focus, #section-info-5 .group.group-files .group-files-item .group-files-item-right a:hover, #section-info-5 .group.group-files .group-files-item .group-files-item-right a:focus,
+        #section-info-6 .group.group-files .group-files-item .group-files-item-right a:hover,
+        #section-info-6 .group.group-files .group-files-item .group-files-item-right a:focus, #section-info-7 .group.group-files .group-files-item .group-files-item-right a:hover, #section-info-7 .group.group-files .group-files-item .group-files-item-right a:focus,
+        #section-info-9 .group.group-files .group-files-item .group-files-item-right a:hover,
+        #section-info-9 .group.group-files .group-files-item .group-files-item-right a:focus, #section-info-10 .group.group-files .group-files-item .group-files-item-right a:hover, #section-info-10 .group.group-files .group-files-item .group-files-item-right a:focus,
+        #section-info-11 .group.group-files .group-files-item .group-files-item-right a:hover,
+        #section-info-11 .group.group-files .group-files-item .group-files-item-right a:focus, #section-info-12 .group.group-files .group-files-item .group-files-item-right a:hover, #section-info-12 .group.group-files .group-files-item .group-files-item-right a:focus,
+        #section-info-13 .group.group-files .group-files-item .group-files-item-right a:hover,
+        #section-info-13 .group.group-files .group-files-item .group-files-item-right a:focus {
+          color: #307be7; }
+        #section-info-123 .group.group-files .group-files-item .group-files-item-right a i, #section-info-4 .group.group-files .group-files-item .group-files-item-right a i, #section-info-5 .group.group-files .group-files-item .group-files-item-right a i,
+        #section-info-6 .group.group-files .group-files-item .group-files-item-right a i, #section-info-7 .group.group-files .group-files-item .group-files-item-right a i,
+        #section-info-9 .group.group-files .group-files-item .group-files-item-right a i, #section-info-10 .group.group-files .group-files-item .group-files-item-right a i,
+        #section-info-11 .group.group-files .group-files-item .group-files-item-right a i, #section-info-12 .group.group-files .group-files-item .group-files-item-right a i,
+        #section-info-13 .group.group-files .group-files-item .group-files-item-right a i {
+          margin-right: 5px; }
+        #section-info-123 .group.group-files .group-files-item .group-files-item-right a.gfi-delete, #section-info-4 .group.group-files .group-files-item .group-files-item-right a.gfi-delete, #section-info-5 .group.group-files .group-files-item .group-files-item-right a.gfi-delete,
+        #section-info-6 .group.group-files .group-files-item .group-files-item-right a.gfi-delete, #section-info-7 .group.group-files .group-files-item .group-files-item-right a.gfi-delete,
+        #section-info-9 .group.group-files .group-files-item .group-files-item-right a.gfi-delete, #section-info-10 .group.group-files .group-files-item .group-files-item-right a.gfi-delete,
+        #section-info-11 .group.group-files .group-files-item .group-files-item-right a.gfi-delete, #section-info-12 .group.group-files .group-files-item .group-files-item-right a.gfi-delete,
+        #section-info-13 .group.group-files .group-files-item .group-files-item-right a.gfi-delete {
+          margin-left: 0; }
+
+          #section-info-9 .group.group-files .group-files-item .group-files-item-right .gfi-see-more {
+            position: absolute;
+            color: #307be7;
+            bottom: 20px;
+            left: 0;
+            font-size: 13px;
+            border-radius: 3px;
+          }
+
+          @media screen and (max-width: 991px) {
+            #section-info-9 .group.group-files .group-files-item .group-files-item-right a.gfi-see-more{
+              position: relative;
+              color: #31ca62;
+              bottom: 0;
+              right:0;
+            }
+          }
+
+    #section-info-123 .group.group-files-filter, #section-info-4 .group.group-files-filter, #section-info-5 .group.group-files-filter,
+    #section-info-6 .group.group-files-filter, #section-info-7 .group.group-files-filter,
+    #section-info-9 .group.group-files-filter, #section-info-10 .group.group-files-filter,
+    #section-info-11 .group.group-files-filter, #section-info-12 .group.group-files-filter,
+    #section-info-13 .group.group-files-filter {
+      border: none;
+      padding: 0;
+      background: none;
+      margin-bottom: 15px; }
+      #section-info-123 .group.group-files-filter .gff-group, #section-info-4 .group.group-files-filter .gff-group, #section-info-5 .group.group-files-filter .gff-group,
+      #section-info-6 .group.group-files-filter .gff-group, #section-info-7 .group.group-files-filter .gff-group,
+      #section-info-9 .group.group-files-filter .gff-group, #section-info-10 .group.group-files-filter .gff-group,
+      #section-info-11 .group.group-files-filter .gff-group, #section-info-12 .group.group-files-filter .gff-group,
+      #section-info-13 .group.group-files-filter .gff-group {
+        position: relative; }
+        #section-info-123 .group.group-files-filter .gff-group a.gff-name, #section-info-4 .group.group-files-filter .gff-group a.gff-name, #section-info-5 .group.group-files-filter .gff-group a.gff-name,
+        #section-info-6 .group.group-files-filter .gff-group a.gff-name, #section-info-7 .group.group-files-filter .gff-group a.gff-name,
+        #section-info-9 .group.group-files-filter .gff-group a.gff-name, #section-info-10 .group.group-files-filter .gff-group a.gff-name,
+        #section-info-11 .group.group-files-filter .gff-group a.gff-name, #section-info-12 .group.group-files-filter .gff-group a.gff-name,
+        #section-info-13 .group.group-files-filter .gff-group a.gff-name {
+          font-size: 14px;
+          font-weight: bold;
+          color: #4d4d4d;
+          transition: all .2s ease; }
+          #section-info-123 .group.group-files-filter .gff-group a.gff-name i, #section-info-4 .group.group-files-filter .gff-group a.gff-name i, #section-info-5 .group.group-files-filter .gff-group a.gff-name i,
+          #section-info-6 .group.group-files-filter .gff-group a.gff-name i, #section-info-7 .group.group-files-filter .gff-group a.gff-name i,
+          #section-info-9 .group.group-files-filter .gff-group a.gff-name i, #section-info-10 .group.group-files-filter .gff-group a.gff-name i,
+          #section-info-11 .group.group-files-filter .gff-group a.gff-name i, #section-info-12 .group.group-files-filter .gff-group a.gff-name i,
+          #section-info-13 .group.group-files-filter .gff-group a.gff-name i {
+            margin-left: 10px;
+            transition: all .2s ease; }
+          #section-info-123 .group.group-files-filter .gff-group a.gff-name:hover i, #section-info-123 .group.group-files-filter .gff-group a.gff-name:focus i, #section-info-4 .group.group-files-filter .gff-group a.gff-name:hover i, #section-info-4 .group.group-files-filter .gff-group a.gff-name:focus i, #section-info-5 .group.group-files-filter .gff-group a.gff-name:hover i, #section-info-5 .group.group-files-filter .gff-group a.gff-name:focus i,
+          #section-info-6 .group.group-files-filter .gff-group a.gff-name:hover i,
+          #section-info-6 .group.group-files-filter .gff-group a.gff-name:focus i, #section-info-7 .group.group-files-filter .gff-group a.gff-name:hover i, #section-info-7 .group.group-files-filter .gff-group a.gff-name:focus i,
+          #section-info-9 .group.group-files-filter .gff-group a.gff-name:hover i,
+          #section-info-9 .group.group-files-filter .gff-group a.gff-name:focus i, #section-info-10 .group.group-files-filter .gff-group a.gff-name:hover i, #section-info-10 .group.group-files-filter .gff-group a.gff-name:focus i,
+          #section-info-11 .group.group-files-filter .gff-group a.gff-name:hover i,
+          #section-info-11 .group.group-files-filter .gff-group a.gff-name:focus i, #section-info-12 .group.group-files-filter .gff-group a.gff-name:hover i, #section-info-12 .group.group-files-filter .gff-group a.gff-name:focus i,
+          #section-info-13 .group.group-files-filter .gff-group a.gff-name:hover i,
+          #section-info-13 .group.group-files-filter .gff-group a.gff-name:focus i {
+            color: #307be7; }
+        #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu,
+        #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu,
+        #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu,
+        #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu,
+        #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu {
+          height: auto;
+          width: 100%;
+          -webkit-flex-wrap: wrap;
+              -ms-flex-wrap: wrap;
+                  flex-wrap: wrap;
+          padding-left: 0;
+          list-style-type: none;
+          position: absolute;
+          background: #fff;
+          padding: 20px 10px;
+          padding-top: 15px;
+          top: 20px !important;
+          right: 0 !important;
+          left: inherit !important;
+          border: 1px solid #cdd8ea;
+          min-width: 200px;
+          z-index: 9999;
+          -webkit-transform: none !important;
+                  transform: none !important;
+          transition: all .5s ease;
+          opacity: 0;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          visibility: hidden;
+          -webkit-transform: scale(0);
+                  transform: scale(0); }
+          #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu.show, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu.show, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu.show,
+          #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu.show, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu.show,
+          #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu.show, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu.show,
+          #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu.show, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu.show,
+          #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu.show {
+            opacity: 1;
+            -webkit-transform: scale(1);
+                    transform: scale(1);
+            visibility: visible; }
+          #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu li, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu li, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu li,
+          #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu li, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu li,
+          #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu li, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu li,
+          #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu li, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu li,
+          #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu li {
+            width: 100%; }
+            #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child,
+            #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child,
+            #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child,
+            #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child,
+            #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu li:first-child {
+              border-bottom: 1px solid #cdd8ea;
+              padding-bottom: 10px; }
+            #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child,
+            #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child,
+            #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child,
+            #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child,
+            #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu li:last-child {
+              margin-top: 10px; }
+            #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu li a, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu li a, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu li a,
+            #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu li a, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu li a,
+            #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu li a, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu li a,
+            #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu li a, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu li a,
+            #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu li a {
+              display: block;
+              color: #4d4d4d;
+              font-size: 13px;
+              transition: all .2s ease; }
+              #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover, #section-info-123 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover, #section-info-4 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover, #section-info-5 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus,
+              #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover,
+              #section-info-6 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover, #section-info-7 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus,
+              #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover,
+              #section-info-9 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover, #section-info-10 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus,
+              #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover,
+              #section-info-11 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover, #section-info-12 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus,
+              #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu li a:hover,
+              #section-info-13 .group.group-files-filter .gff-group ul.dropdown-menu li a:focus {
+                color: #307be7; }
+    #section-info-123 .group.group-files-medical, #section-info-4 .group.group-files-medical, #section-info-5 .group.group-files-medical,
+    #section-info-6 .group.group-files-medical, #section-info-7 .group.group-files-medical,
+    #section-info-9 .group.group-files-medical, #section-info-10 .group.group-files-medical,
+    #section-info-11 .group.group-files-medical, #section-info-12 .group.group-files-medical,
+    #section-info-13 .group.group-files-medical {
+      padding: 30px 0;
+      padding-bottom: 0; }
+      #section-info-123 .group.group-files-medical .gfm-name, #section-info-4 .group.group-files-medical .gfm-name, #section-info-5 .group.group-files-medical .gfm-name,
+      #section-info-6 .group.group-files-medical .gfm-name, #section-info-7 .group.group-files-medical .gfm-name,
+      #section-info-9 .group.group-files-medical .gfm-name, #section-info-10 .group.group-files-medical .gfm-name,
+      #section-info-11 .group.group-files-medical .gfm-name, #section-info-12 .group.group-files-medical .gfm-name,
+      #section-info-13 .group.group-files-medical .gfm-name {
+        text-align: right;
+        color: #4d4d4d;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        padding: 0 20px; }
+      #section-info-123 .group.group-files-medical .table-responsive, #section-info-4 .group.group-files-medical .table-responsive, #section-info-5 .group.group-files-medical .table-responsive,
+      #section-info-6 .group.group-files-medical .table-responsive, #section-info-7 .group.group-files-medical .table-responsive,
+      #section-info-9 .group.group-files-medical .table-responsive, #section-info-10 .group.group-files-medical .table-responsive,
+      #section-info-11 .group.group-files-medical .table-responsive, #section-info-12 .group.group-files-medical .table-responsive,
+      #section-info-13 .group.group-files-medical .table-responsive {
+        position: relative;
+        overflow: auto;
+        margin: 0;
+        margin-bottom: 30px; }
+        #section-info-123 .group.group-files-medical .table-responsive table, #section-info-4 .group.group-files-medical .table-responsive table, #section-info-5 .group.group-files-medical .table-responsive table,
+        #section-info-6 .group.group-files-medical .table-responsive table, #section-info-7 .group.group-files-medical .table-responsive table,
+        #section-info-9 .group.group-files-medical .table-responsive table, #section-info-10 .group.group-files-medical .table-responsive table,
+        #section-info-11 .group.group-files-medical .table-responsive table, #section-info-12 .group.group-files-medical .table-responsive table,
+        #section-info-13 .group.group-files-medical .table-responsive table {
+          border: 10px solid #eceef3; }
+          @media screen and (max-width: 991px) {
+            #section-info-123 .group.group-files-medical .table-responsive table, #section-info-4 .group.group-files-medical .table-responsive table, #section-info-5 .group.group-files-medical .table-responsive table,
+            #section-info-6 .group.group-files-medical .table-responsive table, #section-info-7 .group.group-files-medical .table-responsive table,
+            #section-info-9 .group.group-files-medical .table-responsive table, #section-info-10 .group.group-files-medical .table-responsive table,
+            #section-info-11 .group.group-files-medical .table-responsive table, #section-info-12 .group.group-files-medical .table-responsive table,
+            #section-info-13 .group.group-files-medical .table-responsive table {
+              min-width: 800px; } }
+          #section-info-123 .group.group-files-medical .table-responsive table th, #section-info-4 .group.group-files-medical .table-responsive table th, #section-info-5 .group.group-files-medical .table-responsive table th,
+          #section-info-6 .group.group-files-medical .table-responsive table th, #section-info-7 .group.group-files-medical .table-responsive table th,
+          #section-info-9 .group.group-files-medical .table-responsive table th, #section-info-10 .group.group-files-medical .table-responsive table th,
+          #section-info-11 .group.group-files-medical .table-responsive table th, #section-info-12 .group.group-files-medical .table-responsive table th,
+          #section-info-13 .group.group-files-medical .table-responsive table th {
+            border-top: none;
+            border-bottom: 1px solid #cdd8ea;
+            padding: 20px 12px;
+            font-size: 13px;
+            color: #4d4d4d;
+            text-align: center; }
+          #section-info-123 .group.group-files-medical .table-responsive table tr, #section-info-4 .group.group-files-medical .table-responsive table tr, #section-info-5 .group.group-files-medical .table-responsive table tr,
+          #section-info-6 .group.group-files-medical .table-responsive table tr, #section-info-7 .group.group-files-medical .table-responsive table tr,
+          #section-info-9 .group.group-files-medical .table-responsive table tr, #section-info-10 .group.group-files-medical .table-responsive table tr,
+          #section-info-11 .group.group-files-medical .table-responsive table tr, #section-info-12 .group.group-files-medical .table-responsive table tr,
+          #section-info-13 .group.group-files-medical .table-responsive table tr {
+            background: none; }
+            #section-info-123 .group.group-files-medical .table-responsive table tr.active td, #section-info-4 .group.group-files-medical .table-responsive table tr.active td, #section-info-5 .group.group-files-medical .table-responsive table tr.active td,
+            #section-info-6 .group.group-files-medical .table-responsive table tr.active td, #section-info-7 .group.group-files-medical .table-responsive table tr.active td,
+            #section-info-9 .group.group-files-medical .table-responsive table tr.active td, #section-info-10 .group.group-files-medical .table-responsive table tr.active td,
+            #section-info-11 .group.group-files-medical .table-responsive table tr.active td, #section-info-12 .group.group-files-medical .table-responsive table tr.active td,
+            #section-info-13 .group.group-files-medical .table-responsive table tr.active td {
+              opacity: .5; }
+          #section-info-123 .group.group-files-medical .table-responsive table td, #section-info-4 .group.group-files-medical .table-responsive table td, #section-info-5 .group.group-files-medical .table-responsive table td,
+          #section-info-6 .group.group-files-medical .table-responsive table td, #section-info-7 .group.group-files-medical .table-responsive table td,
+          #section-info-9 .group.group-files-medical .table-responsive table td, #section-info-10 .group.group-files-medical .table-responsive table td,
+          #section-info-11 .group.group-files-medical .table-responsive table td, #section-info-12 .group.group-files-medical .table-responsive table td,
+          #section-info-13 .group.group-files-medical .table-responsive table td {
+            border-bottom: 1px solid #cdd8ea;
+            padding: 20px 12px;
+            color: #696969;
+            font-size: 14px;
+            text-align: center;
+            transition: all .2s ease; }
+            #section-info-123 .group.group-files-medical .table-responsive table td.active, #section-info-4 .group.group-files-medical .table-responsive table td.active, #section-info-5 .group.group-files-medical .table-responsive table td.active,
+            #section-info-6 .group.group-files-medical .table-responsive table td.active, #section-info-7 .group.group-files-medical .table-responsive table td.active,
+            #section-info-9 .group.group-files-medical .table-responsive table td.active, #section-info-10 .group.group-files-medical .table-responsive table td.active,
+            #section-info-11 .group.group-files-medical .table-responsive table td.active, #section-info-12 .group.group-files-medical .table-responsive table td.active,
+            #section-info-13 .group.group-files-medical .table-responsive table td.active,
+            .col-active{
+              color: #307be7;
+              font-weight: bold; }
+    #section-info-123 .group.group-files-update .form-group, #section-info-4 .group.group-files-update .form-group, #section-info-5 .group.group-files-update .form-group,
+    #section-info-6 .group.group-files-update .form-group, #section-info-7 .group.group-files-update .form-group,
+    #section-info-9 .group.group-files-update .form-group, #section-info-10 .group.group-files-update .form-group,
+    #section-info-11 .group.group-files-update .form-group, #section-info-12 .group.group-files-update .form-group,
+    #section-info-13 .group.group-files-update .form-group {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      #section-info-123 .group.group-files-update .form-group label.gfu-name, #section-info-4 .group.group-files-update .form-group label.gfu-name, #section-info-5 .group.group-files-update .form-group label.gfu-name,
+      #section-info-6 .group.group-files-update .form-group label.gfu-name, #section-info-7 .group.group-files-update .form-group label.gfu-name,
+      #section-info-9 .group.group-files-update .form-group label.gfu-name, #section-info-10 .group.group-files-update .form-group label.gfu-name,
+      #section-info-11 .group.group-files-update .form-group label.gfu-name, #section-info-12 .group.group-files-update .form-group label.gfu-name,
+      #section-info-13 .group.group-files-update .form-group label.gfu-name {
+        color: #4d4d4d;
+        font-size: 14px;
+        min-width: 200px;
+        margin-bottom: 0; }
+      #section-info-123 .group.group-files-update .form-group input, #section-info-4 .group.group-files-update .form-group input, #section-info-5 .group.group-files-update .form-group input,
+      #section-info-6 .group.group-files-update .form-group input, #section-info-7 .group.group-files-update .form-group input,
+      #section-info-9 .group.group-files-update .form-group input, #section-info-10 .group.group-files-update .form-group input,
+      #section-info-11 .group.group-files-update .form-group input, #section-info-12 .group.group-files-update .form-group input,
+      #section-info-13 .group.group-files-update .form-group input {
+        color: #696969;
+        font-size: 13px;
+        height: 42px;
+        padding: 10px 20px; }
+        #section-info-123 .group.group-files-update .form-group input.form-check-input, #section-info-4 .group.group-files-update .form-group input.form-check-input, #section-info-5 .group.group-files-update .form-group input.form-check-input,
+        #section-info-6 .group.group-files-update .form-group input.form-check-input, #section-info-7 .group.group-files-update .form-group input.form-check-input,
+        #section-info-9 .group.group-files-update .form-group input.form-check-input, #section-info-10 .group.group-files-update .form-group input.form-check-input,
+        #section-info-11 .group.group-files-update .form-group input.form-check-input, #section-info-12 .group.group-files-update .form-group input.form-check-input,
+        #section-info-13 .group.group-files-update .form-group input.form-check-input {
+          height: auto;
+          margin-right: 10px;
+          outline: none;
+          position: relative;
+          top: 2px; }
+      #section-info-123 .group.group-files-update .form-group select, #section-info-4 .group.group-files-update .form-group select, #section-info-5 .group.group-files-update .form-group select,
+      #section-info-6 .group.group-files-update .form-group select, #section-info-7 .group.group-files-update .form-group select,
+      #section-info-9 .group.group-files-update .form-group select, #section-info-10 .group.group-files-update .form-group select,
+      #section-info-11 .group.group-files-update .form-group select, #section-info-12 .group.group-files-update .form-group select,
+      #section-info-13 .group.group-files-update .form-group select {
+        color: #696969;
+        font-size: 13px;
+        height: 42px;
+        padding: 10px 20px; }
+      #section-info-123 .group.group-files-update .form-group ::-webkit-input-placeholder, #section-info-4 .group.group-files-update .form-group ::-webkit-input-placeholder, #section-info-5 .group.group-files-update .form-group ::-webkit-input-placeholder,
+      #section-info-6 .group.group-files-update .form-group ::-webkit-input-placeholder, #section-info-7 .group.group-files-update .form-group ::-webkit-input-placeholder,
+      #section-info-9 .group.group-files-update .form-group ::-webkit-input-placeholder, #section-info-10 .group.group-files-update .form-group ::-webkit-input-placeholder,
+      #section-info-11 .group.group-files-update .form-group ::-webkit-input-placeholder, #section-info-12 .group.group-files-update .form-group ::-webkit-input-placeholder,
+      #section-info-13 .group.group-files-update .form-group ::-webkit-input-placeholder {
+        /* Chrome/Opera/Safari */
+        color: #696969; }
+      #section-info-123 .group.group-files-update .form-group ::-moz-placeholder, #section-info-4 .group.group-files-update .form-group ::-moz-placeholder, #section-info-5 .group.group-files-update .form-group ::-moz-placeholder,
+      #section-info-6 .group.group-files-update .form-group ::-moz-placeholder, #section-info-7 .group.group-files-update .form-group ::-moz-placeholder,
+      #section-info-9 .group.group-files-update .form-group ::-moz-placeholder, #section-info-10 .group.group-files-update .form-group ::-moz-placeholder,
+      #section-info-11 .group.group-files-update .form-group ::-moz-placeholder, #section-info-12 .group.group-files-update .form-group ::-moz-placeholder,
+      #section-info-13 .group.group-files-update .form-group ::-moz-placeholder {
+        /* Firefox 19+ */
+        color: #696969; }
+      #section-info-123 .group.group-files-update .form-group :-ms-input-placeholder, #section-info-4 .group.group-files-update .form-group :-ms-input-placeholder, #section-info-5 .group.group-files-update .form-group :-ms-input-placeholder,
+      #section-info-6 .group.group-files-update .form-group :-ms-input-placeholder, #section-info-7 .group.group-files-update .form-group :-ms-input-placeholder,
+      #section-info-9 .group.group-files-update .form-group :-ms-input-placeholder, #section-info-10 .group.group-files-update .form-group :-ms-input-placeholder,
+      #section-info-11 .group.group-files-update .form-group :-ms-input-placeholder, #section-info-12 .group.group-files-update .form-group :-ms-input-placeholder,
+      #section-info-13 .group.group-files-update .form-group :-ms-input-placeholder {
+        /* IE 10+ */
+        color: #696969; }
+      #section-info-123 .group.group-files-update .form-group :-moz-placeholder, #section-info-4 .group.group-files-update .form-group :-moz-placeholder, #section-info-5 .group.group-files-update .form-group :-moz-placeholder,
+      #section-info-6 .group.group-files-update .form-group :-moz-placeholder, #section-info-7 .group.group-files-update .form-group :-moz-placeholder,
+      #section-info-9 .group.group-files-update .form-group :-moz-placeholder, #section-info-10 .group.group-files-update .form-group :-moz-placeholder,
+      #section-info-11 .group.group-files-update .form-group :-moz-placeholder, #section-info-12 .group.group-files-update .form-group :-moz-placeholder,
+      #section-info-13 .group.group-files-update .form-group :-moz-placeholder {
+        /* Firefox 18- */
+        color: #696969; }
+      #section-info-123 .group.group-files-update .form-group .input-value, #section-info-4 .group.group-files-update .form-group .input-value, #section-info-5 .group.group-files-update .form-group .input-value,
+      #section-info-6 .group.group-files-update .form-group .input-value, #section-info-7 .group.group-files-update .form-group .input-value,
+      #section-info-9 .group.group-files-update .form-group .input-value, #section-info-10 .group.group-files-update .form-group .input-value,
+      #section-info-11 .group.group-files-update .form-group .input-value, #section-info-12 .group.group-files-update .form-group .input-value,
+      #section-info-13 .group.group-files-update .form-group .input-value {
+        color: #696969;
+        font-size: 13px;
+        padding: 10px 20px;
+        font-weight: bold; }
+      #section-info-123 .group.group-files-update .form-group .form-check-label, #section-info-4 .group.group-files-update .form-group .form-check-label, #section-info-5 .group.group-files-update .form-group .form-check-label,
+      #section-info-6 .group.group-files-update .form-group .form-check-label, #section-info-7 .group.group-files-update .form-group .form-check-label,
+      #section-info-9 .group.group-files-update .form-group .form-check-label, #section-info-10 .group.group-files-update .form-group .form-check-label,
+      #section-info-11 .group.group-files-update .form-group .form-check-label, #section-info-12 .group.group-files-update .form-group .form-check-label,
+      #section-info-13 .group.group-files-update .form-group .form-check-label {
+        color: #696969;
+        font-size: 13px; }
+      #section-info-123 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label, #section-info-4 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label, #section-info-5 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label,
+      #section-info-6 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label, #section-info-7 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label,
+      #section-info-9 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label, #section-info-10 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label,
+      #section-info-11 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label, #section-info-12 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label,
+      #section-info-13 .group.group-files-update .form-group .form-check.form-check-inline .form-check-label {
+        color: #696969;
+        font-size: 13px; }
+      #section-info-123 .group.group-files-update .form-group .form-check.form-check-inline input, #section-info-4 .group.group-files-update .form-group .form-check.form-check-inline input, #section-info-5 .group.group-files-update .form-group .form-check.form-check-inline input,
+      #section-info-6 .group.group-files-update .form-group .form-check.form-check-inline input, #section-info-7 .group.group-files-update .form-group .form-check.form-check-inline input,
+      #section-info-9 .group.group-files-update .form-group .form-check.form-check-inline input, #section-info-10 .group.group-files-update .form-group .form-check.form-check-inline input,
+      #section-info-11 .group.group-files-update .form-group .form-check.form-check-inline input, #section-info-12 .group.group-files-update .form-group .form-check.form-check-inline input,
+      #section-info-13 .group.group-files-update .form-group .form-check.form-check-inline input {
+        height: auto;
+        outline: none;
+        position: relative;
+        top: 2px; }
+      #section-info-123 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-4 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-5 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+      #section-info-6 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-7 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+      #section-info-9 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-10 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+      #section-info-11 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-12 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+      #section-info-13 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline {
+        margin-left: 20px; }
+        @media screen and (max-width: 991px) {
+          #section-info-123 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-4 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-5 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+          #section-info-6 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-7 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+          #section-info-9 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-10 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+          #section-info-11 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline, #section-info-12 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline,
+          #section-info-13 .group.group-files-update .form-group .form-check.form-check-inline.form-check-inline + .form-check-inline {
+            margin-left: 0; } }
+      @media screen and (max-width: 991px) {
+        #section-info-123 .group.group-files-update .form-group, #section-info-4 .group.group-files-update .form-group, #section-info-5 .group.group-files-update .form-group,
+        #section-info-6 .group.group-files-update .form-group, #section-info-7 .group.group-files-update .form-group,
+        #section-info-9 .group.group-files-update .form-group, #section-info-10 .group.group-files-update .form-group,
+        #section-info-11 .group.group-files-update .form-group, #section-info-12 .group.group-files-update .form-group,
+        #section-info-13 .group.group-files-update .form-group {
+          -webkit-align-items: flex-start;
+              -ms-flex-align: start;
+                  align-items: flex-start;
+          -webkit-flex-direction: column;
+              -ms-flex-direction: column;
+                  flex-direction: column;
+          margin-bottom: 20px; }
+          #section-info-123 .group.group-files-update .form-group label.gfu-name, #section-info-4 .group.group-files-update .form-group label.gfu-name, #section-info-5 .group.group-files-update .form-group label.gfu-name,
+          #section-info-6 .group.group-files-update .form-group label.gfu-name, #section-info-7 .group.group-files-update .form-group label.gfu-name,
+          #section-info-9 .group.group-files-update .form-group label.gfu-name, #section-info-10 .group.group-files-update .form-group label.gfu-name,
+          #section-info-11 .group.group-files-update .form-group label.gfu-name, #section-info-12 .group.group-files-update .form-group label.gfu-name,
+          #section-info-13 .group.group-files-update .form-group label.gfu-name {
+            margin-bottom: 15px; } }
+    #section-info-123 .group.group-files-update .gfu-ul, #section-info-4 .group.group-files-update .gfu-ul, #section-info-5 .group.group-files-update .gfu-ul,
+    #section-info-6 .group.group-files-update .gfu-ul, #section-info-7 .group.group-files-update .gfu-ul,
+    #section-info-9 .group.group-files-update .gfu-ul, #section-info-10 .group.group-files-update .gfu-ul,
+    #section-info-11 .group.group-files-update .gfu-ul, #section-info-12 .group.group-files-update .gfu-ul,
+    #section-info-13 .group.group-files-update .gfu-ul {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      list-style-type: none;
+      padding-left: 0;
+      width: 100%;
+      margin-bottom: 0; }
+      @media screen and (max-width: 767px) {
+        #section-info-123 .group.group-files-update .gfu-ul, #section-info-4 .group.group-files-update .gfu-ul, #section-info-5 .group.group-files-update .gfu-ul,
+        #section-info-6 .group.group-files-update .gfu-ul, #section-info-7 .group.group-files-update .gfu-ul,
+        #section-info-9 .group.group-files-update .gfu-ul, #section-info-10 .group.group-files-update .gfu-ul,
+        #section-info-11 .group.group-files-update .gfu-ul, #section-info-12 .group.group-files-update .gfu-ul,
+        #section-info-13 .group.group-files-update .gfu-ul {
+          -webkit-flex-wrap: wrap;
+              -ms-flex-wrap: wrap;
+                  flex-wrap: wrap; } }
+      #section-info-123 .group.group-files-update .gfu-ul li, #section-info-4 .group.group-files-update .gfu-ul li, #section-info-5 .group.group-files-update .gfu-ul li,
+      #section-info-6 .group.group-files-update .gfu-ul li, #section-info-7 .group.group-files-update .gfu-ul li,
+      #section-info-9 .group.group-files-update .gfu-ul li, #section-info-10 .group.group-files-update .gfu-ul li,
+      #section-info-11 .group.group-files-update .gfu-ul li, #section-info-12 .group.group-files-update .gfu-ul li,
+      #section-info-13 .group.group-files-update .gfu-ul li {
+        width: 30%; }
+        #section-info-123 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-4 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-5 .group.group-files-update .gfu-ul li:nth-child(2),
+        #section-info-6 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-7 .group.group-files-update .gfu-ul li:nth-child(2),
+        #section-info-9 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-10 .group.group-files-update .gfu-ul li:nth-child(2),
+        #section-info-11 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-12 .group.group-files-update .gfu-ul li:nth-child(2),
+        #section-info-13 .group.group-files-update .gfu-ul li:nth-child(2) {
+          width: 40%;
+          margin: 0 10px; }
+          @media screen and (max-width: 767px) {
+            #section-info-123 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-4 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-5 .group.group-files-update .gfu-ul li:nth-child(2),
+            #section-info-6 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-7 .group.group-files-update .gfu-ul li:nth-child(2),
+            #section-info-9 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-10 .group.group-files-update .gfu-ul li:nth-child(2),
+            #section-info-11 .group.group-files-update .gfu-ul li:nth-child(2), #section-info-12 .group.group-files-update .gfu-ul li:nth-child(2),
+            #section-info-13 .group.group-files-update .gfu-ul li:nth-child(2) {
+              width: 100%;
+              margin: 10px 0; } }
+        @media screen and (max-width: 767px) {
+          #section-info-123 .group.group-files-update .gfu-ul li, #section-info-4 .group.group-files-update .gfu-ul li, #section-info-5 .group.group-files-update .gfu-ul li,
+          #section-info-6 .group.group-files-update .gfu-ul li, #section-info-7 .group.group-files-update .gfu-ul li,
+          #section-info-9 .group.group-files-update .gfu-ul li, #section-info-10 .group.group-files-update .gfu-ul li,
+          #section-info-11 .group.group-files-update .gfu-ul li, #section-info-12 .group.group-files-update .gfu-ul li,
+          #section-info-13 .group.group-files-update .gfu-ul li {
+            width: 100%; } }
+    #section-info-123 .group.group-error, #section-info-4 .group.group-error, #section-info-5 .group.group-error,
+    #section-info-6 .group.group-error, #section-info-7 .group.group-error,
+    #section-info-9 .group.group-error, #section-info-10 .group.group-error,
+    #section-info-11 .group.group-error, #section-info-12 .group.group-error,
+    #section-info-13 .group.group-error {
+      padding-top: 150px; }
+      @media screen and (max-width: 767px) {
+        #section-info-123 .group.group-error, #section-info-4 .group.group-error, #section-info-5 .group.group-error,
+        #section-info-6 .group.group-error, #section-info-7 .group.group-error,
+        #section-info-9 .group.group-error, #section-info-10 .group.group-error,
+        #section-info-11 .group.group-error, #section-info-12 .group.group-error,
+        #section-info-13 .group.group-error {
+          padding-top: 80px; } }
+      #section-info-123 .group.group-error .notfound, #section-info-4 .group.group-error .notfound, #section-info-5 .group.group-error .notfound,
+      #section-info-6 .group.group-error .notfound, #section-info-7 .group.group-error .notfound,
+      #section-info-9 .group.group-error .notfound, #section-info-10 .group.group-error .notfound,
+      #section-info-11 .group.group-error .notfound, #section-info-12 .group.group-error .notfound,
+      #section-info-13 .group.group-error .notfound {
+        color: #696969;
+        font-size: 24px;
+        margin-top: 42px; }
+        @media screen and (max-width: 599px) {
+          #section-info-123 .group.group-error .notfound, #section-info-4 .group.group-error .notfound, #section-info-5 .group.group-error .notfound,
+          #section-info-6 .group.group-error .notfound, #section-info-7 .group.group-error .notfound,
+          #section-info-9 .group.group-error .notfound, #section-info-10 .group.group-error .notfound,
+          #section-info-11 .group.group-error .notfound, #section-info-12 .group.group-error .notfound,
+          #section-info-13 .group.group-error .notfound {
+            font-size: 20px; } }
+        @media screen and (max-width: 399px) {
+          #section-info-123 .group.group-error .notfound, #section-info-4 .group.group-error .notfound, #section-info-5 .group.group-error .notfound,
+          #section-info-6 .group.group-error .notfound, #section-info-7 .group.group-error .notfound,
+          #section-info-9 .group.group-error .notfound, #section-info-10 .group.group-error .notfound,
+          #section-info-11 .group.group-error .notfound, #section-info-12 .group.group-error .notfound,
+          #section-info-13 .group.group-error .notfound {
+            font-size: 16px; } }
+      #section-info-123 .group.group-error .sub-notfound, #section-info-4 .group.group-error .sub-notfound, #section-info-5 .group.group-error .sub-notfound,
+      #section-info-6 .group.group-error .sub-notfound, #section-info-7 .group.group-error .sub-notfound,
+      #section-info-9 .group.group-error .sub-notfound, #section-info-10 .group.group-error .sub-notfound,
+      #section-info-11 .group.group-error .sub-notfound, #section-info-12 .group.group-error .sub-notfound,
+      #section-info-13 .group.group-error .sub-notfound {
+        color: #696969;
+        font-size: 24px; }
+        @media screen and (max-width: 599px) {
+          #section-info-123 .group.group-error .sub-notfound, #section-info-4 .group.group-error .sub-notfound, #section-info-5 .group.group-error .sub-notfound,
+          #section-info-6 .group.group-error .sub-notfound, #section-info-7 .group.group-error .sub-notfound,
+          #section-info-9 .group.group-error .sub-notfound, #section-info-10 .group.group-error .sub-notfound,
+          #section-info-11 .group.group-error .sub-notfound, #section-info-12 .group.group-error .sub-notfound,
+          #section-info-13 .group.group-error .sub-notfound {
+            font-size: 20px; } }
+        @media screen and (max-width: 399px) {
+          #section-info-123 .group.group-error .sub-notfound, #section-info-4 .group.group-error .sub-notfound, #section-info-5 .group.group-error .sub-notfound,
+          #section-info-6 .group.group-error .sub-notfound, #section-info-7 .group.group-error .sub-notfound,
+          #section-info-9 .group.group-error .sub-notfound, #section-info-10 .group.group-error .sub-notfound,
+          #section-info-11 .group.group-error .sub-notfound, #section-info-12 .group.group-error .sub-notfound,
+          #section-info-13 .group.group-error .sub-notfound {
+            font-size: 15px; } }
+      #section-info-123 .group.group-error .btn-success, #section-info-4 .group.group-error .btn-success, #section-info-5 .group.group-error .btn-success,
+      #section-info-6 .group.group-error .btn-success, #section-info-7 .group.group-error .btn-success,
+      #section-info-9 .group.group-error .btn-success, #section-info-10 .group.group-error .btn-success,
+      #section-info-11 .group.group-error .btn-success, #section-info-12 .group.group-error .btn-success,
+      #section-info-13 .group.group-error .btn-success {
+        color: #fff;
+        font-size: 13px;
+        margin-right: 0;
+        background: #38d46a;
+        padding: 10px 60px;
+        border: none;
+        margin-top: 30px; }
+    #section-info-123 .group.group-confirm .conf-title, #section-info-4 .group.group-confirm .conf-title, #section-info-5 .group.group-confirm .conf-title,
+    #section-info-6 .group.group-confirm .conf-title, #section-info-7 .group.group-confirm .conf-title,
+    #section-info-9 .group.group-confirm .conf-title, #section-info-10 .group.group-confirm .conf-title,
+    #section-info-11 .group.group-confirm .conf-title, #section-info-12 .group.group-confirm .conf-title,
+    #section-info-13 .group.group-confirm .conf-title {
+      font-size: 18px;
+      color: #696969;
+      margin-bottom: 5px; }
+     /* custom css - Trung Nguyen 09/05/2018 */
+     #section-info-7 .tab_footer {
+      padding:30px 0;
+     }
+     #section-info-7 .tab_footer button {
+      margin: 30px auto 0;
+      width: 100%;
+     }
+     #section-info-7 .group.group-confirm .conf-title {
+       color: #4d4d4d;
+       margin-top: 30px;
+     } 
+     #section-info-7 .group.group-confirm .conf-title i {
+       color: #307be7;
+       margin-right: 10px;
+       font-size: 22px;
+     }
+    #section-info-123 .group.group-confirm .conf-code, #section-info-4 .group.group-confirm .conf-code, #section-info-5 .group.group-confirm .conf-code,
+    #section-info-6 .group.group-confirm .conf-code, #section-info-7 .group.group-confirm .conf-code,
+    #section-info-9 .group.group-confirm .conf-code, #section-info-10 .group.group-confirm .conf-code,
+    #section-info-11 .group.group-confirm .conf-code, #section-info-12 .group.group-confirm .conf-code,
+    #section-info-13 .group.group-confirm .conf-code {
+      font-size: 14px;
+      font-weight: bold;
+      color: #307be7; }
+    #section-info-123 .group.group-confirm ul, #section-info-4 .group.group-confirm ul, #section-info-5 .group.group-confirm ul,
+    #section-info-6 .group.group-confirm ul, #section-info-7 .group.group-confirm ul,
+    #section-info-9 .group.group-confirm ul, #section-info-10 .group.group-confirm ul,
+    #section-info-11 .group.group-confirm ul, #section-info-12 .group.group-confirm ul,
+    #section-info-13 .group.group-confirm ul {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      margin-top: 42px;
+      list-style-type: none;
+      padding-left: 0; }
+      #section-info-123 .group.group-confirm ul li, #section-info-4 .group.group-confirm ul li, #section-info-5 .group.group-confirm ul li,
+      #section-info-6 .group.group-confirm ul li, #section-info-7 .group.group-confirm ul li,
+      #section-info-9 .group.group-confirm ul li, #section-info-10 .group.group-confirm ul li,
+      #section-info-11 .group.group-confirm ul li, #section-info-12 .group.group-confirm ul li,
+      #section-info-13 .group.group-confirm ul li {
+        width: 50%;
+        text-align: left;
+        padding: 0 10px; }
+        @media screen and (max-width: 767px) {
+          #section-info-123 .group.group-confirm ul li, #section-info-4 .group.group-confirm ul li, #section-info-5 .group.group-confirm ul li,
+          #section-info-6 .group.group-confirm ul li, #section-info-7 .group.group-confirm ul li,
+          #section-info-9 .group.group-confirm ul li, #section-info-10 .group.group-confirm ul li,
+          #section-info-11 .group.group-confirm ul li, #section-info-12 .group.group-confirm ul li,
+          #section-info-13 .group.group-confirm ul li {
+            width: 100%;
+            padding: 0;
+            text-align: center; } }
+        #section-info-123 .group.group-confirm ul li .conf-f, #section-info-4 .group.group-confirm ul li .conf-f, #section-info-5 .group.group-confirm ul li .conf-f,
+        #section-info-6 .group.group-confirm ul li .conf-f, #section-info-7 .group.group-confirm ul li .conf-f,
+        #section-info-9 .group.group-confirm ul li .conf-f, #section-info-10 .group.group-confirm ul li .conf-f,
+        #section-info-11 .group.group-confirm ul li .conf-f, #section-info-12 .group.group-confirm ul li .conf-f,
+        #section-info-13 .group.group-confirm ul li .conf-f {
+          font-size: 13px;
+          font-weight: bold;
+          margin-bottom: 25px; }
+          #section-info-7 .group.group-confirm ul li .conf-f {
+            font-weight: 300;
+            margin:0;
+          }
+          #section-info-7 .group.group-confirm ul li .conf-f i {
+            font-size: 15px;
+            margin-right: 10px;
+            
+          }
+        #section-info-123 .group.group-confirm ul li .conf-t, #section-info-4 .group.group-confirm ul li .conf-t, #section-info-5 .group.group-confirm ul li .conf-t,
+        #section-info-6 .group.group-confirm ul li .conf-t, #section-info-7 .group.group-confirm ul li .conf-t,
+        #section-info-9 .group.group-confirm ul li .conf-t, #section-info-10 .group.group-confirm ul li .conf-t,
+        #section-info-11 .group.group-confirm ul li .conf-t, #section-info-12 .group.group-confirm ul li .conf-t,
+        #section-info-13 .group.group-confirm ul li .conf-t {
+          font-size: 15px;
+          font-weight: bold;
+          color: #696969;
+          margin-bottom: 35px; }
+          @media screen and (max-width: 767px) {
+            #section-info-123 .group.group-confirm ul li .conf-t, #section-info-4 .group.group-confirm ul li .conf-t, #section-info-5 .group.group-confirm ul li .conf-t,
+            #section-info-6 .group.group-confirm ul li .conf-t, #section-info-7 .group.group-confirm ul li .conf-t,
+            #section-info-9 .group.group-confirm ul li .conf-t, #section-info-10 .group.group-confirm ul li .conf-t,
+            #section-info-11 .group.group-confirm ul li .conf-t, #section-info-12 .group.group-confirm ul li .conf-t,
+            #section-info-13 .group.group-confirm ul li .conf-t {
+              margin-bottom: 30px; } }
+            #section-info-7 .group.group-confirm ul li .conf-t {
+                font-size: 14px;
+                font-weight: 300;
+                margin: 5px 0 30px;
+                padding: 10px 10px;
+                border-radius: 4px;
+                border-bottom: 1px dashed #BDCAD1;
+              }
+              #section-info-7 .group.group-confirm ul li .conf-t:hover {
+                color: #307be7;
+                content: "";
+              }  
+    /*#section-info-123 button {*/
+      /*width: 100%;*/
+      /*margin: 5px;*/
+    /*}          */
+    #section-info-123 .group.group-confirm hr, #section-info-4 .group.group-confirm hr, #section-info-5 .group.group-confirm hr,
+    #section-info-6 .group.group-confirm hr, #section-info-7 .group.group-confirm hr,
+    #section-info-9 .group.group-confirm hr, #section-info-10 .group.group-confirm hr,
+    #section-info-11 .group.group-confirm hr, #section-info-12 .group.group-confirm hr,
+    #section-info-13 .group.group-confirm hr {
+      margin: 40px -20px;
+      margin-top: 0; }
+      @media screen and (max-width: 767px) {
+        #section-info-123 .group.group-confirm hr, #section-info-4 .group.group-confirm hr, #section-info-5 .group.group-confirm hr,
+        #section-info-6 .group.group-confirm hr, #section-info-7 .group.group-confirm hr,
+        #section-info-9 .group.group-confirm hr, #section-info-10 .group.group-confirm hr,
+        #section-info-11 .group.group-confirm hr, #section-info-12 .group.group-confirm hr,
+        #section-info-13 .group.group-confirm hr {
+          margin-top: 20px;
+          margin-bottom: 0; } }
+    #section-info-123 .group.group-confirm .form-check, #section-info-4 .group.group-confirm .form-check, #section-info-5 .group.group-confirm .form-check,
+    #section-info-6 .group.group-confirm .form-check, #section-info-7 .group.group-confirm .form-check,
+    #section-info-9 .group.group-confirm .form-check, #section-info-10 .group.group-confirm .form-check,
+    #section-info-11 .group.group-confirm .form-check, #section-info-12 .group.group-confirm .form-check,
+    #section-info-13 .group.group-confirm .form-check {
+      margin-bottom: 10px; }
+      #section-info-123 .group.group-confirm .form-check label, #section-info-4 .group.group-confirm .form-check label, #section-info-5 .group.group-confirm .form-check label,
+      #section-info-6 .group.group-confirm .form-check label, #section-info-7 .group.group-confirm .form-check label,
+      #section-info-9 .group.group-confirm .form-check label, #section-info-10 .group.group-confirm .form-check label,
+      #section-info-11 .group.group-confirm .form-check label, #section-info-12 .group.group-confirm .form-check label,
+      #section-info-13 .group.group-confirm .form-check label {
+        font-size: 14px; }
+        #section-info-123 .group.group-confirm .form-check label:hover, #section-info-123 .group.group-confirm .form-check label:focus, #section-info-4 .group.group-confirm .form-check label:hover, #section-info-4 .group.group-confirm .form-check label:focus, #section-info-5 .group.group-confirm .form-check label:hover, #section-info-5 .group.group-confirm .form-check label:focus,
+        #section-info-6 .group.group-confirm .form-check label:hover,
+        #section-info-6 .group.group-confirm .form-check label:focus, #section-info-7 .group.group-confirm .form-check label:hover, #section-info-7 .group.group-confirm .form-check label:focus,
+        #section-info-9 .group.group-confirm .form-check label:hover,
+        #section-info-9 .group.group-confirm .form-check label:focus, #section-info-10 .group.group-confirm .form-check label:hover, #section-info-10 .group.group-confirm .form-check label:focus,
+        #section-info-11 .group.group-confirm .form-check label:hover,
+        #section-info-11 .group.group-confirm .form-check label:focus, #section-info-12 .group.group-confirm .form-check label:hover, #section-info-12 .group.group-confirm .form-check label:focus,
+        #section-info-13 .group.group-confirm .form-check label:hover,
+        #section-info-13 .group.group-confirm .form-check label:focus {
+          outline: none !important; }
+          #section-info-123 .group.group-confirm .form-check label:hover input, #section-info-123 .group.group-confirm .form-check label:focus input, #section-info-4 .group.group-confirm .form-check label:hover input, #section-info-4 .group.group-confirm .form-check label:focus input, #section-info-5 .group.group-confirm .form-check label:hover input, #section-info-5 .group.group-confirm .form-check label:focus input,
+          #section-info-6 .group.group-confirm .form-check label:hover input,
+          #section-info-6 .group.group-confirm .form-check label:focus input, #section-info-7 .group.group-confirm .form-check label:hover input, #section-info-7 .group.group-confirm .form-check label:focus input,
+          #section-info-9 .group.group-confirm .form-check label:hover input,
+          #section-info-9 .group.group-confirm .form-check label:focus input, #section-info-10 .group.group-confirm .form-check label:hover input, #section-info-10 .group.group-confirm .form-check label:focus input,
+          #section-info-11 .group.group-confirm .form-check label:hover input,
+          #section-info-11 .group.group-confirm .form-check label:focus input, #section-info-12 .group.group-confirm .form-check label:hover input, #section-info-12 .group.group-confirm .form-check label:focus input,
+          #section-info-13 .group.group-confirm .form-check label:hover input,
+          #section-info-13 .group.group-confirm .form-check label:focus input {
+            outline: none !important; }
+    #section-info-123 .group .btn.btn-info, #section-info-4 .group .btn.btn-info, #section-info-5 .group .btn.btn-info,
+    #section-info-6 .group .btn.btn-info, #section-info-7 .group .btn.btn-info,
+    #section-info-9 .group .btn.btn-info, #section-info-10 .group .btn.btn-info,
+    #section-info-11 .group .btn.btn-info, #section-info-12 .group .btn.btn-info,
+    #section-info-13 .group .btn.btn-info {
+      background: #307be7;
+      padding: 11px 30px;
+      font-size: 14px;
+      display: block;
+      width: 100%;
+      color: #fff;
+      border: none;
+      margin-bottom: 24px; }
+    #section-info-123 .group .back-to, #section-info-4 .group .back-to, #section-info-5 .group .back-to,
+    #section-info-6 .group .back-to, #section-info-7 .group .back-to,
+    #section-info-9 .group .back-to, #section-info-10 .group .back-to,
+    #section-info-11 .group .back-to, #section-info-12 .group .back-to,
+    #section-info-13 .group .back-to {
+      position: absolute;
+      top: 30px;
+      left: 30px;
+      font-size: 14px;
+      color: #4d4d4d;
+      transition: all .3s ease;
+      background: #f0f3f6;
+      padding: 7px 17px 6px;
+      border-radius: 2px;
+    }
+      #section-info-123 .group .back-to:hover, #section-info-123 .group .back-to:focus, #section-info-4 .group .back-to:hover, #section-info-4 .group .back-to:focus, #section-info-5 .group .back-to:hover, #section-info-5 .group .back-to:focus,
+      #section-info-6 .group .back-to:hover,
+      #section-info-6 .group .back-to:focus, #section-info-7 .group .back-to:hover, #section-info-7 .group .back-to:focus,
+      #section-info-9 .group .back-to:hover,
+      #section-info-9 .group .back-to:focus, #section-info-10 .group .back-to:hover, #section-info-10 .group .back-to:focus,
+      #section-info-11 .group .back-to:hover,
+      #section-info-11 .group .back-to:focus, #section-info-12 .group .back-to:hover, #section-info-12 .group .back-to:focus,
+      #section-info-13 .group .back-to:hover,
+      #section-info-13 .group .back-to:focus {
+        color: #fff;
+        background: #307be7;
+        transition: all .3s ease;
+      }
+      @media screen and (max-width: 767px) {
+        #section-info-123 .group .back-to, #section-info-4 .group .back-to, #section-info-5 .group .back-to,
+        #section-info-6 .group .back-to, #section-info-7 .group .back-to,
+        #section-info-9 .group .back-to, #section-info-10 .group .back-to,
+        #section-info-11 .group .back-to, #section-info-12 .group .back-to,
+        #section-info-13 .group .back-to {
+          top: 10px;
+          left: 10px; } }
+      #section-info-123 .group .back-to i, #section-info-4 .group .back-to i, #section-info-5 .group .back-to i,
+      #section-info-6 .group .back-to i, #section-info-7 .group .back-to i,
+      #section-info-9 .group .back-to i, #section-info-10 .group .back-to i,
+      #section-info-11 .group .back-to i, #section-info-12 .group .back-to i,
+      #section-info-13 .group .back-to i {
+        margin-right: 5px;
+        position: relative;
+        top: 1px; }
+    #section-info-123 .group h3, #section-info-4 .group h3, #section-info-5 .group h3,
+    #section-info-6 .group h3, #section-info-7 .group h3,
+    #section-info-9 .group h3, #section-info-10 .group h3,
+    #section-info-11 .group h3, #section-info-12 .group h3,
+    #section-info-13 .group h3 {
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 30px; }
+      #section-info-123 .group h3 {
+      font-size: 18px;  
+      }
+      #section-info-123 .group h3 span, #section-info-4 .group h3 span, #section-info-5 .group h3 span,
+      #section-info-6 .group h3 span, #section-info-7 .group h3 span,
+      #section-info-9 .group h3 span, #section-info-10 .group h3 span,
+      #section-info-11 .group h3 span, #section-info-12 .group h3 span,
+      #section-info-13 .group h3 span {
+        color: #307be7; }
+
+#section-info-123 .group .btn.btn-default {
+  width: 100%;
+}
+
+      @media screen and (max-width: 767px) {
+        #section-info-123 .group .btn.btn-default, #section-info-4 .group .btn.btn-default, #section-info-5 .group .btn.btn-default,
+        #section-info-6 .group .btn.btn-default, #section-info-7 .group .btn.btn-default,
+        #section-info-9 .group .btn.btn-default, #section-info-10 .group .btn.btn-default,
+        #section-info-11 .group .btn.btn-default, #section-info-12 .group .btn.btn-default,
+        #section-info-13 .group .btn.btn-default {
+          display: block;
+          margin: 0;
+          margin-bottom: 0; }
+      }
+@media screen and (max-width: 480px) {
+  #section-info-123 .group .btn.btn-default {
+    margin: 0 5px;
+  }
+}
+  #section-info-123 .group .tab-panel-group, #section-info-4 .group .tab-panel-group, #section-info-5 .group .tab-panel-group,
+    #section-info-6 .group .tab-panel-group, #section-info-7 .group .tab-panel-group,
+    #section-info-9 .group .tab-panel-group, #section-info-10 .group .tab-panel-group,
+    #section-info-11 .group .tab-panel-group, #section-info-12 .group .tab-panel-group,
+    #section-info-13 .group .tab-panel-group {
+      margin: 0 -20px;
+      margin-top: 30px;
+      padding: 30px 200px;
+      padding-top: 30px;
+      border-top: 1px solid #cdd8ea;
+      position: relative;
+      transition: all .5s ease;
+      height: auto; }
+      @media screen and (max-width: 1199px) {
+        #section-info-123 .group .tab-panel-group, #section-info-4 .group .tab-panel-group, #section-info-5 .group .tab-panel-group,
+        #section-info-6 .group .tab-panel-group, #section-info-7 .group .tab-panel-group,
+        #section-info-9 .group .tab-panel-group, #section-info-10 .group .tab-panel-group,
+        #section-info-11 .group .tab-panel-group, #section-info-12 .group .tab-panel-group,
+        #section-info-13 .group .tab-panel-group {
+          padding: 30px 150px;
+          padding-top: 50px; } }
+      @media screen and (max-width: 991px) {
+        #section-info-123 .group .tab-panel-group, #section-info-4 .group .tab-panel-group, #section-info-5 .group .tab-panel-group,
+        #section-info-6 .group .tab-panel-group, #section-info-7 .group .tab-panel-group,
+        #section-info-9 .group .tab-panel-group, #section-info-10 .group .tab-panel-group,
+        #section-info-11 .group .tab-panel-group, #section-info-12 .group .tab-panel-group,
+        #section-info-13 .group .tab-panel-group {
+          padding: 30px 50px;
+          padding-top: 50px; } }
+      @media screen and (max-width: 767px) {
+        #section-info-123 .group .tab-panel-group, #section-info-4 .group .tab-panel-group, #section-info-5 .group .tab-panel-group,
+        #section-info-6 .group .tab-panel-group, #section-info-7 .group .tab-panel-group,
+        #section-info-9 .group .tab-panel-group, #section-info-10 .group .tab-panel-group,
+        #section-info-11 .group .tab-panel-group, #section-info-12 .group .tab-panel-group,
+        #section-info-13 .group .tab-panel-group {
+          padding: 30px 20px;
+          padding-top: 30px; } }
+      #section-info-123 .group .tab-panel-group:before, #section-info-4 .group .tab-panel-group:before, #section-info-5 .group .tab-panel-group:before,
+      #section-info-6 .group .tab-panel-group:before, #section-info-7 .group .tab-panel-group:before,
+      #section-info-9 .group .tab-panel-group:before, #section-info-10 .group .tab-panel-group:before,
+      #section-info-11 .group .tab-panel-group:before, #section-info-12 .group .tab-panel-group:before,
+      #section-info-13 .group .tab-panel-group:before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: -5px;
+        left: 50%;
+        width: 10px;
+        height: 10px;
+        background: #fff;
+        border-right: 1px solid #cdd8ea;
+        border-bottom: 1px solid #cdd8ea;
+        -moz-transform: rotate(45deg);
+        -webkit-transform: rotate(45deg); }
+
+      #section-info-123 .group .tab-panel-group .group-items, #section-info-4 .group .tab-panel-group .group-items, #section-info-5 .group .tab-panel-group .group-items,
+      #section-info-6 .group .tab-panel-group .group-items, #section-info-7 .group .tab-panel-group .group-items,
+      #section-info-9 .group .tab-panel-group .group-items, #section-info-10 .group .tab-panel-group .group-items,
+      #section-info-11 .group .tab-panel-group .group-items, #section-info-12 .group .tab-panel-group .group-items,
+      #section-info-13 .group .tab-panel-group .group-items {
+        height: 100%; }
+        #section-info-123 .group .tab-panel-group .group-items h3, #section-info-4 .group .tab-panel-group .group-items h3, #section-info-5 .group .tab-panel-group .group-items h3,
+        #section-info-6 .group .tab-panel-group .group-items h3, #section-info-7 .group .tab-panel-group .group-items h3,
+        #section-info-9 .group .tab-panel-group .group-items h3, #section-info-10 .group .tab-panel-group .group-items h3,
+        #section-info-11 .group .tab-panel-group .group-items h3, #section-info-12 .group .tab-panel-group .group-items h3,
+        #section-info-13 .group .tab-panel-group .group-items h3 {
+          font-size: 14px;
+          margin-bottom: 20px; }
+        #section-info-123 .group .tab-panel-group .group-items input, #section-info-4 .group .tab-panel-group .group-items input, #section-info-5 .group .tab-panel-group .group-items input,
+        #section-info-6 .group .tab-panel-group .group-items input, #section-info-7 .group .tab-panel-group .group-items input,
+        #section-info-9 .group .tab-panel-group .group-items input, #section-info-10 .group .tab-panel-group .group-items input,
+        #section-info-11 .group .tab-panel-group .group-items input, #section-info-12 .group .tab-panel-group .group-items input,
+        #section-info-13 .group .tab-panel-group .group-items input {
+          height: 42px;
+          font-size: 12px;
+          color: #4d4d4d;
+          border-color: #cdd8ea; }
+        #section-info-123 .group .tab-panel-group .group-items ::-webkit-input-placeholder, #section-info-4 .group .tab-panel-group .group-items ::-webkit-input-placeholder, #section-info-5 .group .tab-panel-group .group-items ::-webkit-input-placeholder,
+        #section-info-6 .group .tab-panel-group .group-items ::-webkit-input-placeholder, #section-info-7 .group .tab-panel-group .group-items ::-webkit-input-placeholder,
+        #section-info-9 .group .tab-panel-group .group-items ::-webkit-input-placeholder, #section-info-10 .group .tab-panel-group .group-items ::-webkit-input-placeholder,
+        #section-info-11 .group .tab-panel-group .group-items ::-webkit-input-placeholder, #section-info-12 .group .tab-panel-group .group-items ::-webkit-input-placeholder,
+        #section-info-13 .group .tab-panel-group .group-items ::-webkit-input-placeholder {
+          /* Chrome/Opera/Safari */
+          color: #cdd8ea; }
+        #section-info-123 .group .tab-panel-group .group-items ::-moz-placeholder, #section-info-4 .group .tab-panel-group .group-items ::-moz-placeholder, #section-info-5 .group .tab-panel-group .group-items ::-moz-placeholder,
+        #section-info-6 .group .tab-panel-group .group-items ::-moz-placeholder, #section-info-7 .group .tab-panel-group .group-items ::-moz-placeholder,
+        #section-info-9 .group .tab-panel-group .group-items ::-moz-placeholder, #section-info-10 .group .tab-panel-group .group-items ::-moz-placeholder,
+        #section-info-11 .group .tab-panel-group .group-items ::-moz-placeholder, #section-info-12 .group .tab-panel-group .group-items ::-moz-placeholder,
+        #section-info-13 .group .tab-panel-group .group-items ::-moz-placeholder {
+          /* Firefox 19+ */
+          color: #cdd8ea; }
+        #section-info-123 .group .tab-panel-group .group-items :-ms-input-placeholder, #section-info-4 .group .tab-panel-group .group-items :-ms-input-placeholder, #section-info-5 .group .tab-panel-group .group-items :-ms-input-placeholder,
+        #section-info-6 .group .tab-panel-group .group-items :-ms-input-placeholder, #section-info-7 .group .tab-panel-group .group-items :-ms-input-placeholder,
+        #section-info-9 .group .tab-panel-group .group-items :-ms-input-placeholder, #section-info-10 .group .tab-panel-group .group-items :-ms-input-placeholder,
+        #section-info-11 .group .tab-panel-group .group-items :-ms-input-placeholder, #section-info-12 .group .tab-panel-group .group-items :-ms-input-placeholder,
+        #section-info-13 .group .tab-panel-group .group-items :-ms-input-placeholder {
+          /* IE 10+ */
+          color: #cdd8ea; }
+        #section-info-123 .group .tab-panel-group .group-items :-moz-placeholder, #section-info-4 .group .tab-panel-group .group-items :-moz-placeholder, #section-info-5 .group .tab-panel-group .group-items :-moz-placeholder,
+        #section-info-6 .group .tab-panel-group .group-items :-moz-placeholder, #section-info-7 .group .tab-panel-group .group-items :-moz-placeholder,
+        #section-info-9 .group .tab-panel-group .group-items :-moz-placeholder, #section-info-10 .group .tab-panel-group .group-items :-moz-placeholder,
+        #section-info-11 .group .tab-panel-group .group-items :-moz-placeholder, #section-info-12 .group .tab-panel-group .group-items :-moz-placeholder,
+        #section-info-13 .group .tab-panel-group .group-items :-moz-placeholder {
+          /* Firefox 18- */
+          color: #cdd8ea; }
+        #section-info-123 .group .tab-panel-group .group-items .miss-code, #section-info-4 .group .tab-panel-group .group-items .miss-code, #section-info-5 .group .tab-panel-group .group-items .miss-code,
+        #section-info-6 .group .tab-panel-group .group-items .miss-code, #section-info-7 .group .tab-panel-group .group-items .miss-code,
+        #section-info-9 .group .tab-panel-group .group-items .miss-code, #section-info-10 .group .tab-panel-group .group-items .miss-code,
+        #section-info-11 .group .tab-panel-group .group-items .miss-code, #section-info-12 .group .tab-panel-group .group-items .miss-code,
+        #section-info-13 .group .tab-panel-group .group-items .miss-code {
+          color: #696969;
+          font-size: 13px;
+          position: relative;
+          padding-left: 10px;
+          text-align: left;
+          transition: all .2s ease; }
+          #section-info-123 .group .tab-panel-group .group-items .miss-code:hover, #section-info-123 .group .tab-panel-group .group-items .miss-code:focus, #section-info-4 .group .tab-panel-group .group-items .miss-code:hover, #section-info-4 .group .tab-panel-group .group-items .miss-code:focus, #section-info-5 .group .tab-panel-group .group-items .miss-code:hover, #section-info-5 .group .tab-panel-group .group-items .miss-code:focus,
+          #section-info-6 .group .tab-panel-group .group-items .miss-code:hover,
+          #section-info-6 .group .tab-panel-group .group-items .miss-code:focus, #section-info-7 .group .tab-panel-group .group-items .miss-code:hover, #section-info-7 .group .tab-panel-group .group-items .miss-code:focus,
+          #section-info-9 .group .tab-panel-group .group-items .miss-code:hover,
+          #section-info-9 .group .tab-panel-group .group-items .miss-code:focus, #section-info-10 .group .tab-panel-group .group-items .miss-code:hover, #section-info-10 .group .tab-panel-group .group-items .miss-code:focus,
+          #section-info-11 .group .tab-panel-group .group-items .miss-code:hover,
+          #section-info-11 .group .tab-panel-group .group-items .miss-code:focus, #section-info-12 .group .tab-panel-group .group-items .miss-code:hover, #section-info-12 .group .tab-panel-group .group-items .miss-code:focus,
+          #section-info-13 .group .tab-panel-group .group-items .miss-code:hover,
+          #section-info-13 .group .tab-panel-group .group-items .miss-code:focus {
+            color: #307be7; }
+          @media screen and (max-width: 767px) {
+            #section-info-123 .group .tab-panel-group .group-items .miss-code, #section-info-4 .group .tab-panel-group .group-items .miss-code, #section-info-5 .group .tab-panel-group .group-items .miss-code,
+            #section-info-6 .group .tab-panel-group .group-items .miss-code, #section-info-7 .group .tab-panel-group .group-items .miss-code,
+            #section-info-9 .group .tab-panel-group .group-items .miss-code, #section-info-10 .group .tab-panel-group .group-items .miss-code,
+            #section-info-11 .group .tab-panel-group .group-items .miss-code, #section-info-12 .group .tab-panel-group .group-items .miss-code,
+            #section-info-13 .group .tab-panel-group .group-items .miss-code {
+              margin-bottom: 30px; } }
+          #section-info-123 .group .tab-panel-group .group-items .miss-code:before, #section-info-4 .group .tab-panel-group .group-items .miss-code:before, #section-info-5 .group .tab-panel-group .group-items .miss-code:before,
+          #section-info-6 .group .tab-panel-group .group-items .miss-code:before, #section-info-7 .group .tab-panel-group .group-items .miss-code:before,
+          #section-info-9 .group .tab-panel-group .group-items .miss-code:before, #section-info-10 .group .tab-panel-group .group-items .miss-code:before,
+          #section-info-11 .group .tab-panel-group .group-items .miss-code:before, #section-info-12 .group .tab-panel-group .group-items .miss-code:before,
+          #section-info-13 .group .tab-panel-group .group-items .miss-code:before {
+            content: '';
+            background: url("../images/icons/arr-right.svg") no-repeat center;
+            width: 4px;
+            height: 6px;
+            position: absolute;
+            top: 3px;
+            left: 0; }
+            #section-info-123 .group .tab-panel-group .group-items .miss-code:before {
+              top:7px;
+            }    
+        #section-info-123 .group .tab-panel-group .group-items p, #section-info-4 .group .tab-panel-group .group-items p, #section-info-5 .group .tab-panel-group .group-items p,
+        #section-info-6 .group .tab-panel-group .group-items p, #section-info-7 .group .tab-panel-group .group-items p,
+        #section-info-9 .group .tab-panel-group .group-items p, #section-info-10 .group .tab-panel-group .group-items p,
+        #section-info-11 .group .tab-panel-group .group-items p, #section-info-12 .group .tab-panel-group .group-items p,
+        #section-info-13 .group .tab-panel-group .group-items p {
+          font-size: 13px;
+          color: #696969; }
+        #section-info-123 .group .tab-panel-group .group-items .group-images-left, #section-info-4 .group .tab-panel-group .group-items .group-images-left, #section-info-5 .group .tab-panel-group .group-items .group-images-left,
+        #section-info-6 .group .tab-panel-group .group-items .group-images-left, #section-info-7 .group .tab-panel-group .group-items .group-images-left,
+        #section-info-9 .group .tab-panel-group .group-items .group-images-left, #section-info-10 .group .tab-panel-group .group-items .group-images-left,
+        #section-info-11 .group .tab-panel-group .group-items .group-images-left, #section-info-12 .group .tab-panel-group .group-items .group-images-left,
+        #section-info-13 .group .tab-panel-group .group-items .group-images-left {
+          margin-right: 20px; }
+    #section-info-123 .group .group-items-register p.text-md-left, #section-info-123 .group .group-items-register p.text-md-center, #section-info-4 .group .group-items-register p.text-md-left, #section-info-4 .group .group-items-register p.text-md-center, #section-info-5 .group .group-items-register p.text-md-left, #section-info-5 .group .group-items-register p.text-md-center,
+    #section-info-6 .group .group-items-register p.text-md-left,
+    #section-info-6 .group .group-items-register p.text-md-center, #section-info-7 .group .group-items-register p.text-md-left, #section-info-7 .group .group-items-register p.text-md-center,
+    #section-info-9 .group .group-items-register p.text-md-left,
+    #section-info-9 .group .group-items-register p.text-md-center, #section-info-10 .group .group-items-register p.text-md-left, #section-info-10 .group .group-items-register p.text-md-center,
+    #section-info-11 .group .group-items-register p.text-md-left,
+    #section-info-11 .group .group-items-register p.text-md-center, #section-info-12 .group .group-items-register p.text-md-left, #section-info-12 .group .group-items-register p.text-md-center,
+    #section-info-13 .group .group-items-register p.text-md-left,
+    #section-info-13 .group .group-items-register p.text-md-center {
+      margin-bottom: 30px; }
+    #section-info-123 .group .group-items-register h2, #section-info-4 .group .group-items-register h2, #section-info-5 .group .group-items-register h2,
+    #section-info-6 .group .group-items-register h2, #section-info-7 .group .group-items-register h2,
+    #section-info-9 .group .group-items-register h2, #section-info-10 .group .group-items-register h2,
+    #section-info-11 .group .group-items-register h2, #section-info-12 .group .group-items-register h2,
+    #section-info-13 .group .group-items-register h2 {
+        margin-top: 20px;
+        font-weight: 700;
+        color: #4d4d4d;
+        margin-bottom: 0;
+    }
+#section-info-13 .group .group-items-register h2 {
+  margin-top: 20px;
+  font-weight: 700;
+  color: #4d4d4d;
+}
+      #section-info-123 .group .group-items-register h2.h2-blue, #section-info-4 .group .group-items-register h2.h2-blue, #section-info-5 .group .group-items-register h2.h2-blue,
+      #section-info-6 .group .group-items-register h2.h2-blue, #section-info-7 .group .group-items-register h2.h2-blue,
+      #section-info-9 .group .group-items-register h2.h2-blue, #section-info-10 .group .group-items-register h2.h2-blue,
+      #section-info-11 .group .group-items-register h2.h2-blue, #section-info-12 .group .group-items-register h2.h2-blue,
+      #section-info-13 .group .group-items-register h2.h2-blue {
+        color: #307be7;
+        margin-bottom: 20px; }
+      #section-info-123 .group .group-items-register h2.h2-bor-botttom, #section-info-4 .group .group-items-register h2.h2-bor-botttom, #section-info-5 .group .group-items-register h2.h2-bor-botttom,
+      #section-info-6 .group .group-items-register h2.h2-bor-botttom, #section-info-7 .group .group-items-register h2.h2-bor-botttom,
+      #section-info-9 .group .group-items-register h2.h2-bor-botttom, #section-info-10 .group .group-items-register h2.h2-bor-botttom,
+      #section-info-11 .group .group-items-register h2.h2-bor-botttom, #section-info-12 .group .group-items-register h2.h2-bor-botttom,
+      #section-info-13 .group .group-items-register h2.h2-bor-botttom {
+        color: #4d4d4d;
+        padding-bottom: 30px;}
+    #section-info-123 .group .group-items-register .form-group, #section-info-4 .group .group-items-register .form-group, #section-info-5 .group .group-items-register .form-group,
+    #section-info-6 .group .group-items-register .form-group, #section-info-7 .group .group-items-register .form-group,
+    #section-info-9 .group .group-items-register .form-group, #section-info-10 .group .group-items-register .form-group,
+    #section-info-11 .group .group-items-register .form-group, #section-info-12 .group .group-items-register .form-group,
+    #section-info-13 .group .group-items-register .form-group {
+      margin-bottom: 20px; }
+      @media screen and (min-width: 768px) {
+        #section-info-123 .group .group-items-register .form-group .pd-right-0, #section-info-4 .group .group-items-register .form-group .pd-right-0, #section-info-5 .group .group-items-register .form-group .pd-right-0,
+        #section-info-6 .group .group-items-register .form-group .pd-right-0, #section-info-7 .group .group-items-register .form-group .pd-right-0,
+        #section-info-9 .group .group-items-register .form-group .pd-right-0, #section-info-10 .group .group-items-register .form-group .pd-right-0,
+        #section-info-11 .group .group-items-register .form-group .pd-right-0, #section-info-12 .group .group-items-register .form-group .pd-right-0,
+        #section-info-13 .group .group-items-register .form-group .pd-right-0 {
+          padding-right: 0; } }
+      @media screen and (min-width: 768px) {
+        #section-info-123 .group .group-items-register .form-group .pd-left-0, #section-info-4 .group .group-items-register .form-group .pd-left-0, #section-info-5 .group .group-items-register .form-group .pd-left-0,
+        #section-info-6 .group .group-items-register .form-group .pd-left-0, #section-info-7 .group .group-items-register .form-group .pd-left-0,
+        #section-info-9 .group .group-items-register .form-group .pd-left-0, #section-info-10 .group .group-items-register .form-group .pd-left-0,
+        #section-info-11 .group .group-items-register .form-group .pd-left-0, #section-info-12 .group .group-items-register .form-group .pd-left-0,
+        #section-info-13 .group .group-items-register .form-group .pd-left-0 {
+          padding-left: 0; } }
+      #section-info-123 .group .group-items-register .form-group .btn-info, #section-info-4 .group .group-items-register .form-group .btn-info, #section-info-5 .group .group-items-register .form-group .btn-info,
+      #section-info-6 .group .group-items-register .form-group .btn-info, #section-info-7 .group .group-items-register .form-group .btn-info,
+      #section-info-9 .group .group-items-register .form-group .btn-info, #section-info-10 .group .group-items-register .form-group .btn-info,
+      #section-info-11 .group .group-items-register .form-group .btn-info, #section-info-12 .group .group-items-register .form-group .btn-info,
+      #section-info-13 .group .group-items-register .form-group .btn-info {
+        margin-top: 30px; }
+      #section-info-123 .group .group-items-register .form-group.form-group-icons, #section-info-4 .group .group-items-register .form-group.form-group-icons, #section-info-5 .group .group-items-register .form-group.form-group-icons,
+      #section-info-6 .group .group-items-register .form-group.form-group-icons, #section-info-7 .group .group-items-register .form-group.form-group-icons,
+      #section-info-9 .group .group-items-register .form-group.form-group-icons, #section-info-10 .group .group-items-register .form-group.form-group-icons,
+      #section-info-11 .group .group-items-register .form-group.form-group-icons, #section-info-12 .group .group-items-register .form-group.form-group-icons,
+      #section-info-13 .group .group-items-register .form-group.form-group-icons {
+        position: relative; }
+        #section-info-123 .group .group-items-register .form-group.form-group-icons:after, #section-info-4 .group .group-items-register .form-group.form-group-icons:after, #section-info-5 .group .group-items-register .form-group.form-group-icons:after,
+        #section-info-6 .group .group-items-register .form-group.form-group-icons:after, #section-info-7 .group .group-items-register .form-group.form-group-icons:after,
+        #section-info-9 .group .group-items-register .form-group.form-group-icons:after, #section-info-10 .group .group-items-register .form-group.form-group-icons:after,
+        #section-info-11 .group .group-items-register .form-group.form-group-icons:after, #section-info-12 .group .group-items-register .form-group.form-group-icons:after,
+        #section-info-13 .group .group-items-register .form-group.form-group-icons:after {
+          content: '';
+          background: url("../images/icons/calendar1.svg") no-repeat center;
+          width: 17px;
+          height: 13px;
+          position: absolute;
+          bottom: 14px;
+          right: 10px; }
+        #section-info-123 .group .group-items-register .form-group.form-group-icons input, #section-info-4 .group .group-items-register .form-group.form-group-icons input, #section-info-5 .group .group-items-register .form-group.form-group-icons input,
+        #section-info-6 .group .group-items-register .form-group.form-group-icons input, #section-info-7 .group .group-items-register .form-group.form-group-icons input,
+        #section-info-9 .group .group-items-register .form-group.form-group-icons input, #section-info-10 .group .group-items-register .form-group.form-group-icons input,
+        #section-info-11 .group .group-items-register .form-group.form-group-icons input, #section-info-12 .group .group-items-register .form-group.form-group-icons input,
+        #section-info-13 .group .group-items-register .form-group.form-group-icons input {
+          padding-right: 30px; }
+      #section-info-123 .group .group-items-register .form-group label, #section-info-4 .group .group-items-register .form-group label, #section-info-5 .group .group-items-register .form-group label,
+      #section-info-6 .group .group-items-register .form-group label, #section-info-7 .group .group-items-register .form-group label,
+      #section-info-9 .group .group-items-register .form-group label, #section-info-10 .group .group-items-register .form-group label,
+      #section-info-11 .group .group-items-register .form-group label, #section-info-12 .group .group-items-register .form-group label,
+      #section-info-13 .group .group-items-register .form-group label {
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 15px; }
+        #section-info-123 .group .group-items-register .form-group label {
+          margin-bottom: 5px;
+          padding: 0 5px;
+          font-weight: 300;
+          color: #4d4d4d;
+        }
+      #section-info-123 .group-images-right img{
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        margin-right: 10px
+      }
+      #section-info-123 .group-images-left img{
+        border: 1px solid #ccc;
+      }
+     
+      .gr-editor {
+
+      }
+      .gr-editor ul {
+        padding: 5px 0 0; 
+      }
+      .gr-editor ul li {
+        display: inline;
+        color: #4d4d4d;
+        padding: 0 !important;
+        margin: 0 10px !important;
+      }
+      .gr-editor ul li:first-child {
+        margin-left: 0 !important;
+      }
+      .gr-editor ul li:hover,
+      .gr-editor ul li:hover i,
+      .gr-editor ul li:hover a {
+        color: #3F9DF0;
+      }
+      .gr-editor ul li a {
+
+      }
+      .gr-editor ul li i {
+        margin-right: 6px;
+      }
+      @media screen and (max-width:767px) {
+        .gr-editor {
+          margin-bottom: 20px;
+        }
+        #section-info-123 .group .group-items-register .form-group {
+          margin-bottom: 0 !important;
+        }
+        #section-info-123 .group .group-items-register .form-group button {
+          margin-top: 0 !important;
+        }
+        #section-info-123 .group .tab-panel-group {
+          padding-bottom: 0;
+        }
+        #section-info-123 {
+          margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        #section-info-10 .group-files-update ul {
+          padding: 0;
+        }
+        #section-info-10 .group-files-update .form-group ul li {
+          width: 33.33333%;
+        }
+        #section-info-10 .group-files-update .form-group ul li:first-child {
+          width: 20%;
+        }
+      }
+      #section-info-13 .group .group-items-register .group-results {
+        border: 1px dashed #cdd8ea;
+      }
+        #section-info-123 .group .group-items-register .form-group label sup, #section-info-4 .group .group-items-register .form-group label sup, #section-info-5 .group .group-items-register .form-group label sup,
+        #section-info-6 .group .group-items-register .form-group label sup, #section-info-7 .group .group-items-register .form-group label sup,
+        #section-info-9 .group .group-items-register .form-group label sup, #section-info-10 .group .group-items-register .form-group label sup,
+        #section-info-11 .group .group-items-register .form-group label sup, #section-info-12 .group .group-items-register .form-group label sup,
+        #section-info-13 .group .group-items-register .form-group label sup {
+          color: #f62c2c; }
+        #section-info-123 .group .group-items-register .form-group label span, #section-info-4 .group .group-items-register .form-group label span, #section-info-5 .group .group-items-register .form-group label span,
+        #section-info-6 .group .group-items-register .form-group label span, #section-info-7 .group .group-items-register .form-group label span,
+        #section-info-9 .group .group-items-register .form-group label span, #section-info-10 .group .group-items-register .form-group label span,
+        #section-info-11 .group .group-items-register .form-group label span, #section-info-12 .group .group-items-register .form-group label span,
+        #section-info-13 .group .group-items-register .form-group label span {
+          font-weight: 400; }
+      #section-info-123 .group .group-items-register .form-group input, #section-info-123 .group .group-items-register .form-group select, #section-info-4 .group .group-items-register .form-group input, #section-info-4 .group .group-items-register .form-group select, #section-info-5 .group .group-items-register .form-group input, #section-info-5 .group .group-items-register .form-group select,
+      #section-info-6 .group .group-items-register .form-group input,
+      #section-info-6 .group .group-items-register .form-group select, #section-info-7 .group .group-items-register .form-group input, #section-info-7 .group .group-items-register .form-group select,
+      #section-info-9 .group .group-items-register .form-group input,
+      #section-info-9 .group .group-items-register .form-group select, #section-info-10 .group .group-items-register .form-group input, #section-info-10 .group .group-items-register .form-group select,
+      #section-info-11 .group .group-items-register .form-group input,
+      #section-info-11 .group .group-items-register .form-group select, #section-info-12 .group .group-items-register .form-group input, #section-info-12 .group .group-items-register .form-group select,
+      #section-info-13 .group .group-items-register .form-group input,
+      #section-info-13 .group .group-items-register .form-group select {
+
+      }
+
+
+
+      /* custom css 09/05/2018 - Trung Nguyen */
+      #section-info-123 .group .group-items-register .form-group input, #section-info-123 .group .group-items-register .form-group select {
+        margin-bottom: 3px !important;
+        font-size: 14px;
+        color: #696969;
+        /*background: #fefefe;*/
+        border: none;
+        height: 42px;
+        padding: 5px 10px;
+      }
+      #section-info-123 .group .group-items-register .form-group select {
+        font-size: 14px;
+      }
+
+        #section-info-123 .group .group-items-register .form-group input.height-11, #section-info-123 .group .group-items-register .form-group select.height-11, #section-info-4 .group .group-items-register .form-group input.height-11, #section-info-4 .group .group-items-register .form-group select.height-11, #section-info-5 .group .group-items-register .form-group input.height-11, #section-info-5 .group .group-items-register .form-group select.height-11,
+        #section-info-6 .group .group-items-register .form-group input.height-11,
+        #section-info-6 .group .group-items-register .form-group select.height-11, #section-info-7 .group .group-items-register .form-group input.height-11, #section-info-7 .group .group-items-register .form-group select.height-11,
+        #section-info-9 .group .group-items-register .form-group input.height-11,
+        #section-info-9 .group .group-items-register .form-group select.height-11, #section-info-10 .group .group-items-register .form-group input.height-11, #section-info-10 .group .group-items-register .form-group select.height-11,
+        #section-info-11 .group .group-items-register .form-group input.height-11,
+        #section-info-11 .group .group-items-register .form-group select.height-11, #section-info-12 .group .group-items-register .form-group input.height-11, #section-info-12 .group .group-items-register .form-group select.height-11,
+        #section-info-13 .group .group-items-register .form-group input.height-11,
+        #section-info-13 .group .group-items-register .form-group select.height-11 {
+          height: 11px; }
+      #section-info-123 .group .group-items-register .form-group i.fas, #section-info-4 .group .group-items-register .form-group i.fas, #section-info-5 .group .group-items-register .form-group i.fas,
+      #section-info-6 .group .group-items-register .form-group i.fas, #section-info-7 .group .group-items-register .form-group i.fas,
+      #section-info-9 .group .group-items-register .form-group i.fas, #section-info-10 .group .group-items-register .form-group i.fas,
+      #section-info-11 .group .group-items-register .form-group i.fas, #section-info-12 .group .group-items-register .form-group i.fas,
+      #section-info-13 .group .group-items-register .form-group i.fas {
+        margin-left: 5px; }
+        #section-info-123 .group .group-items-register .form-group i.fas.fa-male, #section-info-4 .group .group-items-register .form-group i.fas.fa-male, #section-info-5 .group .group-items-register .form-group i.fas.fa-male,
+        #section-info-6 .group .group-items-register .form-group i.fas.fa-male, #section-info-7 .group .group-items-register .form-group i.fas.fa-male,
+        #section-info-9 .group .group-items-register .form-group i.fas.fa-male, #section-info-10 .group .group-items-register .form-group i.fas.fa-male,
+        #section-info-11 .group .group-items-register .form-group i.fas.fa-male, #section-info-12 .group .group-items-register .form-group i.fas.fa-male,
+        #section-info-13 .group .group-items-register .form-group i.fas.fa-male {
+          color: #307be7; }
+        #section-info-123 .group .group-items-register .form-group i.fas.fa-female, #section-info-4 .group .group-items-register .form-group i.fas.fa-female, #section-info-5 .group .group-items-register .form-group i.fas.fa-female,
+        #section-info-6 .group .group-items-register .form-group i.fas.fa-female, #section-info-7 .group .group-items-register .form-group i.fas.fa-female,
+        #section-info-9 .group .group-items-register .form-group i.fas.fa-female, #section-info-10 .group .group-items-register .form-group i.fas.fa-female,
+        #section-info-11 .group .group-items-register .form-group i.fas.fa-female, #section-info-12 .group .group-items-register .form-group i.fas.fa-female,
+        #section-info-13 .group .group-items-register .form-group i.fas.fa-female {
+          color: #fd86bb; }
+    #section-info-123 .group .group-items-register .form-check, #section-info-4 .group .group-items-register .form-check, #section-info-5 .group .group-items-register .form-check,
+    #section-info-6 .group .group-items-register .form-check, #section-info-7 .group .group-items-register .form-check,
+    #section-info-9 .group .group-items-register .form-check, #section-info-10 .group .group-items-register .form-check,
+    #section-info-11 .group .group-items-register .form-check, #section-info-12 .group .group-items-register .form-check,
+    #section-info-13 .group .group-items-register .form-check {
+      margin-top: 10px;
+      margin-bottom: 10px; }
+      #section-info-123 .group .group-items-register .form-check label, #section-info-4 .group .group-items-register .form-check label, #section-info-5 .group .group-items-register .form-check label,
+      #section-info-6 .group .group-items-register .form-check label, #section-info-7 .group .group-items-register .form-check label,
+      #section-info-9 .group .group-items-register .form-check label, #section-info-10 .group .group-items-register .form-check label,
+      #section-info-11 .group .group-items-register .form-check label, #section-info-12 .group .group-items-register .form-check label,
+      #section-info-13 .group .group-items-register .form-check label {
+        font-size: 14px; }
+        #section-info-123 .group .group-items-register .form-check label:hover, #section-info-123 .group .group-items-register .form-check label:focus, #section-info-4 .group .group-items-register .form-check label:hover, #section-info-4 .group .group-items-register .form-check label:focus, #section-info-5 .group .group-items-register .form-check label:hover, #section-info-5 .group .group-items-register .form-check label:focus,
+        #section-info-6 .group .group-items-register .form-check label:hover,
+        #section-info-6 .group .group-items-register .form-check label:focus, #section-info-7 .group .group-items-register .form-check label:hover, #section-info-7 .group .group-items-register .form-check label:focus,
+        #section-info-9 .group .group-items-register .form-check label:hover,
+        #section-info-9 .group .group-items-register .form-check label:focus, #section-info-10 .group .group-items-register .form-check label:hover, #section-info-10 .group .group-items-register .form-check label:focus,
+        #section-info-11 .group .group-items-register .form-check label:hover,
+        #section-info-11 .group .group-items-register .form-check label:focus, #section-info-12 .group .group-items-register .form-check label:hover, #section-info-12 .group .group-items-register .form-check label:focus,
+        #section-info-13 .group .group-items-register .form-check label:hover,
+        #section-info-13 .group .group-items-register .form-check label:focus {
+          outline: none !important; }
+          #section-info-123 .group .group-items-register .form-check label:hover input, #section-info-123 .group .group-items-register .form-check label:focus input, #section-info-4 .group .group-items-register .form-check label:hover input, #section-info-4 .group .group-items-register .form-check label:focus input, #section-info-5 .group .group-items-register .form-check label:hover input, #section-info-5 .group .group-items-register .form-check label:focus input,
+          #section-info-6 .group .group-items-register .form-check label:hover input,
+          #section-info-6 .group .group-items-register .form-check label:focus input, #section-info-7 .group .group-items-register .form-check label:hover input, #section-info-7 .group .group-items-register .form-check label:focus input,
+          #section-info-9 .group .group-items-register .form-check label:hover input,
+          #section-info-9 .group .group-items-register .form-check label:focus input, #section-info-10 .group .group-items-register .form-check label:hover input, #section-info-10 .group .group-items-register .form-check label:focus input,
+          #section-info-11 .group .group-items-register .form-check label:hover input,
+          #section-info-11 .group .group-items-register .form-check label:focus input, #section-info-12 .group .group-items-register .form-check label:hover input, #section-info-12 .group .group-items-register .form-check label:focus input,
+          #section-info-13 .group .group-items-register .form-check label:hover input,
+          #section-info-13 .group .group-items-register .form-check label:focus input {
+            outline: none !important; }
+    #section-info-123 .group .group-items-register .group-results, #section-info-4 .group .group-items-register .group-results, #section-info-5 .group .group-items-register .group-results,
+    #section-info-6 .group .group-items-register .group-results, #section-info-7 .group .group-items-register .group-results,
+    #section-info-9 .group .group-items-register .group-results, #section-info-10 .group .group-items-register .group-results,
+    #section-info-11 .group .group-items-register .group-results, #section-info-12 .group .group-items-register .group-results,
+    #section-info-13 .group .group-items-register .group-results {
+      border: 1px solid #cdd8ea;
+      padding: 30px 20px;
+      padding-bottom: 0;
+      cursor: pointer;
+      transition: all .3s ease-out;
+      margin-bottom: 30px;
+      position: relative; 
+      border-radius: 3px;
+
+    }
+      #section-info-123 .group .group-items-register .group-results.group-results-13, #section-info-4 .group .group-items-register .group-results.group-results-13, #section-info-5 .group .group-items-register .group-results.group-results-13,
+      #section-info-6 .group .group-items-register .group-results.group-results-13, #section-info-7 .group .group-items-register .group-results.group-results-13,
+      #section-info-9 .group .group-items-register .group-results.group-results-13, #section-info-10 .group .group-items-register .group-results.group-results-13,
+      #section-info-11 .group .group-items-register .group-results.group-results-13, #section-info-12 .group .group-items-register .group-results.group-results-13,
+      #section-info-13 .group .group-items-register .group-results.group-results-13 {
+        padding-top: 20px;
+        padding-bottom: 20px; }
+
+        #section-info-13 .group .group-items-register .group-results.group-results-13 .choose-profile-active,
+        #section-info-123 .group .group-items-register .group-results.group-results-13 .choose-profile-active{
+          color: #696969;
+            position: absolute;
+            top: 18px;
+            right: 18px;
+        }  
+        #section-info-13 .group .group-items-register .group-results.group-results-13 .choose-profile-active span,
+        #section-info-123 .group .group-items-register .group-results.group-results-13 .choose-profile-active span{
+          margin-left: 5px;
+          font-weight: 300;
+          text-transform: capitalize;
+        }
+      #section-info-123 .group .group-items-register .group-results i, #section-info-4 .group .group-items-register .group-results i, #section-info-5 .group .group-items-register .group-results i,
+      #section-info-6 .group .group-items-register .group-results i, #section-info-7 .group .group-items-register .group-results i,
+      #section-info-9 .group .group-items-register .group-results i, #section-info-10 .group .group-items-register .group-results i,
+      #section-info-11 .group .group-items-register .group-results i, #section-info-12 .group .group-items-register .group-results i  {
+        color: #307be7;
+        opacity: 0;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        transition: all .3s ease;
+        font-size: 20px;
+       }
+        #section-info-123 .group .group-items-register .group-results i {
+          top: 2px;
+          right: 41px;
+          font-size: 16px;
+        }
+      @media screen and (max-width: 991px) {
+        #section-info-123 .group .group-items-register .group-results, #section-info-4 .group .group-items-register .group-results, #section-info-5 .group .group-items-register .group-results,
+        #section-info-6 .group .group-items-register .group-results, #section-info-7 .group .group-items-register .group-results,
+        #section-info-9 .group .group-items-register .group-results, #section-info-10 .group .group-items-register .group-results,
+        #section-info-11 .group .group-items-register .group-results, #section-info-12 .group .group-items-register .group-results,
+        #section-info-13 .group .group-items-register .group-results {
+          -webkit-flex-direction: column;
+              -ms-flex-direction: column;
+                  flex-direction: column; } }
+      #section-info-123 .group .group-items-register .group-results:hover,
+      #section-info-123 .group .group-items-register .group-results:focus,
+      #section-info-123 .group .group-items-register .group-results.active, #section-info-4 .group .group-items-register .group-results:hover, #section-info-4 .group .group-items-register .group-results:focus, #section-info-4 .group .group-items-register .group-results.active, #section-info-5 .group .group-items-register .group-results:hover, #section-info-5 .group .group-items-register .group-results:focus, #section-info-5 .group .group-items-register .group-results.active,
+      #section-info-6 .group .group-items-register .group-results:hover,
+      #section-info-6 .group .group-items-register .group-results:focus,
+      #section-info-6 .group .group-items-register .group-results.active, #section-info-7 .group .group-items-register .group-results:hover, #section-info-7 .group .group-items-register .group-results:focus, #section-info-7 .group .group-items-register .group-results.active,
+      #section-info-9 .group .group-items-register .group-results:hover,
+      #section-info-9 .group .group-items-register .group-results:focus,
+      #section-info-9 .group .group-items-register .group-results.active, #section-info-10 .group .group-items-register .group-results:hover, #section-info-10 .group .group-items-register .group-results:focus, #section-info-10 .group .group-items-register .group-results.active,
+      #section-info-11 .group .group-items-register .group-results:hover,
+      #section-info-11 .group .group-items-register .group-results:focus,
+      #section-info-11 .group .group-items-register .group-results.active, #section-info-12 .group .group-items-register .group-results:hover, #section-info-12 .group .group-items-register .group-results:focus, #section-info-12 .group .group-items-register .group-results.active,
+      #section-info-13 .group .group-items-register .group-results:hover,
+      #section-info-13 .group .group-items-register .group-results:focus,
+      #section-info-13 .group .group-items-register .group-results.active {
+        border-color: #307be7; }
+/* custom choose profile - Trung Nguyen (08/05/2018) */
+        #section-info-13 .group .group-items-register .group-results:focus > .gr.gr-info .gr-name,
+        #section-info-13 .group .group-items-register .group-results.active > .gr.gr-info .gr-name,
+        #section-info-123 .group .group-items-register .group-results.active > .gr.gr-info .gr-name,
+        #section-info-123 .group .group-items-register .group-results:focus > .gr.gr-info .gr-name{
+          color: #307be7;
+        }
+
+#section-info-13 .group .group-items-register .group-results:hover ,
+#section-info-13 .group .group-items-register .group-results:focus,
+#section-info-13 .group .group-items-register .group-results.active,
+#section-info-123 .group .group-items-register .group-results:hover ,
+#section-info-123 .group .group-items-register .group-results:focus,
+#section-info-123 .group .group-items-register .group-results.active {
+    border: 1px dashed #307be7;
+    transition: all .3s ease-out;
+    position: relative;
+}
+
+#section-info-123 .group .group-items-register .form-group .alert {
+  font-size: 12px;
+  padding: .35rem .55rem;
+
+}
+#section-info-123 .group .group-items-register .form-group button {
+          width: 100%;
+          margin-top: 20px;
+        }
+          #section-info-123 .group .group-items-register .form-group button:hover {
+          transition: all .3s ease;
+          }
+          #section-info-13 button {
+            width: 100%;
+          }
+          #section-info-13 .group .group-items-register .group-results.active .choose-profile-active {
+              display: inline;
+              color: #307be7;
+              background: transparent;
+              border: 1px solid #307be7;
+              padding: 4px 13px 3px;
+              border-radius: 27px;
+              transition: all .3s ease-out;
+          }  
+          
+/* custom choose profile - Trung Nguyen */              
+      #section-info-123 .group .group-items-register .group-results.active i, #section-info-4 .group .group-items-register .group-results.active i, #section-info-5 .group .group-items-register .group-results.active i,
+      #section-info-6 .group .group-items-register .group-results.active i, #section-info-7 .group .group-items-register .group-results.active i,
+      #section-info-9 .group .group-items-register .group-results.active i, #section-info-10 .group .group-items-register .group-results.active i,
+      #section-info-11 .group .group-items-register .group-results.active i, #section-info-12 .group .group-items-register .group-results.active i,
+      #section-info-13 .group .group-items-register .group-results.active i {
+        opacity: 1; }
+      #section-info-123 .group .group-items-register .group-results .gr, #section-info-4 .group .group-items-register .group-results .gr, #section-info-5 .group .group-items-register .group-results .gr,
+      #section-info-6 .group .group-items-register .group-results .gr, #section-info-7 .group .group-items-register .group-results .gr,
+      #section-info-9 .group .group-items-register .group-results .gr, #section-info-10 .group .group-items-register .group-results .gr,
+      #section-info-11 .group .group-items-register .group-results .gr, #section-info-12 .group .group-items-register .group-results .gr,
+      #section-info-13 .group .group-items-register .group-results .gr {
+        height: 100%; }
+        #section-info-123 .group .group-items-register .group-results .gr.gr-user, #section-info-4 .group .group-items-register .group-results .gr.gr-user, #section-info-5 .group .group-items-register .group-results .gr.gr-user,
+        #section-info-6 .group .group-items-register .group-results .gr.gr-user, #section-info-7 .group .group-items-register .group-results .gr.gr-user,
+        #section-info-9 .group .group-items-register .group-results .gr.gr-user, #section-info-10 .group .group-items-register .group-results .gr.gr-user,
+        #section-info-11 .group .group-items-register .group-results .gr.gr-user, #section-info-12 .group .group-items-register .group-results .gr.gr-user,
+        #section-info-13 .group .group-items-register .group-results .gr.gr-user {
+          margin-right: 20px; }
+          @media screen and (max-width: 991px) {
+            #section-info-123 .group .group-items-register .group-results .gr.gr-user, #section-info-4 .group .group-items-register .group-results .gr.gr-user, #section-info-5 .group .group-items-register .group-results .gr.gr-user,
+            #section-info-6 .group .group-items-register .group-results .gr.gr-user, #section-info-7 .group .group-items-register .group-results .gr.gr-user,
+            #section-info-9 .group .group-items-register .group-results .gr.gr-user, #section-info-10 .group .group-items-register .group-results .gr.gr-user,
+            #section-info-11 .group .group-items-register .group-results .gr.gr-user, #section-info-12 .group .group-items-register .group-results .gr.gr-user,
+            #section-info-13 .group .group-items-register .group-results .gr.gr-user {
+              margin-right: 0;
+              margin-bottom: 20px; } }
+        #section-info-123 .group .group-items-register .group-results .gr.gr-info, #section-info-4 .group .group-items-register .group-results .gr.gr-info, #section-info-5 .group .group-items-register .group-results .gr.gr-info,
+        #section-info-6 .group .group-items-register .group-results .gr.gr-info, #section-info-7 .group .group-items-register .group-results .gr.gr-info,
+        #section-info-9 .group .group-items-register .group-results .gr.gr-info, #section-info-10 .group .group-items-register .group-results .gr.gr-info,
+        #section-info-11 .group .group-items-register .group-results .gr.gr-info, #section-info-12 .group .group-items-register .group-results .gr.gr-info,
+        #section-info-13 .group .group-items-register .group-results .gr.gr-info {
+          width: 100%; }
+          #section-info-123 .group .group-items-register .group-results .gr.gr-info .gr-name, #section-info-4 .group .group-items-register .group-results .gr.gr-info .gr-name, #section-info-5 .group .group-items-register .group-results .gr.gr-info .gr-name,
+          #section-info-6 .group .group-items-register .group-results .gr.gr-info .gr-name, #section-info-7 .group .group-items-register .group-results .gr.gr-info .gr-name,
+          #section-info-9 .group .group-items-register .group-results .gr.gr-info .gr-name, #section-info-10 .group .group-items-register .group-results .gr.gr-info .gr-name,
+          #section-info-11 .group .group-items-register .group-results .gr.gr-info .gr-name, #section-info-12 .group .group-items-register .group-results .gr.gr-info .gr-name,
+          #section-info-13 .group .group-items-register .group-results .gr.gr-info .gr-name {
+            font-size: 14px;
+            color: #4d4d4d;
+            margin-bottom: 10px;
+            font-weight: bold;
+            text-transform: uppercase;
+           }
+          #section-info-123 .group .group-items-register .group-results .gr.gr-info .gr-name-1, #section-info-4 .group .group-items-register .group-results .gr.gr-info .gr-name-1, #section-info-5 .group .group-items-register .group-results .gr.gr-info .gr-name-1,
+          #section-info-6 .group .group-items-register .group-results .gr.gr-info .gr-name-1, #section-info-7 .group .group-items-register .group-results .gr.gr-info .gr-name-1,
+          #section-info-9 .group .group-items-register .group-results .gr.gr-info .gr-name-1, #section-info-10 .group .group-items-register .group-results .gr.gr-info .gr-name-1,
+          #section-info-11 .group .group-items-register .group-results .gr.gr-info .gr-name-1, #section-info-12 .group .group-items-register .group-results .gr.gr-info .gr-name-1,
+          #section-info-13 .group .group-items-register .group-results .gr.gr-info .gr-name-1 {
+            font-size: 13px;
+            color: #696969;
+            margin-bottom: 10px; }
+          #section-info-123 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0, #section-info-4 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0, #section-info-5 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0,
+          #section-info-6 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0, #section-info-7 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0,
+          #section-info-9 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0, #section-info-10 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0,
+          #section-info-11 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0, #section-info-12 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0,
+          #section-info-13 .group .group-items-register .group-results .gr.gr-info .mg-bottom-0 {
+            margin-bottom: 0; }
+          #section-info-123 .group .group-items-register .group-results .gr.gr-info ul, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul,
+          #section-info-6 .group .group-items-register .group-results .gr.gr-info ul, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul,
+          #section-info-9 .group .group-items-register .group-results .gr.gr-info ul, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul,
+          #section-info-11 .group .group-items-register .group-results .gr.gr-info ul, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul,
+          #section-info-13 .group .group-items-register .group-results .gr.gr-info ul {
+            padding-left: 0;
+            list-style-type: none;
+            -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                    flex-wrap: wrap;
+            height: 100%; }
+            #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li,
+            #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li,
+            #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li,
+            #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li,
+            #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li {
+              color: #696969;
+              font-size: 13px;
+              margin-bottom: 0;
+              position: relative;
+              padding-left: 30px;
+              width: 20%;
+              margin-bottom: 15px; }
+              @media screen and (min-width: 992px) {
+                #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3), #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6), #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3), #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6), #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3), #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6),
+                #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3),
+                #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6), #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3), #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6),
+                #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3),
+                #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6), #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3), #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6),
+                #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3),
+                #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6), #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3), #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6),
+                #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(3),
+                #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li:nth-child(6) {
+                  width: 60%; } }
+              @media screen and (max-width: 991px) {
+                #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li {
+                  width: 50%; } }
+              @media screen and (max-width: 599px) {
+                #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li,
+                #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li {
+                  width: 100%; } }
+              #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before,
+              #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before,
+              #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before,
+              #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before,
+              #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li.gr-phone:before {
+                content: '';
+                background: url("../images/icons/phone1.svg") no-repeat center;
+                width: 17px;
+                height: 13px;
+                position: absolute;
+                top: 0px;
+                left: 0; }
+              #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before,
+              #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before,
+              #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before,
+              #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before,
+              #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li.gr-sex:before {
+                content: '';
+                background: url("../images/icons/sex.svg") no-repeat center;
+                width: 17px;
+                height: 13px;
+                position: absolute;
+                top: 2px;
+                left: 0; }
+              #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before,
+              #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before,
+              #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before,
+              #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before,
+              #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li.gr-email:before {
+                content: '';
+                background: url("../images/icons/email1.svg") no-repeat center;
+                width: 17px;
+                height: 13px;
+                position: absolute;
+                top: 1px;
+                left: 0; }
+              #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before,
+              #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before,
+              #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before,
+              #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before,
+              #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li.gr-job:before {
+                content: '';
+                background: url("../images/icons/build.svg") no-repeat center;
+                width: 17px;
+                height: 13px;
+                position: absolute;
+                top: 0px;
+                left: 0; }
+              #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before,
+              #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before,
+              #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before,
+              #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before,
+              #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li.gr-birthday:before {
+                content: '';
+                background: url("../images/icons/calendar1.svg") no-repeat center;
+                width: 17px;
+                height: 13px;
+                position: absolute;
+                top: 1px;
+                left: 0; }
+              #section-info-123 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before, #section-info-4 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before, #section-info-5 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before,
+              #section-info-6 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before, #section-info-7 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before,
+              #section-info-9 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before, #section-info-10 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before,
+              #section-info-11 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before, #section-info-12 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before,
+              #section-info-13 .group .group-items-register .group-results .gr.gr-info ul li.gr-address:before {
+                content: '';
+                background: url("../images/icons/location.svg") no-repeat center;
+                width: 17px;
+                height: 13px;
+                position: absolute;
+                top: 2px;
+                left: 0; }
+  #section-info-123 .left-columns .leftc-name, #section-info-4 .left-columns .leftc-name, #section-info-5 .left-columns .leftc-name,
+  #section-info-6 .left-columns .leftc-name, #section-info-7 .left-columns .leftc-name,
+  #section-info-9 .left-columns .leftc-name, #section-info-10 .left-columns .leftc-name,
+  #section-info-11 .left-columns .leftc-name, #section-info-12 .left-columns .leftc-name,
+  #section-info-13 .left-columns .leftc-name {
+    font-size: 14px;
+    margin-bottom: 20px; }
+    #section-info-123 .left-columns .leftc-name a, #section-info-4 .left-columns .leftc-name a, #section-info-5 .left-columns .leftc-name a,
+    #section-info-6 .left-columns .leftc-name a, #section-info-7 .left-columns .leftc-name a,
+    #section-info-9 .left-columns .leftc-name a, #section-info-10 .left-columns .leftc-name a,
+    #section-info-11 .left-columns .leftc-name a, #section-info-12 .left-columns .leftc-name a,
+    #section-info-13 .left-columns .leftc-name a {
+      font-weight: bold;
+      color: #4d4d4d;
+      transition: all .2s ease;
+      margin-left: 5px; }
+      #section-info-123 .left-columns .leftc-name a:hover, #section-info-123 .left-columns .leftc-name a:focus, #section-info-4 .left-columns .leftc-name a:hover, #section-info-4 .left-columns .leftc-name a:focus, #section-info-5 .left-columns .leftc-name a:hover, #section-info-5 .left-columns .leftc-name a:focus,
+      #section-info-6 .left-columns .leftc-name a:hover,
+      #section-info-6 .left-columns .leftc-name a:focus, #section-info-7 .left-columns .leftc-name a:hover, #section-info-7 .left-columns .leftc-name a:focus,
+      #section-info-9 .left-columns .leftc-name a:hover,
+      #section-info-9 .left-columns .leftc-name a:focus, #section-info-10 .left-columns .leftc-name a:hover, #section-info-10 .left-columns .leftc-name a:focus,
+      #section-info-11 .left-columns .leftc-name a:hover,
+      #section-info-11 .left-columns .leftc-name a:focus, #section-info-12 .left-columns .leftc-name a:hover, #section-info-12 .left-columns .leftc-name a:focus,
+      #section-info-13 .left-columns .leftc-name a:hover,
+      #section-info-13 .left-columns .leftc-name a:focus {
+        color: #307be7; }
+  #section-info-123 .left-columns .leftc-menu a, #section-info-4 .left-columns .leftc-menu a, #section-info-5 .left-columns .leftc-menu a,
+  #section-info-6 .left-columns .leftc-menu a, #section-info-7 .left-columns .leftc-menu a,
+  #section-info-9 .left-columns .leftc-menu a, #section-info-10 .left-columns .leftc-menu a,
+  #section-info-11 .left-columns .leftc-menu a, #section-info-12 .left-columns .leftc-menu a,
+  #section-info-13 .left-columns .leftc-menu a {
+    font-size: 15px;
+    color: #4d4d4d;
+    transition: all .2s ease;
+    padding: 10px 33px;
+    display: flex;
+    margin-bottom: 10px;
+    position: relative;
+    overflow: hidden; }
+    #section-info-123 .left-columns .leftc-menu a:hover, #section-info-123 .left-columns .leftc-menu a:focus, #section-info-123 .left-columns .leftc-menu a.active, #section-info-4 .left-columns .leftc-menu a:hover, #section-info-4 .left-columns .leftc-menu a:focus, #section-info-4 .left-columns .leftc-menu a.active, #section-info-5 .left-columns .leftc-menu a:hover, #section-info-5 .left-columns .leftc-menu a:focus, #section-info-5 .left-columns .leftc-menu a.active,
+    #section-info-6 .left-columns .leftc-menu a:hover,
+    #section-info-6 .left-columns .leftc-menu a:focus,
+    #section-info-6 .left-columns .leftc-menu a.active, #section-info-7 .left-columns .leftc-menu a:hover, #section-info-7 .left-columns .leftc-menu a:focus, #section-info-7 .left-columns .leftc-menu a.active,
+    #section-info-9 .left-columns .leftc-menu a:hover,
+    #section-info-9 .left-columns .leftc-menu a:focus,
+    #section-info-9 .left-columns .leftc-menu a.active, #section-info-10 .left-columns .leftc-menu a:hover, #section-info-10 .left-columns .leftc-menu a:focus, #section-info-10 .left-columns .leftc-menu a.active,
+    #section-info-11 .left-columns .leftc-menu a:hover,
+    #section-info-11 .left-columns .leftc-menu a:focus,
+    #section-info-11 .left-columns .leftc-menu a.active, #section-info-12 .left-columns .leftc-menu a:hover, #section-info-12 .left-columns .leftc-menu a:focus, #section-info-12 .left-columns .leftc-menu a.active,
+    #section-info-13 .left-columns .leftc-menu a:hover,
+    #section-info-13 .left-columns .leftc-menu a:focus,
+    #section-info-13 .left-columns .leftc-menu a.active,
+    #section-info-14 .left-columns .leftc-menu a:hover,
+    #section-info-14 .left-columns .leftc-menu a:focus,
+    #section-info-14 .left-columns .leftc-menu a.active  {
+      background: #e4e7eb;
+      color: #307be7; }
+      
+      #section-info-123 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-123 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-123 .left-columns .leftc-menu a.active i.fa-angle-right, #section-info-4 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-4 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-4 .left-columns .leftc-menu a.active i.fa-angle-right, #section-info-5 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-5 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-5 .left-columns .leftc-menu a.active i.fa-angle-right,
+      #section-info-6 .left-columns .leftc-menu a:hover i.fa-angle-right,
+      #section-info-6 .left-columns .leftc-menu a:focus i.fa-angle-right,
+      #section-info-6 .left-columns .leftc-menu a.active i.fa-angle-right, #section-info-7 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-7 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-7 .left-columns .leftc-menu a.active i.fa-angle-right,
+      #section-info-9 .left-columns .leftc-menu a:hover i.fa-angle-right,
+      #section-info-9 .left-columns .leftc-menu a:focus i.fa-angle-right,
+      #section-info-9 .left-columns .leftc-menu a.active i.fa-angle-right, 
+      #section-info-10 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-10 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-10 .left-columns .leftc-menu a.active i.fa-angle-right,
+      #section-info-11 .left-columns .leftc-menu a:hover i.fa-angle-right,
+      #section-info-11 .left-columns .leftc-menu a:focus i.fa-angle-right,
+      #section-info-11 .left-columns .leftc-menu a.active i.fa-angle-right, #section-info-12 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-12 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-12 .left-columns .leftc-menu a.active i.fa-angle-right,
+      #section-info-13 .left-columns .leftc-menu a:hover i.fa-angle-right,
+      #section-info-13 .left-columns .leftc-menu a:focus i.fa-angle-right,
+      #section-info-13 .left-columns .leftc-menu a.active i.fa-angle-right,
+      #section-info-14 .left-columns .leftc-menu a:hover i.fa-angle-right,
+      #section-info-14 .left-columns .leftc-menu a:focus i.fa-angle-right,
+      #section-info-14 .left-columns .leftc-menu a.active i.fa-angle-right{
+        -webkit-transform: translateX(0);
+                transform: translateX(0);
+      color:#307be7 }
+    #section-info-123 .left-columns .leftc-menu a i.fa-angle-right, #section-info-4 .left-columns .leftc-menu a i.fa-angle-right, #section-info-5 .left-columns .leftc-menu a i.fa-angle-right,
+    #section-info-6 .left-columns .leftc-menu a i.fa-angle-right, #section-info-7 .left-columns .leftc-menu a i.fa-angle-right,
+    #section-info-9 .left-columns .leftc-menu a i.fa-angle-right, #section-info-10 .left-columns .leftc-menu a i.fa-angle-right,
+    #section-info-11 .left-columns .leftc-menu a i.fa-angle-right, #section-info-12 .left-columns .leftc-menu a i.fa-angle-right,
+    #section-info-13 .left-columns .leftc-menu a i.fa-angle-right {
+      width: 13px;
+      height: 15px;
+      position: absolute;
+      top: 50%;
+      margin-top: -8px;
+      right: 10px;
+      transition: all .2s ease;
+      -webkit-transform: translateX(30px);
+              transform: translateX(30px); }
+
+
+    #section-info-14 .left-columns .leftc-menu a:hover i.fa-bell,
+    #section-info-14 .left-columns .leftc-menu a.focus i.fa-bell,
+    #section-info-14 .left-columns .leftc-menu a:hover i.fa-address-book,
+    #section-info-14 .left-columns .leftc-menu a.focus i.fa-address-book,
+    #section-info-14 .left-columns .leftc-menu a:hover i.fa-file-medical,
+    #section-info-14 .left-columns .leftc-menu a.focus i.fa-file-medical,
+    #section-info-14 .left-columns .leftc-menu a:hover i.fa-credit-card,
+    #section-info-14 .left-columns .leftc-menu a.focus i.fa-credit-card,
+    #section-info-11 .left-columns .leftc-menu a:hover i.fa-bell,
+    #section-info-11 .left-columns .leftc-menu a.focus i.fa-bell,
+    #section-info-11 .left-columns .leftc-menu a:hover i.fa-address-book,
+    #section-info-11 .left-columns .leftc-menu a.focus i.fa-address-book,
+    #section-info-11 .left-columns .leftc-menu a:hover i.fa-file-medical,
+    #section-info-11 .left-columns .leftc-menu a.focus i.fa-file-medical,
+    #section-info-11 .left-columns .leftc-menu a:hover i.fa-credit-card,
+    #section-info-11 .left-columns .leftc-menu a.focus i.fa-credit-card,
+    #section-info-9 .left-columns .leftc-menu a:hover i.fa-bell,
+    #section-info-9 .left-columns .leftc-menu a.focus i.fa-bell,
+    #section-info-9 .left-columns .leftc-menu a:hover i.fa-address-book,
+    #section-info-9 .left-columns .leftc-menu a.focus i.fa-address-book,
+    #section-info-9 .left-columns .leftc-menu a:hover i.fa-file-medical,
+    #section-info-9 .left-columns .leftc-menu a.focus i.fa-file-medical,
+    #section-info-9 .left-columns .leftc-menu a:hover i.fa-credit-card,
+    #section-info-9 .left-columns .leftc-menu a.focus i.fa-credit-card,
+    #section-info-10 .left-columns .leftc-menu a:hover i.fa-bell,
+    #section-info-10 .left-columns .leftc-menu a.focus i.fa-bell,
+    #section-info-10 .left-columns .leftc-menu a:hover i.fa-address-book,
+    #section-info-10 .left-columns .leftc-menu a.focus i.fa-address-book,
+    #section-info-10 .left-columns .leftc-menu a:hover i.fa-file-medical,
+    #section-info-10 .left-columns .leftc-menu a.focus i.fa-file-medical,
+    #section-info-10 .left-columns .leftc-menu a:hover i.fa-credit-card,
+    #section-info-10 .left-columns .leftc-menu a.focus i.fa-credit-card
+    {
+      color: #307be7;
+    }
+
+    #section-info-123 .left-columns .leftc-menu a i.fa-address-book, 
+    #section-info-123 .left-columns .leftc-menu a i.fa-file-medical, 
+    #section-info-4 .left-columns .leftc-menu a i.fa-address-book, 
+    #section-info-4 .left-columns .leftc-menu a i.fa-file-medical, 
+    #section-info-5 .left-columns .leftc-menu a i.fa-address-book, 
+    #section-info-5 .left-columns .leftc-menu a i.fa-file-medical,
+    #section-info-6 .left-columns .leftc-menu a i.fa-address-book,
+    #section-info-6 .left-columns .leftc-menu a i.fa-file-medical, 
+    #section-info-7 .left-columns .leftc-menu a i.fa-address-book, 
+    #section-info-7 .left-columns .leftc-menu a i.fa-file-medical,
+    #section-info-9 .left-columns .leftc-menu a i.fa-address-book,
+    #section-info-9 .left-columns .leftc-menu a i.fa-file-medical, 
+    #section-info-9 .left-columns .leftc-menu a i.fa-bell,
+    #section-info-9 .left-columns .leftc-menu a i.fa-credit-card,
+    #section-info-10 .left-columns .leftc-menu a i.fa-address-book,
+    #section-info-10 .left-columns .leftc-menu a i.fa-file-medical,
+    #section-info-10 .left-columns .leftc-menu a i.fa-bell,
+    #section-info-10 .left-columns .leftc-menu a i.fa-credit-card,
+    #section-info-11 .left-columns .leftc-menu a i.fa-address-book,
+    #section-info-11 .left-columns .leftc-menu a i.fa-bell,
+    #section-info-11 .left-columns .leftc-menu a i.fa-file-medical, 
+    #section-info-11 .left-columns .leftc-menu a i.fa-credit-card,
+    #section-info-12 .left-columns .leftc-menu a i.fa-address-book, 
+    #section-info-12 .left-columns .leftc-menu a i.fa-file-medical,
+    #section-info-12 .left-columns .leftc-menu a i.fa-bell,
+    #section-info-12 .left-columns .leftc-menu a i.fa-credit-card,
+    #section-info-13 .left-columns .leftc-menu a i.fa-address-book,
+    #section-info-13 .left-columns .leftc-menu a i.fa-file-medical,
+    #section-info-13 .left-columns .leftc-menu a i.fa-bell,
+    #section-info-13 .left-columns .leftc-menu a i.fa-credit-card
+     {
+      width: 13px;
+      height: 15px;
+      position: absolute;
+      top: 50%;
+      margin-top: -8px;
+      left: 10px; }
+#section-info-9 .left-columns .leftc-menu  .leftc-menu-3:hover i.fa-bell,
+#section-info-10 .left-columns .leftc-menu  .leftc-menu-3:hover i.fa-bell,
+#section-info-11 .left-columns .leftc-menu  .leftc-menu-3:hover i.fa-bell,
+#section-info-14 .left-columns .leftc-menu  .leftc-menu-3:hover i.fa-bell{
+  -webkit-animation: ring 1.5s ease;
+  animation: ring 1.5s ease;
+  transition: all .3s ease;
+}
+#section-info-9 .left-columns .leftc-menu .leftc-menu-2:hover i.fa-file-medical,
+#section-info-10 .left-columns .leftc-menu .leftc-menu-2:hover i.fa-file-medical,
+#section-info-11 .left-columns .leftc-menu .leftc-menu-2:hover i.fa-file-medical,
+#section-info-14 .left-columns .leftc-menu .leftc-menu-2:hover i.fa-file-medical {
+  -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+  transition: all .3s ease;
+}
+
+#section-info-9 .left-columns .leftc-menu .leftc-menu-1:hover i.fa-address-book,
+#section-info-10 .left-columns .leftc-menu .leftc-menu-1:hover i.fa-address-book,
+#section-info-11 .left-columns .leftc-menu .leftc-menu-1:hover i.fa-address-book,
+#section-info-14 .left-columns .leftc-menu .leftc-menu-1:hover i.fa-address-book {
+  -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+  transition: all .3s ease;
+}
+
+#section-info-9 .left-columns .leftc-menu .leftc-menu-4:hover i.fa-credit-card,
+#section-info-10 .left-columns .leftc-menu .leftc-menu-4:hover i.fa-credit-card,
+#section-info-11 .left-columns .leftc-menu .leftc-menu-4:hover i.fa-credit-card,
+#section-info-14 .left-columns .leftc-menu .leftc-menu-4:hover i.fa-credit-card {
+  -webkit-animation-duration: 0.75s;
+  animation-duration: 0.75s;
+  -webkit-animation-name: bounceIn;
+  animation-name: bounceIn;
+  transition: all .3s ease;
+}
+
+@-webkit-keyframes bounceIn {
+  from,
+  20%,
+  40%,
+  60%,
+  80%,
+  to {
+    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3);
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  20% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1);
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  40% {
+    -webkit-transform: scale3d(0.9, 0.9, 0.9);
+    transform: scale3d(0.9, 0.9, 0.9);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale3d(1.03, 1.03, 1.03);
+    transform: scale3d(1.03, 1.03, 1.03);
+  }
+
+  80% {
+    -webkit-transform: scale3d(0.97, 0.97, 0.97);
+    transform: scale3d(0.97, 0.97, 0.97);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes bounceIn {
+  from,
+  20%,
+  40%,
+  60%,
+  80%,
+  to {
+    -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(0.3, 0.3, 0.3);
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+
+  20% {
+    -webkit-transform: scale3d(1.1, 1.1, 1.1);
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  40% {
+    -webkit-transform: scale3d(0.9, 0.9, 0.9);
+    transform: scale3d(0.9, 0.9, 0.9);
+  }
+
+  60% {
+    opacity: 1;
+    -webkit-transform: scale3d(1.03, 1.03, 1.03);
+    transform: scale3d(1.03, 1.03, 1.03);
+  }
+
+  80% {
+    -webkit-transform: scale3d(0.97, 0.97, 0.97);
+    transform: scale3d(0.97, 0.97, 0.97);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+  #section-info-123 .group-dashed, #section-info-4 .group-dashed, #section-info-5 .group-dashed,
+  #section-info-6 .group-dashed, #section-info-7 .group-dashed,
+  #section-info-9 .group-dashed, #section-info-10 .group-dashed,
+  #section-info-11 .group-dashed, #section-info-12 .group-dashed,
+  #section-info-13 .group-dashed {
+    padding: 10px 20px;
+    border: 1px dashed #cdd8ea;
+    border-radius: 3px;
+    background: #fff;
+    margin-bottom: 15px;
+    cursor: pointer;
+    transition: all .2s ease;
+    position: relative;
+
+  }
+    #section-info-123 .group-dashed:hover, #section-info-123 .group-dashed:focus, #section-info-4 .group-dashed:hover, #section-info-4 .group-dashed:focus, #section-info-5 .group-dashed:hover, #section-info-5 .group-dashed:focus,
+    #section-info-6 .group-dashed:hover,
+    #section-info-6 .group-dashed:focus, #section-info-7 .group-dashed:hover, #section-info-7 .group-dashed:focus,
+    #section-info-9 .group-dashed:hover,
+    #section-info-9 .group-dashed:focus, #section-info-10 .group-dashed:hover, #section-info-10 .group-dashed:focus,
+    #section-info-11 .group-dashed:hover,
+    #section-info-11 .group-dashed:focus, #section-info-12 .group-dashed:hover, #section-info-12 .group-dashed:focus,
+    #section-info-13 .group-dashed:hover,
+    #section-info-13 .group-dashed:focus {
+      border-color: #307be7; }
+      #section-info-123 .group-dashed:hover div, #section-info-123 .group-dashed:hover i, #section-info-123 .group-dashed:focus div, #section-info-123 .group-dashed:focus i, #section-info-4 .group-dashed:hover div, #section-info-4 .group-dashed:hover i, #section-info-4 .group-dashed:focus div, #section-info-4 .group-dashed:focus i, #section-info-5 .group-dashed:hover div, #section-info-5 .group-dashed:hover i, #section-info-5 .group-dashed:focus div, #section-info-5 .group-dashed:focus i,
+      #section-info-6 .group-dashed:hover div,
+      #section-info-6 .group-dashed:hover i,
+      #section-info-6 .group-dashed:focus div,
+      #section-info-6 .group-dashed:focus i, #section-info-7 .group-dashed:hover div, #section-info-7 .group-dashed:hover i, #section-info-7 .group-dashed:focus div, #section-info-7 .group-dashed:focus i,
+      #section-info-9 .group-dashed:hover div,
+      #section-info-9 .group-dashed:hover i,
+      #section-info-9 .group-dashed:focus div,
+      #section-info-9 .group-dashed:focus i, #section-info-10 .group-dashed:hover div, #section-info-10 .group-dashed:hover i, #section-info-10 .group-dashed:focus div, #section-info-10 .group-dashed:focus i,
+      #section-info-11 .group-dashed:hover div,
+      #section-info-11 .group-dashed:hover i,
+      #section-info-11 .group-dashed:focus div,
+      #section-info-11 .group-dashed:focus i, #section-info-12 .group-dashed:hover div, #section-info-12 .group-dashed:hover i, #section-info-12 .group-dashed:focus div, #section-info-12 .group-dashed:focus i,
+      #section-info-13 .group-dashed:hover div,
+      #section-info-13 .group-dashed:hover i,
+      #section-info-13 .group-dashed:focus div,
+      #section-info-13 .group-dashed:focus i {
+        color: #307be7 !important; }
+    #section-info-123 .group-dashed div, #section-info-4 .group-dashed div, #section-info-5 .group-dashed div,
+    #section-info-6 .group-dashed div, #section-info-7 .group-dashed div,
+    #section-info-9 .group-dashed div, #section-info-10 .group-dashed div,
+    #section-info-11 .group-dashed div, #section-info-12 .group-dashed div,
+    #section-info-13 .group-dashed div {
+      font-size: 14px;
+      position: relative;
+      display: inline-block;
+      transition: all .2s ease; }
+    #section-info-123 .group-dashed.group-dashed-info i, #section-info-4 .group-dashed.group-dashed-info i, #section-info-5 .group-dashed.group-dashed-info i,
+    #section-info-6 .group-dashed.group-dashed-info i, #section-info-7 .group-dashed.group-dashed-info i,
+    #section-info-9 .group-dashed.group-dashed-info i, #section-info-10 .group-dashed.group-dashed-info i,
+    #section-info-11 .group-dashed.group-dashed-info i, #section-info-12 .group-dashed.group-dashed-info i,
+    #section-info-13 .group-dashed.group-dashed-info i {
+      margin-right: 15px;
+      transition: all .2s ease; }
+#section-info-9 .group-dashed.group-dashed-info i,
+#section-info-13 .group-dashed.group-dashed-info i{
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+#section-info-9 .group-dashed,
+#section-info-13 .group-dashed
+{
+  padding: 14px 20px 11px;
+  font-size: 14px;
+}
+    #section-info-123 .group-dashed.group-dashed-info div, #section-info-4 .group-dashed.group-dashed-info div, #section-info-5 .group-dashed.group-dashed-info div,
+    #section-info-6 .group-dashed.group-dashed-info div, #section-info-7 .group-dashed.group-dashed-info div,
+    #section-info-9 .group-dashed.group-dashed-info div, #section-info-10 .group-dashed.group-dashed-info div,
+    #section-info-11 .group-dashed.group-dashed-info div, #section-info-12 .group-dashed.group-dashed-info div,
+    #section-info-13 .group-dashed.group-dashed-info div {
+      color: #696969; }
+      #section-info-123 .group-dashed.group-dashed-info div.gdi-book, #section-info-4 .group-dashed.group-dashed-info div.gdi-book, #section-info-5 .group-dashed.group-dashed-info div.gdi-book,
+      #section-info-6 .group-dashed.group-dashed-info div.gdi-book, #section-info-7 .group-dashed.group-dashed-info div.gdi-book,
+      #section-info-9 .group-dashed.group-dashed-info div.gdi-book, #section-info-10 .group-dashed.group-dashed-info div.gdi-book,
+      #section-info-11 .group-dashed.group-dashed-info div.gdi-book, #section-info-12 .group-dashed.group-dashed-info div.gdi-book,
+      #section-info-13 .group-dashed.group-dashed-info div.gdi-book {
+        color: #696969; }
+    #section-info-123 .group-dashed.group-dashed-success, #section-info-4 .group-dashed.group-dashed-success, #section-info-5 .group-dashed.group-dashed-success,
+    #section-info-6 .group-dashed.group-dashed-success, #section-info-7 .group-dashed.group-dashed-success,
+    #section-info-9 .group-dashed.group-dashed-success, #section-info-10 .group-dashed.group-dashed-success,
+    #section-info-11 .group-dashed.group-dashed-success, #section-info-12 .group-dashed.group-dashed-success,
+    #section-info-13 .group-dashed.group-dashed-success {
+      padding-right: 30px;
+      color: #40b24f;
+      border: 1px solid #40b24f;
+      cursor: default;
+      background: transparent; }
+      #section-info-123 .group-dashed.group-dashed-success:hover, #section-info-123 .group-dashed.group-dashed-success:focus, #section-info-4 .group-dashed.group-dashed-success:hover, #section-info-4 .group-dashed.group-dashed-success:focus, #section-info-5 .group-dashed.group-dashed-success:hover, #section-info-5 .group-dashed.group-dashed-success:focus,
+      #section-info-6 .group-dashed.group-dashed-success:hover,
+      #section-info-6 .group-dashed.group-dashed-success:focus, #section-info-7 .group-dashed.group-dashed-success:hover, #section-info-7 .group-dashed.group-dashed-success:focus,
+      #section-info-9 .group-dashed.group-dashed-success:hover,
+      #section-info-9 .group-dashed.group-dashed-success:focus, #section-info-10 .group-dashed.group-dashed-success:hover, #section-info-10 .group-dashed.group-dashed-success:focus,
+      #section-info-11 .group-dashed.group-dashed-success:hover,
+      #section-info-11 .group-dashed.group-dashed-success:focus, #section-info-12 .group-dashed.group-dashed-success:hover, #section-info-12 .group-dashed.group-dashed-success:focus,
+      #section-info-13 .group-dashed.group-dashed-success:hover,
+      #section-info-13 .group-dashed.group-dashed-success:focus {
+        color: #40b24f !important;
+        background: transparent; }
+        #section-info-123 .group-dashed.group-dashed-success:hover div, #section-info-123 .group-dashed.group-dashed-success:focus div, #section-info-4 .group-dashed.group-dashed-success:hover div, #section-info-4 .group-dashed.group-dashed-success:focus div, #section-info-5 .group-dashed.group-dashed-success:hover div, #section-info-5 .group-dashed.group-dashed-success:focus div,
+        #section-info-6 .group-dashed.group-dashed-success:hover div,
+        #section-info-6 .group-dashed.group-dashed-success:focus div, #section-info-7 .group-dashed.group-dashed-success:hover div, #section-info-7 .group-dashed.group-dashed-success:focus div,
+        #section-info-9 .group-dashed.group-dashed-success:hover div,
+        #section-info-9 .group-dashed.group-dashed-success:focus div, #section-info-10 .group-dashed.group-dashed-success:hover div, #section-info-10 .group-dashed.group-dashed-success:focus div,
+        #section-info-11 .group-dashed.group-dashed-success:hover div,
+        #section-info-11 .group-dashed.group-dashed-success:focus div, #section-info-12 .group-dashed.group-dashed-success:hover div, #section-info-12 .group-dashed.group-dashed-success:focus div,
+        #section-info-13 .group-dashed.group-dashed-success:hover div,
+        #section-info-13 .group-dashed.group-dashed-success:focus div {
+          color: #40b24f !important; }
+        #section-info-123 .group-dashed.group-dashed-success:hover i, #section-info-123 .group-dashed.group-dashed-success:focus i, #section-info-4 .group-dashed.group-dashed-success:hover i, #section-info-4 .group-dashed.group-dashed-success:focus i, #section-info-5 .group-dashed.group-dashed-success:hover i, #section-info-5 .group-dashed.group-dashed-success:focus i,
+        #section-info-6 .group-dashed.group-dashed-success:hover i,
+        #section-info-6 .group-dashed.group-dashed-success:focus i, #section-info-7 .group-dashed.group-dashed-success:hover i, #section-info-7 .group-dashed.group-dashed-success:focus i,
+        #section-info-9 .group-dashed.group-dashed-success:hover i,
+        #section-info-9 .group-dashed.group-dashed-success:focus i, #section-info-10 .group-dashed.group-dashed-success:hover i, #section-info-10 .group-dashed.group-dashed-success:focus i,
+        #section-info-11 .group-dashed.group-dashed-success:hover i,
+        #section-info-11 .group-dashed.group-dashed-success:focus i, #section-info-12 .group-dashed.group-dashed-success:hover i, #section-info-12 .group-dashed.group-dashed-success:focus i,
+        #section-info-13 .group-dashed.group-dashed-success:hover i,
+        #section-info-13 .group-dashed.group-dashed-success:focus i {
+          color: #40b24f !important; }
+      #section-info-123 .group-dashed.group-dashed-success i, #section-info-4 .group-dashed.group-dashed-success i, #section-info-5 .group-dashed.group-dashed-success i,
+      #section-info-6 .group-dashed.group-dashed-success i, #section-info-7 .group-dashed.group-dashed-success i,
+      #section-info-9 .group-dashed.group-dashed-success i, #section-info-10 .group-dashed.group-dashed-success i,
+      #section-info-11 .group-dashed.group-dashed-success i, #section-info-12 .group-dashed.group-dashed-success i,
+      #section-info-13 .group-dashed.group-dashed-success i {
+        margin-right: 5px; }
+      #section-info-123 .group-dashed.group-dashed-success div, #section-info-4 .group-dashed.group-dashed-success div, #section-info-5 .group-dashed.group-dashed-success div,
+      #section-info-6 .group-dashed.group-dashed-success div, #section-info-7 .group-dashed.group-dashed-success div,
+      #section-info-9 .group-dashed.group-dashed-success div, #section-info-10 .group-dashed.group-dashed-success div,
+      #section-info-11 .group-dashed.group-dashed-success div, #section-info-12 .group-dashed.group-dashed-success div,
+      #section-info-13 .group-dashed.group-dashed-success div {
+        color: #40b24f; }
+      #section-info-123 .group-dashed.group-dashed-success .group-dashed-close, #section-info-4 .group-dashed.group-dashed-success .group-dashed-close, #section-info-5 .group-dashed.group-dashed-success .group-dashed-close,
+      #section-info-6 .group-dashed.group-dashed-success .group-dashed-close, #section-info-7 .group-dashed.group-dashed-success .group-dashed-close,
+      #section-info-9 .group-dashed.group-dashed-success .group-dashed-close, #section-info-10 .group-dashed.group-dashed-success .group-dashed-close,
+      #section-info-11 .group-dashed.group-dashed-success .group-dashed-close, #section-info-12 .group-dashed.group-dashed-success .group-dashed-close,
+      #section-info-13 .group-dashed.group-dashed-success .group-dashed-close {
+        color: #40b24f;
+        position: absolute;
+        font-size: 14px;
+        top: 15px;
+        right: 10px;
+        border: none;
+        box-shadow: none;
+        outline: none;
+        background: transparent;
+        transition: all .2s ease;
+        cursor: pointer; }
+
+#section-info-7 hr {
+  margin-bottom: 30px !important; }
+
+#section-info-7 .form-check-label input {
+  margin-top: 5px; }
+
+#section-info-7 .btn.btn-info {
+  margin-top: 30px; }
+  #section-info-14 .left-columns .leftc-name {
+    font-size: 14px;
+    margin-bottom: 20px; }
+    #section-info-14 .left-columns .leftc-name a {
+      font-weight: bold;
+      color: #4d4d4d;
+      transition: all .2s ease;
+      margin-left: 5px; }
+      #section-info-14 .left-columns .leftc-name a:hover, #section-info-14 .left-columns .leftc-name a:focus {
+        color: #307be7; }
+
+  #section-info-14 .left-columns .leftc-menu a {
+    font-size: 15px;
+    color: #4d4d4d;
+    transition: all .2s ease;
+    padding: 10px 33px;
+    display: block;
+    margin-bottom: 10px;
+    position: relative;
+    overflow: hidden; }
+    #section-info-14 .left-columns .leftc-menu a:hover, #section-info-14 .left-columns .leftc-menu a:focus, #section-info-14 .left-columns .leftc-menu a.active {
+      background: #e4e7ec; }
+      #section-info-14 .left-columns .leftc-menu a:hover i.fa-angle-right, #section-info-14 .left-columns .leftc-menu a:focus i.fa-angle-right, #section-info-14 .left-columns .leftc-menu a.active i.fa-angle-right {
+        -webkit-transform: translateX(0);
+                transform: translateX(0); }
+    #section-info-14 .left-columns .leftc-menu a i.fa-angle-right {
+      width: 13px;
+      height: 15px;
+      position: absolute;
+      top: 50%;
+      margin-top: -8px;
+      right: 10px;
+      transition: all .2s ease;
+      -webkit-transform: translateX(30px);
+              transform: translateX(30px); }
+    #section-info-14 .left-columns .leftc-menu a i.fa-address-book,
+    #section-info-14 .left-columns .leftc-menu a i.fa-file-medical,
+    #section-info-14 .left-columns .leftc-menu a i.fa-bell,
+    #section-info-14 .left-columns .leftc-menu a i.fa-credit-card {
+      width: 13px;
+      height: 15px;
+      position: absolute;
+      top: 50%;
+      margin-top: -8px;
+      left: 10px; }
+
+  #section-info-14 .group {
+    border: 1px solid #cdd8ea;
+    background: #fff;
+    padding: 50px 20px;
+    border-radius: 3px;
+    height: auto;
+    transition: all .2s ease;
+    position: relative;
+    margin-bottom: 50px; }
+    #section-info-14 .group.group-files-medical {
+      padding: 30px 0;
+      padding-bottom: 0; }
+      #section-info-14 .group.group-files-medical .gfm-name {
+        color: #307be7;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        padding: 0 20px; }
+      #section-info-14 .group.group-files-medical .table-responsive {
+        position: relative;
+        overflow: auto;
+        margin: 0;
+        margin-bottom: 30px; }
+        #section-info-14 .group.group-files-medical .table-responsive table {
+          border: 10px solid #eceef3; }
+          #section-info-14 .group.group-files-medical .table-responsive table tr {
+            background: transparent; }
+            #section-info-14 .group.group-files-medical .table-responsive table tr td.td-number {
+              font-size: 75px;
+              font-weight: bold;
+              color: #307be7;
+              vertical-align: middle;
+              margin-left: 30px;
+              padding-left: 30px;
+              padding-right: 20px; }
+          #section-info-14 .group.group-files-medical .table-responsive table.no-bor {
+            border: none !important; }
+            @media screen and (max-width: 991px) {
+              #section-info-14 .group.group-files-medical .table-responsive table.no-bor {
+                min-width: 800px; } }
+            #section-info-14 .group.group-files-medical .table-responsive table.no-bor th {
+              border-top: none;
+              border-bottom: 1px solid #cdd8ea;
+              padding: 20px 12px;
+              font-size: 12px;
+              font-weight: bold;
+              color: #4d4d4d;
+              text-align: center; }
+            #section-info-14 .group.group-files-medical .table-responsive table.no-bor tr {
+              background: none; }
+              #section-info-14 .group.group-files-medical .table-responsive table.no-bor tr.active td {
+                opacity: .5; }
+            #section-info-14 .group.group-files-medical .table-responsive table.no-bor td {
+              border-bottom: 1px solid #cdd8ea;
+              padding: 20px 12px;
+              color: #696969;
+              font-size: 13px;
+              text-align: center;
+              transition: all .2s ease; }
+              #section-info-14 .group.group-files-medical .table-responsive table.no-bor td.active {
+                color: #307be7;
+                font-weight: bold; }
+    #section-info-14 .group .bri-profile {
+      padding-left: 42px;
+      padding-right: 20px;
+      padding-bottom: 30px; }
+      @media screen and (max-width: 767px) {
+        #section-info-14 .group .bri-profile {
+          padding: 30px 20px;
+          padding-bottom: 0; } }
+      #section-info-14 .group .bri-profile h4 {
+        color: #307be7;
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 0;
+        margin-right: 10px;
+        padding: 0;
+        width: 100%; }
+        @media screen and (max-width: 767px) {
+          #section-info-14 .group .bri-profile h4 {
+            margin-bottom: 20px;
+            margin-right: 0; } }
+      #section-info-14 .group .bri-profile .form-group {
+        margin-bottom: 0;
+        width: 100%; }
+        #section-info-14 .group .bri-profile .form-group select {
+          height: 42px;
+          font-size: 14px;
+          color: #696969;
+          outline: none; }
+      #section-info-14 .group .bri-profile ul {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+        margin-top: 30px;
+        list-style-type: none;
+        padding-left: 0; }
+        #section-info-14 .group .bri-profile ul li {
+          width: 50%;
+          text-align: left;
+          padding: 0 0 12px 0; }
+          @media screen and (max-width: 767px) {
+            #section-info-14 .group .bri-profile ul li {
+              width: 100%;
+              padding: 0; } }
+          #section-info-14 .group .bri-profile ul li .conf-f {
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #4d4d4d; }
+          #section-info-14 .group .bri-profile ul li .conf-t {
+            font-size: 13px;
+            color: #696969;
+            margin-bottom: 15px; }
+            @media screen and (max-width: 767px) {
+              #section-info-14 .group .bri-profile ul li .conf-t {
+                margin-bottom: 30px; } }
+    #section-info-14 .group .group-btns {
+      padding: 30px;
+      padding-left: 42px;
+      border-top: 1px solid #f3f3f3; }
+      @media screen and (max-width: 767px) {
+        #section-info-14 .group .group-btns {
+          -webkit-flex-direction: column;
+              -ms-flex-direction: column;
+                  flex-direction: column;
+          -webkit-align-items: flex-start;
+              -ms-flex-align: start;
+                  align-items: flex-start; } }
+      #section-info-14 .group .group-btns .btn.btn-default {
+        border-radius: 3px;
+        font-size: 13px;
+        color: #307be7;
+        font-weight: bold;
+        border: 1px solid #307be7;
+        background: transparent;
+        position: relative;
+        padding: 12px 30px;
+        display: inline-block;
+        width: auto;
+        transition: all .3s ease; }
+        #section-info-14 .group .group-btns .btn.btn-default.default-grey {
+          border-color: #a5a5a5;
+          color: #696969;
+          margin-left: 20px; }
+        @media screen and (max-width: 767px) {
+          #section-info-14 .group .group-btns .btn.btn-default {
+            display: block;
+            width: 100%;
+            margin-left: 0;
+            margin-bottom: 20px; } }
+      #section-info-14 .group .group-btns .x-close {
+        font-size: 12px;
+        color: #696969;
+        font-weight: bold; }
+
+ul#dropdown-filter {
+          padding:0 !important;
+          height: auto;
+          width: 100%;
+          -webkit-flex-wrap: wrap;
+              -ms-flex-wrap: wrap;
+                  flex-wrap: wrap;
+          padding-left: 0;
+          list-style-type: none;
+          position: absolute;
+          background: #fff;
+          top: 45px !important;
+          right: 0 !important;
+          left: inherit !important;
+          border: 1px solid #cdd8ea;
+          min-width: 200px;
+          z-index: 9999;
+          -webkit-transform: none !important;
+                  transform: none !important;
+          transition: all .5s ease;
+          opacity: 0;
+          display: -webkit-flex;
+          display: -ms-flexbox;
+          display: flex;
+          visibility: hidden;
+          -webkit-transform: scale(0);
+                  transform: scale(0);
+}
+ul#dropdown-filter li {
+  padding: 15px 0 15px 15px;
+  width: 100%;
+  margin:0 !important;
+}
+ul#dropdown-filter li:hover,
+ul#dropdown-filter li:hover a:link,
+ul#dropdown-filter li:hover a:hover {
+  color: #307be7 !important;
+  transition: all .2s ease;
+}
+
+ul#dropdown-filter li a{
+  display:inline-block !important;
+}
+ul#dropdown-filter li i {
+  margin-right: 10px;
+}
+ul#dropdown-filter li:first-child {
+  border-bottom: 1px solid #cdd8ea;
+}
+ul#dropdown-filter li:last-child {
+  padding-top: 0px;
+}
+/*# sourceMappingURL=logged-steps-14.css.map */
+.group-files-update {
+  border: #e0e6e8 1px solid;
+  margin-bottom: 30px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.group-files-update .tab_header {
+  border-bottom: #e0e6e8 1px solid;
+}
+
+.group-files-update .tab_header .btn_close {
+  float: right;
+}
+
+.group-files-update .tab_header h4,
+#section-info-14 .bri-profile .bri-profile-top h4 {
+  margin: 0;
+  font-size: 16px;
+  display: inline-block;
+  color: #696969;
+}
+.group-files-update .tab_header i,
+.bri-profile .bri-profile-top i {
+  display: inline;
+  font-size: 17px;
+  margin-right: 10px;
+  color: rgb(124, 131, 138);
+}
+
+.group-files-update .form-group label {
+  font-size: 14px;
+  padding-left: 0; 
+  color: #4d4d4d;
+}
+.group-files-update .form-group input {
+  font-size: 14px;
+  vertical-align: middle;
+  border:1px solid #e0e6e8 !important;
+}
+.group-files-update .gfu-name {
+
+}
+.group-files-update .form-group ul li {
+  width: 28%;
+  font-size: 14px;
+  margin-right: 10px;
+  display: inline-block;
+}
+.m-form__group {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.group-files-update select {
+  font-size: 14px;
+}
+.group-files-update .custom_label {
+  font-style: italic;
+  padding: 7px 25px 0;
+}
+
+.table-responsive {
+  position: relative;
+  overflow: auto;
+  margin-bottom: 0px;
+}
+.table-responsive table {margin: 0;padding: 20px;}
+.table-responsive .table-outside {
+  border-top: 9px solid #e0e6e8;
+  border-left: 10px solid #e0e6e8;
+  border-right: 10px solid #e0e6e8;
+  border-bottom: 10px solid #e0e6e8;
+  background: #fff;
+}
+.table-responsive .table-striped tbody tr:nth-of-type(odd) {
+  background: #fff;
+}
+.table-responsive .table-outside .td-number {
+  font-size: 70px;
+  font-weight: 700;
+  color: #307be7;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.table-responsive .table-outside .td-number.delete {
+  color: #c6cace;
+}
+
+.table-responsive .table-outside td table thead th {
+  vertical-align: bottom;
+  border-bottom: 1px solid #e0e6e8;
+  font-size: 12px;
+  color: #696969;
+  text-align: center;
+}
+.table-responsive .table-outside tr td.td-custom {
+  padding: 20px 20px 20px 0px;
+}
+.table-responsive .table-outside tr td table tr td {
+  width: 20%;
+  text-align: center;
+}
+
+#section-info-14 .bri-profile .bri-profile-top {
+  margin-bottom: 30px;
+}
+
+#section-info-14 .bri-profile ul li p {
+  display: inline;
+}
+#section-info-14 .bri-profile .bri-profile ul {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0 0px;
+  margin-top: 42px;
+  list-style-type: none;
+  padding-left: 0; }
+  
+  #section-info-14 .bri-profile ul li {
+  text-align: left;
+  padding: 0 0 20px 0px;
+  display: inline-block;
+  word-wrap: break-word;
+  vertical-align: top;
+}
+
+#section-info-14 .bri-profile ul li .conf-f {
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    color: #696969; 
+  }
+
+#section-info-14 .bri-profile ul li .conf-t {
+      font-size: 14px;
+      margin-bottom: 15px; 
+      font-weight: 300;
+}
+
+#section-info-14 .bri-profile ul li i {
+  margin: 0 15px 0 0;
+  font-size: 14px;
+  color: rgb(124, 131, 138);
+  width: 13px;
+}
+
+#section-info-14 .bri-profile ul li:hover {
+  color: #307be7;
+}
+#section-info-14 .group-btns {
+  padding-left:30px;
+  padding-right:30px;
+  padding-bottom: 30px;
+}
+#section-info-14 .group-btns .btn {
+  margin:10px;
+}
+@media screen and (max-width: 767px) {
+  #section-info-14 .group-btns .btn {
+    margin: 5px;
+    width: 100%;
+
+  }
+  #section-info-11 .card .active-number,
+  #section-info-14 .card .active-number {
+    font-size: 50px;
+    text-align: center;
+    color: #307be7;
+    font-weight: 700;
+  }
+  #section-info-11 .card .col-3,
+  #section-info-14 .card .col-3
+   {
+    padding-right: 0;
+  }
+
+}
+.mar-17{
+  margin-bottom: 17px !important;
+}
+.alertSpan {
+  color: #f62c2c;
+  font-size: 12px;
+  padding: 0 10px;
+  transition: all .3s ease-out;
+}
+.card-hover{
+  cursor: pointer; 
+}
+.card-hover:hover{
+  box-shadow: 0px 0 30px 0 rgba(179, 179, 179, 0.5);
+}
+
+.notify-body {
+  background: #fff;
+}
+
+.nav-tabs .nav-link,
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+  border: 0;
+  position: relative;
+}
+
+.noti-counter {
+  font-weight: 700;
+  padding: 3px 7px;
+  border: 2px #fff solid;
+  border-radius: 60px;
+  background: #f36212;
+  content: attr(data-count);
+  font-size: 9px;
+  color: #fff;
+  margin-left: 10px;
+}
+.notify-body .nav-justified {
+  padding: 10px 0 0;
+  color: #000;
+}
+
+.notify-body .nav-justified .nav-tabs .nav-link {
+    border-bottom: 3px solid transparent;
+    transition: all .3s ease;
+}
+
+.notify-body .nav-justified .nav-link:hover,
+.notify-body .nav-justified .nav-link:focus {
+    color: #307be7 !important;
+    transition: all .3s ease;
+}
+
+.notify-body .nav-justified .nav-tabs .nav-link.active {
+  /*font-weight:bold;*/
+  background-color: transparent;
+  border-bottom:3px solid #307be7;
+  color: #307be7;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  opacity: 1;
+}
+
+nav .num-count {
+  animation-name: scaleCount;
+  animation-iteration-count: 1;
+  animation-timing-function: all;
+  animation-duration: 1s;
+  animation-delay: 0s;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #cdd8ea;
+}
+
+.num-count {
+  display: inline-block;
+  background: #f36212;
+  border-radius: 50%;
+  padding: 3px;
+  text-align: center;
+  z-index: 2;
+  font-weight: 300;
+  width: 8px;
+  height: 8px;
+  margin-left: 5px;
+}
+
+.notify-body .tab-content .tab-header-title {
+  background: #DADFE6;
+  color: #4d4d4d;
+  padding: 5px 20px;
+  font-weight: 700;
+  font-size: 12px;
+  display: flex;
+}
+
+.tab-header-title a:link {
+  color: #365899 !important;
+  cursor: pointer;
+  font-weight: 300;
+}
+
+.notify-body .tab-content ul.list-notifycation {
+
+}
+
+.notify-body .tab-content ul.list-notifycation li {
+  color: #000;
+  border-bottom: 1px dashed #cdd8ea;
+  cursor: pointer;
+  padding:15px 20px;
+  background: #fff;
+    font-weight: 700;
+}
+
+.notify-body .tab-content ul.list-notifycation li:hover,
+ul.list-noti li.dropdown-item .content-noti:hover {
+  background: #f1f4f8;
+  color: #307be7;
+  opacity: 1;
+    transition: all .3s ease;
+}
+ul.list-noti li.dropdown-item .noti-img i {
+  margin: 0;
+  font-size: 16px;
+}
+
+.notify-body .tab-content ul.list-notifycation li.old-noti,
+ul.list-noti li.dropdown-item .content-noti.old {
+    color: #000;
+    font-weight: 300;
+    background: #f7f7f7;
+}
+
+.format_barcode > svg {
+  max-width: 100%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 767px) {
+  .format_barcode > svg {
+    max-width: 100%;
+    overflow: auto;
+  }
+    #section-info-14 .group-files-update .tab_footer .btn {
+        margin-bottom: 10px;
+    }
+    #section-booking-6 .card {
+        border: unset;
+        padding: unset;
+    }
+
+    .card > .row {
+        line-height: 30px;
+    }
+    .card-trash {
+        position: absolute;
+        top: 5px;
+        right: 0px;
+        font-size: 16px;
+        color: #3c3c3c;
+        background: unset;
+        background: #e0e6e8;
+        border: unset;
+        padding-top: 3px;
+    }
+    .card > .card-content-inside i {
+        margin-right: 10px;
+        color: rgb(124, 131, 138);
+    }
+    .card > .card-content-inside .form-check-inline .form-check-input {
+        vertical-align: middle;
+        margin: 0;
+        padding: 0;
+    }
+
+    .form-check-inline {
+        margin: 0 10px;
+        line-height: unset;
+        vertical-align: middle;
+    }
+    .card > .card-content-inside li{
+        margin: 15px 0 0;
+    }
+    .card > .card-content-inside li:last-child {
+        border-bottom: 1px solid #e0e6e8;
+        padding-bottom: 10px;
+    }
+    .card > .card-content-inside  .form-check-label {
+        margin-left: 5px;
+    }
+    #section-booking-6 .booking-right-info .bri-price .btn.btn-default {
+        margin: 0px 0 15px !important;
+    }
+    #section-booking-6 .booking-right-info .bri-price {
+        text-align: center !important;
+    }
+}
+@media screen and (max-width: 480px) {
+    #section-info-123 .group .group-items-register .form-group label {
+        font-size: 13px;
+    }
+    .custom-select {
+        background: unset;
+    }
+    #section-info-7 .group.group-confirm .conf-title {
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    .card > .card-content-inside i {
+        margin-right: 10px;
+        color: rgb(124, 131, 138);
+    }
+
+    .card-trash {
+        top: 12px;
+        position: absolute;
+        right: 2px;
+        font-size: 14px;
+        color: #3c3c3c;
+        background: #eaeff0;
+        border: unset;
+        padding: 5px 10px;
+        border-radius: 2px;
+    }
+
+    .card > .card-content-inside .form-check-inline .form-check-input {
+        vertical-align: middle;
+        margin: 0;
+        padding: 0;
+    }
+    .card > .card-content-inside  .form-check-inline {
+        margin: 0 10px;
+        line-height: unset;
+        vertical-align: middle;
+    }
+    .card > .card-content-inside  .form-check-label {
+        margin-left: 5px;
+        font-size: 12px;
+    }
+    .card > .card-content-inside li {
+        margin: 15px 0 0;
+    }
+    /* .card > .card-content-inside li:first-child {
+      margin-top: 5px;
+    } */
+    .card > .card-content-inside li:last-child {
+        border-bottom: 1px solid #e0e6e8;
+        padding-bottom: 10px;
+    }
+    #section-booking-6 .booking-right-info .bri-price .btn.btn-default {
+        margin: 0px 0 15px !important;
+    }
+}
+#section-info-11 .group.group-files-filter .gff-group ul.drop-choose-user li:last-child {
+  padding-top: 15px;
+}
+#section-info-9,
+#section-info-14,
+#section-info-11 {
+  padding: 20px 0 0;
+}
+.pd-custom-30-7 {
+  padding: 30px 0 7px;
+}
+
+#section-info-123 .group .tab-header .btn {
+    margin: 0 5px;
+  padding: 9px 20px 8px;
+}
+#section-info-123 .group .tab-header .btn:focus {
+  outline: 0;
+}
+
+#section-info-123 .group .tab-header a {
+    display: inline;
+}
+@media screen and (max-width: 767px) {
+  #section-info-123 .group .tab-header .btn {
+    padding: 9px 10px 8px;
+  }
+    #section-info-123 .group {
+        padding: 0 0 20px;
+    }
+}
+
+#section-info-7 .tab_footer .text-verify {
+    background: #cfd3dc;
+    width: 100%;
+    padding: 10px 0 9px;
+    display: block;
+    margin: 15px 0 0px;
+    cursor: default;
+    color: #4d4d4d;
+  font-weight: 700;
+}
+
+h6.title-conf {
+  font-size: 22px;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+.group-taikham {
+  background: #fff;
+  border-radius: 3px;
+  height: auto;
+  transition: all .2s ease;
+  position: relative;
+  width: 100%;
+  padding-bottom: 50px;
+}
+.group-taikham .title-header-blue {
+  padding: 25px 20px 85px;
+  background: #307be7;
+  color: #fff;
+}
+.group-taikham .icon-center {
+  margin-top: -50px;
+}
+.group-taikham .icon-center img {
+  width: 90px;
+}
+
+.group-taikham p.text-small {
+  font-size: 14px;
+}
+.group-taikham .form-xacnhan {
+  padding: 20px 20px 20px;
+    background: #f7f8f9;
+}
+.group-taikham .btn {
+  font-weight: 700;
+  text-transform: unset;
+  padding: 9px 0 8px;
+}
+.group-taikham .btn:hover,
+.group-taikham .btn:focus {
+  transform: translateY(0px);
+}
+
+.group-taikham .btn--rounded-gray {
+  font-weight: normal;
+  border: 0 !important;
+}
+
+.group-taikham .btn.disabled,
+.group-taikham .btn--rounded-gray.disabled {
+  cursor: default;
+}
+.group-taikham .btn--rounded-gray:focus,
+.group-taikham .btn--rounded-blue.disabled:focus {
+  outline: 0;
+  box-shadow: none !important;
+}
+
+.group-taikham .btn--rounded-gray.disabled {
+  opacity: 1;
+}
+.thongbao-taikham > * {
+  font-size: 14px;
+}
+.thongbao-taikham i {
+  margin-right: 10px;
+}
+
+.thongbao-taikham .alert {
+  /* background: #f7f8f9; */
+}
+
+.thongbao-taikham .alert ul {
+  margin: 10px 0 30px;
+  border-top: 1px solid #d9e0ec;
+  padding: 10px 0 0;
+}
+
+.thongbao-taikham .alert ul li {
+  margin: 10px 0;
+}
+
+.group-taikham a.back-to {
+  position: absolute;
+  top: 220px;
+  left: 20px;
+}
+
+
+.border-top {
+  border-top: 1px solid #e3ebf6!important;
+}
+.border-primary {
+  border-color: #2c7be5!important;
+}
+.border-top-2 {
+  border-top-width: 2px!important;
+}
+
+.select-profile-taikham {
+  margin: 5px auto 0;
+}
+
+/* @media (max-width: 767px) {
+  #section-info-123 .group .tab-panel-group .group-items {
+    padding: 0 10px;
+  }
+} */
+
+
+#section-booking-78 .booking-right-payment .CodeOffline {
+  margin: 0px auto;
+  display: block;
+  padding: 20px 0px; 
+}
+
+#section-booking-78 .booking-right-payment .CodeOffline h4 {
+  margin-bottom: 15px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+#section-booking-78 .booking-right-payment .CodeOffline .text_code_info {
+  color: #307be7;
+    display: block;
+    background: #f1f4f6;
+    padding: 15px 0px;
+    border: 1px dashed #307be7;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+#section-booking-78 .booking-right-payment .CodeOffline button {
+  font-size: 12px;
+  padding: 9px 0;
+  font-weight: normal;
+  text-transform: unset;
+  transition: all .3s ease-in-out;
+}
+#section-booking-78 .booking-right-payment .CodeOffline button:hover,
+#section-booking-78 .booking-right-payment .CodeOffline button:focus {
+    transform: none;
+    outline: 0;
+    box-shadow: none;
+}
+#section-booking-78 .booking-right-payment .location_offline {
+  text-align: center;
+}
+#section-booking-78 .booking-right-payment .location_offline i {
+  margin-right: 5px;
+}
+
+#section-booking-78 .booking-right-payment img.img_pay_offline {
+  width: 85%;
+}
+

@@ -1,0 +1,268 @@
+#editor-page-container {
+  margin: 0px 0 30px;
+  font-size: 14px;
+}
+
+#editor-page-container .top-title {
+  font-weight: 700;
+  border-left: 5px solid #307be7;
+  padding-left: 15px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  text-transform: uppercase;
+  color: #4d4d4d;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 767px) {
+  #editor-page-container {
+    padding: 75px 0 0;
+    margin: 0 0 30px;
+  }
+}
+.stackedit {
+  text-align: justify;
+  padding-bottom: 80px;
+}
+
+.stackedit h1 {
+  margin: 0;
+  padding: 0.67em 0;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #398be9;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.stackedit p {
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+#editor-page-container .stackedit-content {
+  border-radius: 3px !important;
+  border: 1px solid #cdd8ea !important;
+  padding: 0 30px 30px 30px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: normal;
+}
+#editor-page-container .stackedit-content .form-row,
+#editor-page-container .stackedit-content .form-group {
+  border: none !important;
+}
+#editor-page-container .stackedit-content {
+  /* border-bottom: 1px dashed #cdd8ea !important; */
+  max-height: 450px;
+  height: auto;
+}
+#editor-page-container .stackedit-content p {
+  margin: 0.6em 0 0.6em 0;
+}
+
+#editor-page-container .stackedit-content h1 {
+  position: relative;
+  margin-top: 0 !important;
+  margin-bottom: 40px;
+}
+
+#editor-page-container .stackedit-content ul,
+#editor-page-container .stackedit-content ol {
+  /*list-style: none;*/
+  padding: 0 20px;
+}
+#editor-page-container .stackedit-content ul {
+  list-style-type: disc !important;
+}
+#editor-page-container .stackedit-content ul ul {
+  list-style-type: circle !important;
+}
+
+#editor-page-container .stackedit-content ol {
+  list-style-type: decimal !important;
+}
+
+#editor-page-container .stackedit-content ol ol {
+  list-style-type: lower-alpha !important;
+}
+#editor-page-container .stackedit-content ol ul {
+  list-style-type: circle !important;
+}
+#editor-page-container .stackedit-content h1 i,
+#editor-page-container .stackedit-content h2 i,
+#editor-page-container .stackedit-content h3 i,
+#editor-page-container .stackedit-content h4 i,
+#editor-page-container .stackedit-content h5 i,
+#editor-page-container .stackedit-content h6 i {
+  margin-right: 10px;
+  color: #307be7;
+}
+
+#editor-page-container .stackedit-content .form-group .stackedit-body {
+  padding: 0 0px;
+  text-align: justify;
+}
+#editor-page-container .form-check {
+  padding: 0 !important;
+  color: #307be7;
+  text-align: right;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .mt-40 {
+    margin-top: 0.5rem !important;
+  }
+  #editor-page-container .stackedit-content-scroll {
+    max-height: 250px;
+  }
+  #editor-page-container .top-title {
+    font-size: 18px;
+    line-height: 29px;
+  }
+
+  #editor-page-container .form-check {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  #editor-page-container .stackedit-content {
+    padding: 0 10px 20px !important;
+    text-align: justify;
+    width: 100%;
+    overflow: auto;
+  }
+  #editor-page-container .stackedit-content .form-group {
+    width: 100%;
+  }
+}
+
+#editor-page-container .form-check input {
+  margin-right: 10px;
+}
+
+.manhinhden {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: #000;
+}
+.manhinhden.show {
+  opacity: 0.6;
+}
+.manhinhden.fade {
+  transition: opacity 0.15s linear;
+}
+
+.parallax-intro-content {
+  background-image: url("../images/contact/blur-03.jpg");
+  height: 100%;
+  min-height: 200px;
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  transform: translate3d(0px, 0px, 0px);
+  width: 100%;
+}
+
+.parallax-patient-content {
+  background-image: url("../images/contact/blur-05.jpg");
+  height: 100%;
+  min-height: 200px;
+  background-attachment: fixed;
+  background-position: top center;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  transform: translate3d(0px, 0px, 0px);
+  width: 100%;
+}
+
+/* create login social */
+.wapper-social {
+  background: #ffffff;
+  padding: 15px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #1f1f22;
+}
+.wapper-social .card {
+  border: unset;
+  margin: 0;
+  padding: 0;
+}
+.wapper-social .card .card-body {
+  padding-bottom: 0;
+  padding-top: 15px;
+}
+.list-social-login {
+  text-align: center;
+}
+.btn-login-number {
+  background-image: linear-gradient(45deg, #06bff2 0%, #0b7df1 100%);
+  border-radius: 25.5px;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+  text-transform: none;
+  display: block;
+  width: 100%;
+  padding: 10px 12px;
+  font-weight: 500;
+}
+.btn-login-number:focus {
+  outline: none;
+}
+.mt-55 {
+  margin-top: 55px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.p-other {
+  margin: 15px 0;
+  text-align: center;
+  font-size: 14px;
+}
+.p-login-other {
+  margin: 0;
+  font-size: 14px;
+}
+.check-ok {
+  margin-right: 10px;
+}
+.list-social-login li {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px;
+}
+.list-social-login li button,
+.list-social-login li button:focus {
+  min-width: 38px;
+  outline: none;
+}
+.list-social-login li p {
+  font-size: 12px;
+  margin: 10px 0 0 0;
+}
+.list-social-login li.google p {
+  color: #ef5252;
+}
+.list-social-login li.google button {
+  background: #ef5252;
+}
+.list-social-login li.facebook p {
+  color: #3b5998;
+}
+.list-social-login li.email p {
+  color: #0056ff;
+}
